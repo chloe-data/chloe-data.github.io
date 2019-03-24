@@ -1,19 +1,24 @@
 ---
-title: "museum-visitors"
+title: "CONNECTING MUSEUM VISITORS"
 layout: post
 date: 2019-02-24 22:44
 image: /assets/images/museum/museumhall2.jpg
 headerImage: true
 tag:
-- markdown
-- elements
+- User research
+- Qualitative Data Analysis
+- Sketching
+- Wireframing
+- High-fidelity Prototyping
+- Usability Study
+projects: true
 star: true
-category: blog
-author: johndoe
-description: Markdown summary with different options
+category: project
+author: chloeng
+description: CaptionThis
 ---
 
-# CONNECTING MUSEUM VISITORS
+# End-to-end design project: Connecting museum visitors 
 <b>Project type: </b>
 
 Research -- Design -- Testing -- Final prototype 
@@ -30,6 +35,16 @@ Primary Researcher, Designer
 
 User research, qualitative data analysis, sketching, wireframing, hi-fi prototyping, usability study
 
+
+## Table of Contents
+- [User Research and Establishing Requirements](#user-research)
+- [Design Process](#design)
+- [Work Flow](#work-flow)
+- [Preliminary Design](#pre-design)
+- [Stage Design](#stage-design)
+- [Remarks](#remarks)
+
+<div class="breaker"></div> <a id="user-research"></a>
 ## User Research and Establishing Requirements
 
 ### Questionnaire
@@ -44,7 +59,7 @@ To begin to develop an understanding of our users’ needs, I constructed a ques
 In addition, I conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
 
 ### Analysing research data
-
+<div class="breaker"></div> <a id="design"></a>
 # DESIGN PROCESS 
 ## Ideation
 ## Parallel Prototyping
@@ -128,7 +143,7 @@ It's sometimes handy for breaking things up.
 Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
-![Markdowm Image][/image/url]
+![Markdowm Image][/images/url]
 {% endhighlight %}
 
 ![Markdowm Image][6]
@@ -136,7 +151,7 @@ Markdown can also contain images. I'll need to add something here sometime.
 *Figure Caption*?
 
 {% highlight raw %}
-![Markdowm Image][/image/museum/whiteboard.jpg]
+![Markdowm Image][/images/museum/whiteboard.jpg]
 <figcaption class="caption">My teammate and me organising questionnaire data.</figcaption>
 {% endhighlight %}
 
