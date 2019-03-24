@@ -2,7 +2,7 @@
 title: "museum-visitors"
 layout: post
 date: 2019-02-24 22:44
-image: /assets/images/projects/museumhall2.jpg
+image: /assets/images/museum/museumhall2.jpg
 headerImage: true
 tag:
 - markdown
@@ -13,36 +13,44 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## Basic formatting
+# CONNECTING MUSEUM VISITORS
+<b>Project type: </b>
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
+Research -- Design -- Testing -- Final prototype 
 
-And that's how to do it.
+<b>Team size: </b>
 
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+3 other graduate students (psychology, design, computer science) 
 
----
+<b>Role: </b>
 
-## Headings
+Primary Researcher, Designer 
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
+<b>Methods: </b>
 
-# Headings can be small
+User research, qualitative data analysis, sketching, wireframing, hi-fi prototyping, usability study
 
-## Headings can be small
+## User Research and Establishing Requirements
 
-### Headings can be small
+### Questionnaire
+60 responses from questionnaire
 
-#### Headings can be small
+To begin to develop an understanding of our users’ needs, I constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
 
-{% highlight raw %}
-# Heading
-## Heading
-### Heading
-#### Heading
-{% endhighlight %}
+
+### Interview and observation
+10 semi-structured interviews
+
+In addition, I conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
+
+### Analysing research data
+
+# DESIGN PROCESS 
+## Ideation
+## Parallel Prototyping
+## Usability Testing
+## Iterative Design
+## Final design
 
 ---
 
@@ -128,8 +136,8 @@ Markdown can also contain images. I'll need to add something here sometime.
 *Figure Caption*?
 
 {% highlight raw %}
-![Markdowm Image][/image/url]
-<figcaption class="caption">Photo by John Doe</figcaption>
+![Markdowm Image][/image/museum/whiteboard.jpg]
+<figcaption class="caption">My teammate and me organising questionnaire data.</figcaption>
 {% endhighlight %}
 
 ![Markdowm Image][6]
