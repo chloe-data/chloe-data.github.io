@@ -35,20 +35,20 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: https://twitter.com/chloenghy
+twitter: chloenghy
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: https://linkedin.com/in/chloenhy/
+ linkedin: chloenhy
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/chloenhy
+github: chloenhy
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: ibce.chloeng@gmail.com
@@ -56,16 +56,10 @@ email: ibce.chloeng@gmail.com
 authors:
     johndoe:
         name: Chloe NG
-        bio: A Man who travels the world eating noodles
+        bio: woohoo
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: chloenghy
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -81,7 +75,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
