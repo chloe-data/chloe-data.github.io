@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Chloe NG
+bio: Welcome to my page! I am a User Researcher, MSc student in Human-Computer Interaction at University College London.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A page of user research projects and interaction design.
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,16 +13,16 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/images/CV-ChloeNG.pdf
 
-url: https://koppl.in/indigo
+url: https://chloenhy.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+# analytics-google: 'UA-134814469-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,15 +34,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: https://twitter.com/chloenghy
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+ linkedin: https://linkedin.com/in/chloenhy/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/chloenhy
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,11 +51,11 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ibce.chloeng@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Chloe NG
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
