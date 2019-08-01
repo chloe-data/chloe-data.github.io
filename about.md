@@ -4,7 +4,17 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Currently, I am a MSc researcher in Human-computer interaction at UCL. I enjoy conducting research to uncover user need, assess usability and generate actionable insights. I'm also the Tech Officer at <a href = 'http://www.uclmed.tech/' target="_blank">UCL MedTech</a> where I was a mentor in <a href = 'https://pulsehack.io/' target="_blank">PulseHack</a>, a health technology hackathon co-organised by UCL MedTech and MIT hackathon team. As well, I'm the Education Officer at <a href = 'https://www.facebook.com/londonblockchainlabs/' target="_blank">London Blockchain Lab</a>.
+<p>During my time at UCL, I was a MSc researcher in Human-Computer Interaction,
+          the Tech Officer at <a href = 'http://www.uclmed.tech/' target="_blank">UCL MedTech</a> & the Education
+          Officer at <a href = 'https://www.facebook.com/londonblockchainlabs/' target="_blank">London Blockchain Lab</a>.
+        </p>
+        <p>Some of the projects I have done
+          include designing research to study the impact of automobile
+          voice interface usage on driver stress, qualitative and  quantitative (lab experiment) data analysis as well as
+          a group project to design visitor experience in museum.
+        </p>
+        <p> Besides study, I especially love the student activities in London universities.
+           I was a mentor in <a href = 'https://pulsehack.io/' target="_blank">PulseHack</a>, a health technology hackathon co-organised by UCL MedTech and MIT hackathon team. I also helped out in MedTech conferences.
         </p>
 
 <h2>Skills</h2>
