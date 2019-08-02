@@ -1,7 +1,7 @@
 ---
 title: "CONNECTING MUSEUM VISITORS"
 layout: post
-date: 2019-02-24 22:44
+date: 2018-11-24 22:44
 image: /assets/images/museum/museumhall2.jpg
 headerImage: true
 tag:
@@ -11,8 +11,10 @@ tag:
 - Wireframing
 - High-fidelity Prototyping
 - Usability Study
+- Interview
+- Observation
 projects: true
-star: true
+star: false
 category: project
 author: chloeng
 description: CaptionThis
