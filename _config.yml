@@ -1,5 +1,5 @@
 # main text of home
-name: Chloe NG 
+name: Chloe NG
 bio: Welcome to my page! I am a User Researcher, MSc student in Human-Computer Interaction at University College London.
 
 # twitter summary info
@@ -29,9 +29,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-#disqus:
-  #shortname: mydisqus # enter this from your disqus account
-  #categories: [blog, project] # only show disqus for posts that have these categories
+disqus:
+  shortname: chloenhy-github-io # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -65,7 +65,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5

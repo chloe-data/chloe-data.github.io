@@ -36,20 +36,6 @@ Despite the importance of user perception of rehabilitative devices, few studies
 <img alt="twit" src="https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png" style="width:50%;height:auto;display: block;
   margin-left: auto;
   margin-right: auto;"/>
-
+<figcaption class="caption">source: https://twitter.com/IxDALondon/status/1156644106992590848</figcaption>
 * As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html" target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
-
-
-
 ---
----
-
-
-
-
-[1]: http://daringfireball.net/projects/markdown/
-[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: http://www.markitdown.net/
-[4]: http://daringfireball.net/projects/markdown/basics
-[5]: http://daringfireball.net/projects/markdown/syntax
-[6]: https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png
