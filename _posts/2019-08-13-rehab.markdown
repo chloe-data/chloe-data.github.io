@@ -1,0 +1,55 @@
+---
+title: "Mixed-method UX Study of Rehab Robotics"
+layout: post
+date: 2019-08-13 22:00
+image: /assets/images/rehab/hand.jpg
+headerImage: false
+tag:
+- Mixed-method
+- Usability Study
+- Interview
+- Questionnaires
+- Accessibility
+- Rehabilitation
+
+projects: true
+star: false
+category: project
+author: chloeng
+description: Rehab Robotics
+---
+
+### User perspectives on Robotics for Post-stroke Hand Rehabilitation
+<b>Project type: </b> User Research and Design Implication
+
+<b>Team size: </b>       Individual project
+
+<b>Role: </b> Researcher
+
+<b>Methods: </b> Validated questionnaires, interview, thematic analysis
+
+### Abstract
+Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. In this preliminary study, we investigate the user perception of an exoskeleton robotic device for post-stroke hand rehabilitation. Through semi-structured interviews and questionnaires, we gathered opinions from stroke patients, caregivers and biomedical researchers in terms of the subjective perception for the robotic device. Our results show split attitudes across stakeholders. This is especially important for portable or home-based device in which user motivation and perceived effectiveness play a large role in the rehabilitation journey.
+### Update
+* In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!
+
+<img alt="twit" src="https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png" style="width:50%;height:auto;display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
+
+* As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html" target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
+
+
+
+---
+---
+
+
+
+
+[1]: http://daringfireball.net/projects/markdown/
+[2]: http://www.fileformat.info/info/unicode/char/2163/index.htm
+[3]: http://www.markitdown.net/
+[4]: http://daringfireball.net/projects/markdown/basics
+[5]: http://daringfireball.net/projects/markdown/syntax
+[6]: https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png
