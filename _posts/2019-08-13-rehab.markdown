@@ -37,5 +37,7 @@ Despite the importance of user perception of rehabilitative devices, few studies
   margin-left: auto;
   margin-right: auto;"/>
 <figcaption class="caption">source: https://twitter.com/IxDALondon/status/1156644106992590848</figcaption>
-* As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html" target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
+
+* As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
+
 ---
