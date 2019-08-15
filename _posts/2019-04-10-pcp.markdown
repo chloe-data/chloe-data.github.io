@@ -1,0 +1,34 @@
+---
+title: "[Design] Interactive tangible prototype"
+layout: post
+date: 2019-05-01 22:00
+image: /assets/images/rehab/hand.jpg
+headerImage: false
+tag:
+- proof-of-concept
+- physical prototype
+- 3d print
+- laser cut
+- electronics
+- arduino
+
+projects: true
+star: false
+category: project
+author: chloeng
+description: Blending traditional pranayama practice with sensor and actuators.
+---
+
+### User perspectives on Robotics for Post-stroke Hand Rehabilitation
+<b>Project type: </b> Physical Prototyping
+
+<b>Team size: </b> Individual project
+
+<b>Role: </b> Product owner
+
+<b>Methods: </b> Arduino, sketching, 3D printing, laser cutting
+
+### Abstract
+D
+
+---

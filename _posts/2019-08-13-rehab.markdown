@@ -1,5 +1,5 @@
 ---
-title: "Mixed-method UX Study of Rehab Robotics"
+title: "[Paper] Mixed-method UX Study of Rehab Robotics"
 layout: post
 date: 2019-08-13 22:00
 image: /assets/images/rehab/hand.jpg
@@ -20,9 +20,9 @@ description: Rehab Robotics
 ---
 
 ### User perspectives on Robotics for Post-stroke Hand Rehabilitation
-<b>Project type: </b> User Research and Design Implication
+<b>Project type: </b> User Research and Implication for Design
 
-<b>Team size: </b>       Individual project
+<b>Team size: </b> Individual project
 
 <b>Role: </b> Researcher
 

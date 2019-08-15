@@ -1,5 +1,5 @@
 ---
-title: "Connecting Solo Museum Visitors"
+title: "[E2E Design] Connecting Solo Museum Visitors"
 layout: post
 date: 2018-11-24 22:44
 image: /assets/images/museum/museumhall2.jpg
