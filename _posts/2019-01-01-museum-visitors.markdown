@@ -19,7 +19,7 @@ category: project
 author: chloeng
 description: CaptionThis
 ---
-
+<div class="breaker"></div> <a id="home"></a>
 # End-to-end design project: Connecting museum visitors
 <b>Project type: </b>
 
@@ -39,12 +39,10 @@ User research, qualitative data analysis, sketching, wireframing, hi-fi prototyp
 
 
 ## Table of Contents
-- [User Research and Establishing Requirements](#user-research)
+- [User Research](#user-research)
 - [Design Process](#design)
-- [Work Flow](#work-flow)
-- [Preliminary Design](#pre-design)
-- [Stage Design](#stage-design)
-- [Remarks](#remarks)
+- [Usability Testing](#usability-testing)
+- [Final Design](#final-design)
 
 <div class="breaker"></div> <a id="user-research"></a>
 ## 1 User Research and Establishing Requirements
@@ -87,6 +85,8 @@ Some of the key ideas that emerged were:
 > * Experiences are currently shared through discussions, social media, and pictures.
 > * One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
 
+[Back to Top](#home)
+
 <div class="breaker"></div> <a id="design"></a>
 ## Design Process
 Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
@@ -107,6 +107,9 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 ![Markdown Image][6]
 <figcaption class="caption">Some wireframes, storyboard and mockups I created.</figcaption>
 
+[Back to Top](#home)
+
+<div class="breaker"></div> <a id="usability-testing"></a>
 ### Usability Testing
 ![Markdown Image][7]
 ![Markdown Image][8]
@@ -118,6 +121,9 @@ The response for choosing between continuous scrolling and tab node was mixed. S
 
 Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
 
+[Back to Top](#home)
+
+<div class="breaker"></div> <a id="final-design"></a>
 ## Final design
 
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
@@ -127,6 +133,7 @@ The constructive and positive feedback from our participants were encouraging. F
 <figcaption class="caption">Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
 
+[Back to Top](#home)
 ---
 [1]: https://chloenhy.github.io/assets/images/museum/whiteboard.jpg
 [2]: https://chloenhy.github.io/assets/images/museum/museumhall2.jpg
