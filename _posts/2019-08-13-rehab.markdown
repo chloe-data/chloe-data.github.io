@@ -30,7 +30,7 @@ description: Rehab Robotics
 
 <img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
 ### Background
-Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. This is especially important for portable or home-based device in which user <b> motivation </b> and <b> perceived effectiveness </b> play a large role in the rehabilitation journey. In this preliminary study, I aim <b>to elicit user perception of a post-stroke rehabilitation device</b>.
+Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user <b> motivation </b> and <b> perceived effectiveness </b> play a large role in the rehabilitation journey. In this preliminary study, I aim <b>to elicit user perception of a post-stroke rehabilitation device</b>.
 
 ### Research details
 * I recruited 2 stroke patients, 2 caregivers, and 2 domain experts (biomedical/rehabilitative engineering for neurological conditions), to encompass multiple different perspectives.
