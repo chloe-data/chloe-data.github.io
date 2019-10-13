@@ -1,5 +1,5 @@
 ---
-title: "[Paper] Mixed-method UX Study of Stroke Rehab Robotics"
+title: "[Research] Mixed-method UX Study of Stroke Rehab Robotics"
 layout: post
 date: 2019-08-13 22:00
 image: /assets/images/rehab/hand.jpg
@@ -8,7 +8,7 @@ tag:
 - Accessibility
 - Usability Study
 - Semi-structured Interview
-- Validated Questionnaires
+- Questionnaires
 - Mixed-method
 - Rehabilitation
 
@@ -20,7 +20,7 @@ description: Rehab Robotics
 ---
 
 ## User perspectives on Robotics for Post-stroke Hand Rehabilitation
-<b>Project type: </b> User Research and Implication for Design
+<b>Project type: </b> Mixed-method User Research
 
 <b>Team size: </b> Individual project
 
@@ -30,6 +30,8 @@ description: Rehab Robotics
 
 <img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
 ### Background
+As a digital health advocate, I am interested in the need of healthcare 'users' and how technology can help promote a healthier lifestyle. I took advantage of one of my modules in accessibility and assistive technology here to study the need of user research in personal health.
+
 Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user <b> motivation </b> and <b> perceived effectiveness </b> play a large role in the rehabilitation journey. In this preliminary study, I aim <b>to elicit user perception of a post-stroke rehabilitation device</b>.
 
 ### Research details
