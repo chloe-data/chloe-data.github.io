@@ -1,5 +1,5 @@
 ---
-title: "[Research Proposal] Voice-interface training in simulated driving"
+title: "[Research] Voice-interface training in simulated driving"
 layout: post
 date: 2018-10-24 22:44
 image: /assets/images/IxSci/drive.jpg
