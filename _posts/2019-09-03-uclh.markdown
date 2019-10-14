@@ -1,0 +1,78 @@
+---
+title: "[Research] Mixed-method UX Study of Stroke Rehab Robotics"
+layout: post
+date: 2019-08-13 22:00
+image: /assets/images/rehab/hand.jpg
+headerImage: false
+tag:
+- Accessibility
+- Usability Study
+- Semi-structured Interview
+- Questionnaires
+- Mixed-method
+- Rehabilitation
+
+projects: true
+star: false
+category: project
+author: chloeng
+description: Rehab Robotics
+---
+
+## User perspectives on Robotics for Post-stroke Hand Rehabilitation
+<b>Project type: </b> Mixed-method User Research
+
+<b>Team size: </b> Individual project
+
+<b>Role: </b> Researcher
+
+<b>Methods: </b> Validated questionnaires, semi-structured interviews, thematic analysis
+
+<img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
+### Background
+As a digital health advocate, I am interested in the need of healthcare 'users' and how technology can help promote a healthier lifestyle. I took advantage of one of my modules in accessibility and assistive technology here to study the need of user research in personal health.
+
+Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user <b> motivation </b> and <b> perceived effectiveness </b> play a large role in the rehabilitation journey. In this preliminary study, I aim <b>to elicit user perception of a post-stroke rehabilitation device</b>.
+
+### Research details
+* I recruited 2 stroke patients, 2 caregivers, and 2 domain experts (biomedical/rehabilitative engineering for neurological conditions), to encompass multiple different perspectives.
+
+* A rehab device called HandyRehab were used in this study. It consists of a wearable robotic exoskeleton (Figure 1) and a Myo armband (Figure 2). The device <b> detects movement intention through sEMG sensors </b> on the armband.
+
+* A concern for past user experience research in rehabilitative device is that, researchers tailor-made questionnaires for quantitative user-subjective evaluation. It is therefore hard to generate a comparable view across robotic devices of similar functions in later research. I used the modified version of <b>Credibility/Expectancy</b> and <b>Intrinsic Motivation Inventory</b> questionnaires to assess users’ subjective opinions.
+
+### Findings
+Due to privacy of participant data and publication, I summarized some major findings here.
+For questionnaire data, descriptive statistics were determined.
+
+* The results highlight a dichotomy between stroke patients/caregivers and domain experts.
+* From the CEQ, we learnt that both stroke patients and caregivers considered the device as credible and expected hand dexterity improvements from using the device.
+* In contrast, domain experts did not see the device as credible and useful to improve impaired hand motor function.
+* We postulated the reason to be that participants’ feedback for the device is associated with their previous experience with rehabilitative device.
+
+For interview data, audio recordings were transcribed and analyzed using inductive thematic analysis by Braun and Clarke.
+
+The four themes emerged were:
+* <b>Perceived Efficacy</b> - Participants were able to propose use case scenarios to put the device in the context of patient daily life.
+
+* <b>Combining device usage with current physiotherapies and ADL</b> - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.
+
+* <b>Negative feedback for the exoskeleton mechanism</b> -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.
+
+* <b>Weight and Appearance</b> - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.
+
+### Lessons learnt
+Overall, we observe that <b>having stroke patients and caregivers in subjective evaluation is crucial</b> as it might yield differing views from domain experts. The findings could <b>inform future design iteration of the device</b>. Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides <b>a reference point for future research in subjective evaluation of rehabilitative device</b>. There are also several caveats of this study: due to the limited sample size of participants, <b>results lack generalizability</b>. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. <b>Stricter inclusion criteria are also needed </b> to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.
+
+//Through semi-structured interviews and questionnaires, I gathered opinions from stroke patients, caregivers and biomedical researchers in terms of the subjective perception for the robotic device. Our results show split attitudes across stakeholders.
+### Update
+* In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!
+
+<img alt="twit" src="https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png" style="width:50%;height:auto;display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
+<figcaption class="caption">source: https://twitter.com/IxDALondon/status/1156644106992590848</figcaption>
+
+* As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
+
+---
