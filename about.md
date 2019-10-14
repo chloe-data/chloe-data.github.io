@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img class="image" src="http://localhost:4000/assets/images/about/IxDA1.png" alt="Alt Text">
+<img class="image" src="http://localhost:4000/assets/images/about/IxDA1.png" alt="Speaking at IxDA">
 <figcaption class="caption"> </figcaption>
 
 <h2>User Researcher</h2>

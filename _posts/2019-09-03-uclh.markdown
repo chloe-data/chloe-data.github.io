@@ -16,7 +16,7 @@ author: chloeng
 description: User research at ICU
 ---
 
-## User perspectives on Robotics for Post-stroke Hand Rehabilitation
+## Realtime Patient Data Dashboard at the ICU
 <b>Project type: </b> Mixed-method User Research
 
 <b>Team size: </b> A team of 6 from psychology, computer science and UI design backgrounds
@@ -25,12 +25,12 @@ description: User research at ICU
 
 <b>Methods: </b> Field visit, semi-structured interview, thematic analysis, low to medium fidelity prototyping
 
-<img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/ICU/uclh1.jpg" />
+<img alt="dashboard" src="https://chloenhy.github.io/assets/images/ICU/uclh1.jpg" />
 ### Background
 In this project, I took on the front role of interviewing one of the major user groups for patient data dashboard.
 
 ### Findings
-* <b>Weight and Appearance</b> - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.
+*
 
 ### What did I learn
 
