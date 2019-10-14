@@ -36,13 +36,7 @@ In this project, I took on the front role of interviewing one of the major user 
 
 
 ### Update
-* After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an 'outsider' could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings. 
+* After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an 'outsider' could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.
 
-<img alt="twit" src="https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png" style="width:50%;height:auto;display: block;
-  margin-left: auto;
-  margin-right: auto;"/>
-<figcaption class="caption">source: https://twitter.com/IxDALondon/status/1156644106992590848</figcaption>
-
-* As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊
 
 ---
