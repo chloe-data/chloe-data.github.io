@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<img class="image" src="http://localhost:4000/assets/images/profile.jpg" alt="Alt Text">
+<img class="image" src="http://localhost:4000/assets/images/about/IxDA1.png" alt="Alt Text">
 <figcaption class="caption"> </figcaption>
 
 <h2>User Researcher</h2>
@@ -21,13 +21,15 @@ I am very excited to learn new technologies and to solve design problem through 
 ### Contact
 ucjungx@ucl.ac.uk
 <br>
-<a href = 'http://www.uclmed.tech/' target="_blank" >LinkedIn</a>
 <br>
+<br>
+<a href = 'http://www.uclmed.tech/' target="_blank" >LinkedIn</a>
+<br><br>
 <br>
 ### Interest
 Kudalini Yoga
 <br>
-<br>
+<br><br>
 ### Where I worked and studied
 <b>London, UK </b><br>
 San Jose, CA<br>
