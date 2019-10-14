@@ -25,7 +25,7 @@ description: User research at ICU
 
 <b>Methods: </b> Field visit, semi-structured interview, thematic analysis, low to medium fidelity prototyping
 
-<img alt="dashboard" src="https://chloenhy.github.io/assets/images/ICU/uclh1.jpg" />
+<img alt="dashboard" src="https://chloenhy.github.io/assets/images/ICU/uclh1.png" />
 ### Background
 In this project, I took on the front role of interviewing one of the major user groups for patient data dashboard.
 
