@@ -15,3 +15,22 @@ Apart from research, I am also an active member in the tech space as a health te
 I previously worked in user research and product management in the technology industry. As a product intern for a data logging enterprise software, I led my team's presence in conferences to present the product to users and vendors. I also co-hosted workshops teaching users to interact with the software. <b>These experiences enable me to communicate concisely with both engineers and designers.</b>
 
 I am very excited to learn new technologies and to solve design problem through research.
+<br>
+<br>
+<br>
+### Contact
+ucjungx@ucl.ac.uk
+<br>
+<a href = 'http://www.uclmed.tech/' target="_blank" >LinkedIn</a>
+<br>
+<br>
+### Interest
+Kudalini Yoga
+<br>
+<br>
+### Where I worked and studied
+<b>London, UK </b><br>
+San Jose, CA<br>
+Beijing, China<br>
+Columbia, SC<br>
+Hong Kong<br>
