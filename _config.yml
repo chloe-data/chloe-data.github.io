@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/images/about/CV-ChloeNG.pdf
+resume-url: assets/images/about/CV-ChloeNg.pdf, target="_blank"
 
 url: https://chloenhy.github.io
 # your url: http://USERNAME.github.io

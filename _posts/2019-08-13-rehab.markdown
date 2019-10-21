@@ -24,15 +24,34 @@ description: Rehab Robotics
 
 <b>Team size: </b> Individual project
 
-<b>Role: </b> Researcher
+<b>My role: </b> Researcher
 
 <b>Methods: </b> Validated questionnaires, semi-structured interviews, thematic analysis
 
 <img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
-### Background
-As a digital health advocate, I am interested in the need of healthcare 'users' and how technology can help promote a healthier lifestyle. I took advantage of one of my modules in accessibility and assistive technology here to study the need of user research in personal health.
+# O V E R V I E W
+### Challenge
+In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, "home-based" also means that the effectiveness of exercise rely largely on patients' motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. <span class="evidence">Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation</span>.
 
-Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user <b> motivation </b> and <b> perceived effectiveness </b> play a large role in the rehabilitation journey. In this preliminary study, I aim <b>to elicit user perception of a post-stroke rehabilitation device</b>.
+### Research Approach
+I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.
+
+<span class="evidence">I combined in-depth interviews with participants and quantitative measures</span> from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study. <span class="evidence"> Results help
+understand which factors each stakeholders prioritize for a rehab robotics, and revealed split attitudes across stakeholders</span>.
+
+### Research Deliverables
+[The findings of the study will be presented together with my learnings in the Research Process section.]
+
+
+
+I consider this project to be a success To me, one of the biggest achievements in this project is that I introduced a robotic device that allows patients and carers to use anytime, anywhere, to my participants. I could see amusement and hope in the eyes of some of the participants as I explained the function of the device, which in turn motivated me to continue with this project despite the tight timeline and other obstacles.
+
+ focus on understanding perception, motivation and perceived efficacy of rehab robotics.
+
+### Research Design
+
+### Results
+
 
 ### Research details
 * I recruited 2 stroke patients, 2 caregivers, and 2 domain experts (biomedical/rehabilitative engineering for neurological conditions), to encompass multiple different perspectives.

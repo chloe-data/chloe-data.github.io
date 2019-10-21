@@ -1,17 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-14T14:44:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-21T23:16:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; Researcher&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Researcher&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
-&lt;p&gt;As a digital health advocate, I am interested in the need of healthcare ‘users’ and how technology can help promote a healthier lifestyle. I took advantage of one of my modules in accessibility and assistive technology here to study the need of user research in personal health.&lt;/p&gt;
+&lt;h1 id=&quot;o-v-e-r-v-i-e-w&quot;&gt;O V E R V I E W&lt;/h1&gt;
+&lt;h3 id=&quot;challenge&quot;&gt;Challenge&lt;/h3&gt;
+&lt;p&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/p&gt;
 
-&lt;p&gt;Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user &lt;b&gt; motivation &lt;/b&gt; and &lt;b&gt; perceived effectiveness &lt;/b&gt; play a large role in the rehabilitation journey. In this preliminary study, I aim &lt;b&gt;to elicit user perception of a post-stroke rehabilitation device&lt;/b&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h3&gt;
+&lt;p&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;I combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study. &lt;span class=&quot;evidence&quot;&gt; Results help
+understand which factors each stakeholders prioritize for a rehab robotics, and revealed split attitudes across stakeholders&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;research-deliverables&quot;&gt;Research Deliverables&lt;/h3&gt;
+&lt;p&gt;[The findings of the study will be presented together with my learnings in the Research Process section.]&lt;/p&gt;
+
+&lt;p&gt;I consider this project to be a success To me, one of the biggest achievements in this project is that I introduced a robotic device that allows patients and carers to use anytime, anywhere, to my participants. I could see amusement and hope in the eyes of some of the participants as I explained the function of the device, which in turn motivated me to continue with this project despite the tight timeline and other obstacles.&lt;/p&gt;
+
+&lt;p&gt;focus on understanding perception, motivation and perceived efficacy of rehab robotics.&lt;/p&gt;
+
+&lt;h3 id=&quot;research-design&quot;&gt;Research Design&lt;/h3&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
 
 &lt;h3 id=&quot;research-details&quot;&gt;Research details&lt;/h3&gt;
 &lt;ul&gt;
@@ -71,80 +87,30 @@ For questionnaire data, descriptive statistics were determined.&lt;/p&gt;
   &lt;li&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility Student Research Competition. 😊&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Research + Design] Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="[Research + Design] Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; Researcher&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; User Researcher, Designer&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, low to medium fidelity prototyping&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;dashboard&quot; src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
-&lt;p&gt;As a digital health advocate, I am interested in the need of healthcare ‘users’ and how technology can help promote a healthier lifestyle. I took advantage of one of my modules in accessibility and assistive technology here to study the need of user research in personal health.&lt;/p&gt;
-
-&lt;p&gt;Despite the importance of user perception of rehabilitative devices, few studies have been done to understand patients’ subjective experience in robot-assisted rehabilitation. User perception is especially important for portable or home-based device because user &lt;b&gt; motivation &lt;/b&gt; and &lt;b&gt; perceived effectiveness &lt;/b&gt; play a large role in the rehabilitation journey. In this preliminary study, I aim &lt;b&gt;to elicit user perception of a post-stroke rehabilitation device&lt;/b&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;research-details&quot;&gt;Research details&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I recruited 2 stroke patients, 2 caregivers, and 2 domain experts (biomedical/rehabilitative engineering for neurological conditions), to encompass multiple different perspectives.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A rehab device called HandyRehab were used in this study. It consists of a wearable robotic exoskeleton (Figure 1) and a Myo armband (Figure 2). The device &lt;b&gt; detects movement intention through sEMG sensors &lt;/b&gt; on the armband.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A concern for past user experience research in rehabilitative device is that, researchers tailor-made questionnaires for quantitative user-subjective evaluation. It is therefore hard to generate a comparable view across robotic devices of similar functions in later research. I used the modified version of &lt;b&gt;Credibility/Expectancy&lt;/b&gt; and &lt;b&gt;Intrinsic Motivation Inventory&lt;/b&gt; questionnaires to assess users’ subjective opinions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In this project, I took on the front role of interviewing one of the major user groups for patient data dashboard.&lt;/p&gt;
 
 &lt;h3 id=&quot;findings&quot;&gt;Findings&lt;/h3&gt;
-&lt;p&gt;Due to privacy of participant data and publication, I summarized some major findings here.
-For questionnaire data, descriptive statistics were determined.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;The results highlight a dichotomy between stroke patients/caregivers and domain experts.&lt;/li&gt;
-  &lt;li&gt;From the CEQ, we learnt that both stroke patients and caregivers considered the device as credible and expected hand dexterity improvements from using the device.&lt;/li&gt;
-  &lt;li&gt;In contrast, domain experts did not see the device as credible and useful to improve impaired hand motor function.&lt;/li&gt;
-  &lt;li&gt;We postulated the reason to be that participants’ feedback for the device is associated with their previous experience with rehabilitative device.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
 
-&lt;p&gt;For interview data, audio recordings were transcribed and analyzed using inductive thematic analysis by Braun and Clarke.&lt;/p&gt;
-
-&lt;p&gt;The four themes emerged were:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;lessons-learnt&quot;&gt;Lessons learnt&lt;/h3&gt;
-&lt;p&gt;Overall, we observe that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/p&gt;
-
-&lt;p&gt;//Through semi-structured interviews and questionnaires, I gathered opinions from stroke patients, caregivers and biomedical researchers in terms of the subjective perception for the robotic device. Our results show split attitudes across stakeholders.&lt;/p&gt;
 &lt;h3 id=&quot;update&quot;&gt;Update&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who’s passionate about HCI in healthcare!&lt;/li&gt;
+  &lt;li&gt;After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an ‘outsider’ could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img alt=&quot;twit&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/IxDAevent-rehab.png&quot; style=&quot;width:50%;height:auto;display: block;   margin-left: auto;   margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;source: https://twitter.com/IxDALondon/status/1156644106992590848&lt;/figcaption&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility Student Research Competition. 😊&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Design] Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="[Design] Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">[Design] Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="[Design] Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
