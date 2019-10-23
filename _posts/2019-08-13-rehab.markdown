@@ -40,7 +40,7 @@ I designed a preliminary study aiming to elicit user perception of a post-strok
 
 I <span class="evidence">combined in-depth interviews with participants and quantitative measures</span> from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help <span class="evidence">understand which factors each stakeholders prioritize for a rehab robotics</span>, and revealed split attitudes across stakeholders.
 
-<img src="https://chloenhy.github.io/assets/images/rehab/combined.jpg"/>
+<img src="https://chloenhy.github.io/assets/images/rehab/combined.png"/>
 <figcaption class="caption">Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).</figcaption>
 ##### Findings
 * The results highlight a <b>dichotomy</b> between stroke patients/caregivers and domain experts.
