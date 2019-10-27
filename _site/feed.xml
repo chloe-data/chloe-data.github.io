@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-23T17:42:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-23T18:17:07+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -19,8 +19,12 @@
 
 &lt;p&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
 &lt;h5 id=&quot;findings&quot;&gt;Findings&lt;/h5&gt;
 &lt;ul&gt;
   &lt;li&gt;
@@ -50,15 +54,17 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/p&gt;
-    &lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
-    &lt;p&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; -
-To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; -
+To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
 Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/p&gt;
-&lt;h5 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h5&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 &lt;p&gt;Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/p&gt;
 
 &lt;p&gt;Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/p&gt;
@@ -82,7 +88,8 @@ Due to the specificity of the recruitment screener and time constraint (finishin
     &lt;div class=&quot;toright&quot;&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Research + Design] Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="[Research + Design] Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+&lt;div class=&quot;breaker&quot;&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Research + Design] Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="[Research + Design] Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
