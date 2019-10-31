@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-31T15:25:39+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-31T15:38:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -94,26 +94,28 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; User Researcher, Designer&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; User Researcher&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, low to medium fidelity prototyping&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, contextual enquiry&lt;/p&gt;
 
 &lt;figure&gt;&lt;img alt=&quot;dashboard&quot; src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; /&gt;
 &lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
-&lt;p&gt;In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to inform different stakeholders the real-time data they need for better patient care in the intensive care unit.&lt;/p&gt;
+&lt;p&gt;In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, and therefore better patient care at the intensive care unit.&lt;/p&gt;
 
-&lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for testing. I worked with a UX designer and another researcher for the field work to understand how well the existing prototype address the user need.&lt;/p&gt;
+&lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.s&lt;/p&gt;
 
 &lt;h3 id=&quot;my-contribution&quot;&gt;My contribution&lt;/h3&gt;
-&lt;p&gt;I took on the front role of interviewing one of the major user groups for patient data dashboard.&lt;/p&gt;
+&lt;p&gt;I took on the role to interview one of the major user groups for patient data dashboard - junior doctor.&lt;/p&gt;
+
+&lt;p&gt;I prepared my part of questions curated from&lt;/p&gt;
 
 &lt;h3 id=&quot;findings&quot;&gt;Findings&lt;/h3&gt;
 &lt;p&gt;*&lt;/p&gt;
 
 &lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
 
-&lt;h3 id=&quot;update&quot;&gt;Update&lt;/h3&gt;
+&lt;h3 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an ‘outsider’ could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.&lt;/li&gt;
 &lt;/ul&gt;

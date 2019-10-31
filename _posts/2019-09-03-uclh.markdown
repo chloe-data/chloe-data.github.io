@@ -21,19 +21,21 @@ description: User research at ICU
 
 <b>Team size: </b> A team of 6 from psychology, computer science and UI design backgrounds
 
-<b>Role: </b> User Researcher, Designer
+<b>My role: </b> User Researcher
 
-<b>Methods: </b> Field visit, semi-structured interview, thematic analysis, low to medium fidelity prototyping
+<b>Methods: </b> Field visit, semi-structured interview, thematic analysis, contextual enquiry
 
 <figure><img alt="dashboard" src="https://chloenhy.github.io/assets/images/ICU/uclh1.png"/>
 <figcaption>The physical dashboard that is currently used at the ICU.</figcaption></figure>
 ### Background
-In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to inform different stakeholders the real-time data they need for better patient care in the intensive care unit.
+In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, and therefore better patient care at the intensive care unit.
 
-This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for testing. I worked with a UX designer and another researcher for the field work to understand how well the existing prototype address the user need.
+This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.s
 
 ### My contribution
-I took on the front role of interviewing one of the major user groups for patient data dashboard.
+I took on the role to interview one of the major user groups for patient data dashboard - junior doctor.
+
+I prepared my part of questions curated from
 
 ### Findings
 *
@@ -41,7 +43,7 @@ I took on the front role of interviewing one of the major user groups for patien
 ### What did I learn
 
 
-### Update
+### Outcome and Deliverables 
 * After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an 'outsider' could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.
 
 
