@@ -25,34 +25,85 @@ description: User research at ICU
 
 <b>Methods: </b> Field visit, semi-structured interview, thematic analysis, contextual enquiry
 
-<img alt="dashboard" src="https://chloenhy.github.io/assets/images/ICU/uclh1.png"/>
-
+![Markdowm Image][1]
 <figcaption>The physical dashboard that is currently used at the ICU.</figcaption>
 ### Background
-In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).
+In this project, <span class="evidence">I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).</span>
 
 This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.
 
+
+
+![Markdowm Image][2]
+<figcaption>The first prototype of the patient data dashboard for usability testing. All data are fictional.</figcaption>
+
+<div class="breaker"></div>
+
 ### Research approach
-I used semi-structured interview with a junior doctor in this study.
-Semi-structured interview is a common qualitative research approach in health services to gain deeper insights into subjective perspectives. Interviewing users allow me to understand the user workflow and mental models flexibly. I followed a prepared interview protocol to ask the doctor question under different themes of concern. I was able to ask follow-up questions right away as the interviewer raised new areas of concern. The fact that we were conducting the interview at an open corridor at the ICU (initially a constraint due to the doctor's tight schedule) allow interaction with staff passing by.
+I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study.
 
-### My contribution
-I took on the role to interview one of the major user groups for patient data dashboard - junior doctor. I
+Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. <span class="evidence">Interviewing users allows me to understand the user workflow and mental models flexibly. Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-ip questions on the new ideas raised by the interviewee. Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.</span>
 
+<span class="evidence">The fact that we were conducting the interview at an open corridor at the ICU, though initially a constraint due to the doctor's tight schedule, as well encouraged interaction with the staff who passed by.</span> This not only made the interview process more relaxing, but also sparked discussion surrounding the use of dashboard and general opinions among other staff members.
 
-During the analysis, I suggested using the <i>a day in the life of junior doctor</i> as a way to present the user journey in a concise way. I extracted significant timestamps from the work that the doctor does in a "typical" day, a "good" day, and a "bad" day to formulate the timeline.
-
-![Markdowm Image][1]{: class="bigger-image"}
-
-
+As the interviewee explained the difficulty around patient information retrieval, I observed the entire workflow of getting the heart rate of one patient at the existing  Intensive Care Information Platform (ICIP).
 
 <div class="breaker"></div>
 
 ### Findings
-After the thematic analysis of interview transcription, a few themes emerged.
+During the analysis, I represented the user journey as <i>a day in the life of junior doctor</i> in a concise way. I extracted significant timestamps from the work that the doctor does in a "typical" day, a "good" day, and a "bad" day to formulate the timeline.
+Each timestamp represent a point of interaction with the dashboard.
+![Markdowm Image][3]{: class="bigger-image"}
+
+
+A few themes emerged after the thematic analysis of interview transcription.
+
+#### Target metrics
+
+<span class="evidence">Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients' progress collectively</span>, in contrast to what a nurse would prefer, i.e. to go through each patient individually.
+
+<span class="evidence">Target metrics that the existing prototype lacks:</span>
+* Antibiotic taken
+* Time last taken
+* Urine output
+* Length of Stay
+* Average temperature
+* Heart rate
+* No. of patients being ventilated
+
+
+
+#### User Interface
+
+<span class="evidence">The map visualization of the ICU (Figure 5) was particularly appreciated since it fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.</span>
+
+
+<span class="evidence">However, the doctor was confused about how to navigate back to the main page as well as the meanings of different colors on the map.</span>
+
+![Markdowm Image][4]{: class="bigger-image"}
+<figcaption>The map views with different color coding.</figcaption>
+
+#### Dashboard location and Access control
 
 The current dashboard prototype is located at the corridor outside the staff rest room. Although it is located within the Unit, that is only staff, patients, and relatives would be able to
+
+#### Potential risks
+
+<b>Staff morality</b>
+
+
+<b>Data safety</b>
+
+
+
+Firstly, the doctor emphasized the advantage of the current prototype when showing the information retrieval workflow
+in the Intensive Care Information Platform (ICIP). Five separate steps had to be taken to reach the blood pressure value of one patient on the spreadsheet interface. At the
+time, it was quite shocking to me witnessing the inefficiencies and cumbersome spreadsheet system in a complex, data-loaded hospital working environment.
+
+The doctor also pointed out a few aspects related to usability.
+
+
+
 Concerns on the dashboard location and access control
 > <i>If it [the dashboard] was nearer the front desk that makes me uncomfortable because of confidentiality, but also because this is the sort of thing that can cause alarm for their relatives.</i>
 
@@ -61,8 +112,6 @@ Data accuracy, backup plan
 
 Target metrics
 > Because I suspect a lot of the ward staff don’t what the tidal volume should be, having a little bit of detail why it’s set to that may be useful.
-
-		○ Anitbiotic taken, time frame
 
 
 	- Competitive culture
@@ -74,7 +123,6 @@ Target metrics
 	- "…if it was nearer the front desk, where you guys were waiting for us, then members of the public coming in to visit their relatives will come and see and that makes me uncomfortable for two reasons: because of confidentiality, but also because this is the sort of thing that can cause alarm."
 "… just looking at this, [refer to the red coded patient bed shown on the dashboard]…, it kind of flags up those four patients and it does suggest that the people looking after these patients are doing something wrong. "
 
-### What did I learn
 
 <div class="breaker"></div>
 ### Outcome and Deliverables
@@ -82,4 +130,8 @@ Target metrics
 
 
 ---
-[1]: https://chloenhy.github.io/assets/images/ICU/uclh3.png
+[1]: https://chloenhy.github.io/assets/images/ICU/uclh1.png
+[2]: https://chloenhy.github.io/assets/images/ICU/icu_dashboard.png
+[3]: https://chloenhy.github.io/assets/images/ICU/uclh3.png
+[4]: https://chloenhy.github.io/assets/images/ICU/maps.png
+[5]: https://chloenhy.github.io/assets/images/ICU/existing-map.png
