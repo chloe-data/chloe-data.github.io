@@ -62,7 +62,7 @@ A few themes emerged after the thematic analysis of interview transcription.
 
 <span class="evidence">Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients' progress collectively</span>, in contrast to what a nurse would prefer, i.e. to go through each patient individually.
 
-<span class="evidence">Target metrics that the existing prototype lacks:</span>
+<span class="evidence">We also discovered some target metrics necessary in the doctor's workflow that the existing prototype lacks:</span>
 * Antibiotic taken
 * Time last taken
 * Urine output
@@ -75,35 +75,30 @@ A few themes emerged after the thematic analysis of interview transcription.
 
 #### User Interface
 
-<span class="evidence">The map visualization of the ICU (Figure 5) was particularly appreciated since it fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.</span>
+<span class="evidence">The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.</span>
 
 
 <span class="evidence">However, the doctor was confused about how to navigate back to the main page as well as the meanings of different colors on the map.</span>
 
 ![Markdowm Image][4]{: class="bigger-image"}
-<figcaption>The map views with different color coding.</figcaption>
+<figcaption>Conceptual designs. On the left are legends added to explain the color coding, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.</figcaption>
 
-#### Dashboard location and Access control
-
-The current dashboard prototype is located at the corridor outside the staff rest room. Although it is located within the Unit, that is only staff, patients, and relatives would be able to
 
 #### Potential risks
 
 <b>Staff morality</b>
 
+<span class="evidence">The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.</span> Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.
+
+<span class="evidence">Although patient care is the top priority, people relationships and a healthy work culture are also important and will inevitably affect patient care.</span> If the technology promotes a blame culture, its usefulness is massively reduced and may even lead to abandonment.
+
 
 <b>Data safety</b>
 
+The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
 
 
-Firstly, the doctor emphasized the advantage of the current prototype when showing the information retrieval workflow
-in the Intensive Care Information Platform (ICIP). Five separate steps had to be taken to reach the blood pressure value of one patient on the spreadsheet interface. At the
-time, it was quite shocking to me witnessing the inefficiencies and cumbersome spreadsheet system in a complex, data-loaded hospital working environment.
-
-The doctor also pointed out a few aspects related to usability.
-
-
-
+#### Dashboard location and Access control
 Concerns on the dashboard location and access control
 > <i>If it [the dashboard] was nearer the front desk that makes me uncomfortable because of confidentiality, but also because this is the sort of thing that can cause alarm for their relatives.</i>
 
