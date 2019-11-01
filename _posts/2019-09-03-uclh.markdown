@@ -53,10 +53,15 @@ As the interviewee explained the difficulty around patient information retrieval
 ### Findings
 During the analysis, I represented the user journey as <i>a day in the life of junior doctor</i> in a concise way. I extracted significant timestamps from the work that the doctor does in a "typical" day, a "good" day, and a "bad" day to formulate the timeline.
 Each timestamp represent a point of interaction with the dashboard.
+
+
+
 ![Markdowm Image][3]{: class="bigger-image"}
 
 
 A few themes emerged after the thematic analysis of interview transcription.
+
+
 
 #### Target metrics
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-01T19:17:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-01T20:44:21+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -123,8 +123,9 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;h3 id=&quot;findings&quot;&gt;Findings&lt;/h3&gt;
 &lt;p&gt;During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to formulate the timeline.
-Each timestamp represent a point of interaction with the dashboard.
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A few themes emerged after the thematic analysis of interview transcription.&lt;/p&gt;
 
