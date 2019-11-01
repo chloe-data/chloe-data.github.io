@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-31T15:38:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">[Research] Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="[Research] Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-31T20:16:33+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -98,29 +98,65 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, contextual enquiry&lt;/p&gt;
 
-&lt;figure&gt;&lt;img alt=&quot;dashboard&quot; src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; /&gt;
-&lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img alt=&quot;dashboard&quot; src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, and therefore better patient care at the intensive care unit.&lt;/p&gt;
 
-&lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.s&lt;/p&gt;
+&lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.&lt;/p&gt;
+
+&lt;h3 id=&quot;research-approach&quot;&gt;Research approach&lt;/h3&gt;
 
 &lt;h3 id=&quot;my-contribution&quot;&gt;My contribution&lt;/h3&gt;
-&lt;p&gt;I took on the role to interview one of the major user groups for patient data dashboard - junior doctor.&lt;/p&gt;
+&lt;p&gt;I took on the role to interview one of the major user groups for patient data dashboard - junior doctor. I&lt;/p&gt;
 
-&lt;p&gt;I prepared my part of questions curated from&lt;/p&gt;
+&lt;p&gt;During the analysis, I suggested using the &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; as a way to present the user journey in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to formulate the timeline.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;findings&quot;&gt;Findings&lt;/h3&gt;
-&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;After the thematic analysis of interview transcription, a few themes emerged.&lt;/p&gt;
+
+&lt;p&gt;The current dashboard prototype is located at the corridor outside the staff rest room. Although it is located within the Unit, that is only staff, patients, and relatives would be able to
+Concerns on the dashboard location and access control&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i&gt;If it [the dashboard] was nearer the front desk that makes me uncomfortable because of confidentiality, but also because this is the sort of thing that can cause alarm for their relatives.&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Data accuracy, backup plan&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Target metrics&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Because I suspect a lot of the ward staff don’t what the tidal volume should be, having a little bit of detail why it’s set to that may be useful.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	○ Anitbiotic taken, time frame
+
+
+- Competitive culture
+	○ I think one of the things that is a bit concerning is the potential for it to create a little bit of conflict or tension.
+	○ If I'm the doctor allocated to this bay, and all of my patients are is green or red (whatever color we go with in the end), then is that going to make everybody think, &quot;Oh my God, what is she doing? Look, her bay's all gone off and everybody else is doing great.&quot; Or they might actually just be really sick and none of us are able to fix it. But, just looking at this, you can't see that
+
+
+
+- &quot;…if it was nearer the front desk, where you guys were waiting for us, then members of the public coming in to visit their relatives will come and see and that makes me uncomfortable for two reasons: because of confidentiality, but also because this is the sort of thing that can cause alarm.&quot; &quot;… just looking at this, [refer to the red coded patient bed shown on the dashboard]…, it kind of flags up those four patients and it does suggest that the people looking after these patients are doing something wrong. &quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
 
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;h3 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an ‘outsider’ could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">[Design] Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="[Design] Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -132,16 +168,17 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 &lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;D&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Physical Prototyping</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">[Research + Design + Test] Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="[Research + Design + Test] Connecting Solo Museum Visitors" /><published>2018-11-24T22:44:00+00:00</published><updated>2018-11-24T22:44:00+00:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Physical Prototyping</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="Connecting Solo Museum Visitors" /><published>2018-11-24T22:44:00+00:00</published><updated>2018-11-24T22:44:00+00:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Research – Design – Testing – Final prototype&lt;/p&gt;
+&lt;p&gt;Full cycle of research, design, testing, iteration, and final prototype&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;3 other graduate students (psychology, design, computer science)&lt;/p&gt;
+&lt;p&gt;Juspreet, James, Carol, and myself
+(from psychology, design, and computer science backgrounds)&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
 
@@ -248,8 +285,8 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 &lt;figcaption class=&quot;caption&quot;&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
 &lt;p&gt;We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
 
-&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">[Research] Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="[Research] Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Research Plan/Study Design&lt;/p&gt;
+&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Research Proposal/Study Design&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
 
@@ -274,7 +311,7 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;p&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/p&gt;
 
-&lt;p&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Project type: Research Plan/Study Design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Project type: Research Proposal/Study Design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 

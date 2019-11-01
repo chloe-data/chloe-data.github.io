@@ -1,5 +1,5 @@
 ---
-title: "[Research + Design + Test] Connecting Solo Museum Visitors"
+title: "Connecting Solo Museum Visitors"
 layout: post
 date: 2018-11-24 22:44
 image: /assets/images/museum/museumhall2.jpg
@@ -23,11 +23,12 @@ description: CaptionThis
 # End-to-end design project: Connecting museum visitors
 <b>Project type: </b>
 
-Research -- Design -- Testing -- Final prototype
+Full cycle of research, design, testing, iteration, and final prototype
 
-<b>Team size: </b>
+<b>Team: </b>
 
-3 other graduate students (psychology, design, computer science)
+Juspreet, James, Carol, and myself
+(from psychology, design, and computer science backgrounds)
 
 <b>Role: </b>
 

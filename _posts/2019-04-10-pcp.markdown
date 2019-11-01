@@ -1,5 +1,5 @@
 ---
-title: "[Design] Interactive tangible prototype"
+title: "Interactive tangible prototype"
 layout: post
 date: 2019-05-01 22:00
 image: /assets/images/rehab/hand.jpg
