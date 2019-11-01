@@ -29,12 +29,13 @@ description: User research at ICU
 
 <figcaption>The physical dashboard that is currently used at the ICU.</figcaption>
 ### Background
-In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, and therefore better patient care at the intensive care unit.
+In this project, I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).
 
 This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.
 
 ### Research approach
-
+I used semi-structured interview with a junior doctor in this study.
+Semi-structured interview is a common qualitative research approach in health services to gain deeper insights into subjective perspectives. Interviewing users allow me to understand the user workflow and mental models flexibly. I followed a prepared interview protocol to ask the doctor question under different themes of concern. I was able to ask follow-up questions right away as the interviewer raised new areas of concern. The fact that we were conducting the interview at an open corridor at the ICU (initially a constraint due to the doctor's tight schedule) allow interaction with staff passing by.
 
 ### My contribution
 I took on the role to interview one of the major user groups for patient data dashboard - junior doctor. I
