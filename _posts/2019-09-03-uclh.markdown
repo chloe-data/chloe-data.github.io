@@ -27,7 +27,7 @@ description: User research at ICU
 
 ![Markdowm Image][1]
 <figcaption>The physical dashboard that is currently used at the ICU.</figcaption>
-### Background
+## Background
 In this project, <span class="evidence">I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).</span>
 
 This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.
@@ -39,8 +39,8 @@ This project was in collaboration with the Health Informatics Team at UCLH. When
 
 <div class="breaker"></div>
 
-### Research approach
-I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study.
+## Research approach
+I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically
 
 Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. <span class="evidence">Interviewing users allows me to understand the user workflow and mental models flexibly. Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-ip questions on the new ideas raised by the interviewee. Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.</span>
 
@@ -50,9 +50,9 @@ As the interviewee explained the difficulty around patient information retrieval
 
 <div class="breaker"></div>
 
-### Findings
+## Findings
 
-#### Identifying workflow
+### Identifying workflow
 During the analysis, I represented the user journey as <i>a day in the life of junior doctor</i> in a concise way. I extracted significant timestamps from the work that the doctor does in a "typical" day, a "good" day, and a "bad" day to formulate the timeline.
 Each timestamp represent a point of interaction with the dashboard.
 
@@ -76,7 +76,7 @@ Each timestamp represent a point of interaction with the dashboard.
 A few themes emerged after the thematic analysis of interview transcription.
 
 
-#### Target metrics
+### Target metrics
 
 1. <span class="evidence">Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients' progress collectively</span>, in contrast to what a nurse would prefer, i.e. to go through each patient individually.
 
@@ -94,9 +94,9 @@ A few themes emerged after the thematic analysis of interview transcription.
 
 
 
-<b>Results 👉</b>The appropriate target metrics will be included for junior doctor's view of dashboard
+<b>Impact 👉</b>The appropriate target metrics will be included for junior doctor's view of dashboard
 
-#### User Interface
+### User Interface
 
 The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.
 
@@ -105,11 +105,10 @@ However, there was no clear navigation between pages. There needs to be a locato
 ![Markdowm Image][4]{: class="bigger-image"}
 <figcaption>Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.</figcaption>
 
-<b>Results 👉</b>The usability issues identified were highly appreciated by the team and will be improved in the next iteration.
+<b>Impact 👉</b>The usability issues identified were highly appreciated by the team and will be improved in the next iteration.
 
-#### Potential risks
-
-##### <b>Staff morality</b>
+### Potential risks
+#### <b>Staff morality</b>
 
 <span class="evidence">The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.</span> Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.
 
@@ -125,7 +124,7 @@ However, there was no clear navigation between pages. There needs to be a locato
 
 <br>
 
-<b>Data safety</b>
+#### Data safety
 
 The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
 <br><br>
@@ -133,23 +132,17 @@ The current dashboard prototype is located at the corridor outside the staff res
 > <i>"If it [the dashboard] was nearer the front desk that makes me uncomfortable because of <b>confidentiality</b>, but also because this is the sort of thing that <b>can cause alarm for their relatives</b>."</i>
 
 <br>
-<b>Results 👉</b>Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.
+<b>Impact 👉</b>Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.
 
 
 <br>
 
 
-Data accuracy, backup plan
->If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.
-
-
-
-
 <div class="breaker"></div>
-### Outcome and Deliverables
-Building system for clinical use require I represented my team to present this work to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders to further my understanding to the organisation in the team, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer. Working as an 'outsider' could be beneficial to the team as I could observe workflow and listen to user need with a fresh mindset.
+## Outcome and Deliverables
+The effective use of a healthcare system requires building trust with the users. Healthcare systems are highly safety-critical, as our interviewee once said: <i>"If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith."</i> That is why the design of patient data dashboard require multiple stages of iteration, user research, and testing before rolling out for actual use.  This current user research project is part of the greater development of the patient data dashboard. I represented my user group to present findings and design implications to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders in the organisation, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer.
 
-The team considered our findings and design implication in mind for the next iteration. The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.
+The team highly appreciated our findings and design implication, and will include them for the next iteration. The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.
 
 ![Markdowm Image][5]
 <figcaption>Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. </figcaption>

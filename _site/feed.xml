@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-02T13:41:06+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-02T17:27:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -100,7 +100,7 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;
-&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 &lt;p&gt;In this project, &lt;span class=&quot;evidence&quot;&gt;I worked on evaluating and improving a patient data dashboard prototype. The dashboard was intended to provide real-time ward data, so as to inform timely decision making, thereby better patient care at the Intensive Care Unit (ICU).&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was in collaboration with the Health Informatics Team at UCLH. When I started my work with them, the team already have an interactive physical dashboard prototype with fictional data for user testing. I worked as a user researcher to conduct the field work to understand how well the existing prototype address the user need.&lt;/p&gt;
@@ -110,8 +110,8 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;research-approach&quot;&gt;Research approach&lt;/h3&gt;
-&lt;p&gt;I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study.&lt;/p&gt;
+&lt;h2 id=&quot;research-approach&quot;&gt;Research approach&lt;/h2&gt;
+&lt;p&gt;I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically&lt;/p&gt;
 
 &lt;p&gt;Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly. Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-ip questions on the new ideas raised by the interviewee. Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/p&gt;
 
@@ -121,9 +121,9 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;findings&quot;&gt;Findings&lt;/h3&gt;
+&lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
 
-&lt;h4 id=&quot;identifying-workflow&quot;&gt;Identifying workflow&lt;/h4&gt;
+&lt;h3 id=&quot;identifying-workflow&quot;&gt;Identifying workflow&lt;/h3&gt;
 &lt;p&gt;During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to formulate the timeline.
 Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
@@ -134,7 +134,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
 &lt;p&gt;A few themes emerged after the thematic analysis of interview transcription.&lt;/p&gt;
 
-&lt;h4 id=&quot;target-metrics&quot;&gt;Target metrics&lt;/h4&gt;
+&lt;h3 id=&quot;target-metrics&quot;&gt;Target metrics&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -157,9 +157,9 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;b&gt;Results 👉&lt;/b&gt;The appropriate target metrics will be included for junior doctor’s view of dashboard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The appropriate target metrics will be included for junior doctor’s view of dashboard&lt;/p&gt;
 
-&lt;h4 id=&quot;user-interface&quot;&gt;User Interface&lt;/h4&gt;
+&lt;h3 id=&quot;user-interface&quot;&gt;User Interface&lt;/h3&gt;
 
 &lt;p&gt;The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.&lt;/p&gt;
 
@@ -168,11 +168,10 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/maps.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;b&gt;Results 👉&lt;/b&gt;The usability issues identified were highly appreciated by the team and will be improved in the next iteration.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the team and will be improved in the next iteration.&lt;/p&gt;
 
-&lt;h4 id=&quot;potential-risks&quot;&gt;Potential risks&lt;/h4&gt;
-
-&lt;h5 id=&quot;staff-morality&quot;&gt;&lt;b&gt;Staff morality&lt;/b&gt;&lt;/h5&gt;
+&lt;h3 id=&quot;potential-risks&quot;&gt;Potential risks&lt;/h3&gt;
+&lt;h4 id=&quot;staff-morality&quot;&gt;&lt;b&gt;Staff morality&lt;/b&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.&lt;/span&gt; Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.&lt;/p&gt;
 
@@ -191,7 +190,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Data safety&lt;/b&gt;&lt;/p&gt;
+&lt;h4 id=&quot;data-safety&quot;&gt;Data safety&lt;/h4&gt;
 
 &lt;p&gt;The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
@@ -201,20 +200,15 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;b&gt;Results 👉&lt;/b&gt;Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.&lt;/p&gt;
+&lt;b&gt;Impact 👉&lt;/b&gt;Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Data accuracy, backup plan&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.&lt;/p&gt;
-&lt;/blockquote&gt;
-
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;h3 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h3&gt;
-&lt;p&gt;Building system for clinical use require I represented my team to present this work to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders to further my understanding to the organisation in the team, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer. Working as an ‘outsider’ could be beneficial to the team as I could observe workflow and listen to user need with a fresh mindset.&lt;/p&gt;
+&lt;h2 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h2&gt;
+&lt;p&gt;The effective use of a healthcare system requires building trust with the users. Healthcare systems are highly safety-critical, as our interviewee once said: &lt;i&gt;“If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.”&lt;/i&gt; That is why the design of patient data dashboard require multiple stages of iteration, user research, and testing before rolling out for actual use.  This current user research project is part of the greater development of the patient data dashboard. I represented my user group to present findings and design implications to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders in the organisation, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer.&lt;/p&gt;
 
-&lt;p&gt;The team considered our findings and design implication in mind for the next iteration. The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.&lt;/p&gt;
+&lt;p&gt;The team highly appreciated our findings and design implication, and will include them for the next iteration. The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
