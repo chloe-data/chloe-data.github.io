@@ -1483,7 +1483,7 @@ pre {
 
 <p><b>My role: </b> User Researcher</p>
 
-<p><b>Methods: </b> Field visit, semi-structured interview, thematic analysis, contextual enquiry</p>
+<p><b>Methods: </b> Field visit, semi-structured interview, thematic analysis, observation</p>
 
 <p><img src="https://chloenhy.github.io/assets/images/ICU/uclh1.png" alt="Markdowm Image" /></p>
 <figcaption>The physical dashboard that is currently used at the ICU.</figcaption>
@@ -1509,6 +1509,8 @@ pre {
 <div class="breaker"></div>
 
 <h3 id="findings">Findings</h3>
+
+<h4 id="identifying-workflow">Identifying workflow</h4>
 <p>During the analysis, I represented the user journey as <i>a day in the life of junior doctor</i> in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to formulate the timeline.
 Each timestamp represent a point of interaction with the dashboard.</p>
 
@@ -1521,31 +1523,43 @@ Each timestamp represent a point of interaction with the dashboard.</p>
 
 <h4 id="target-metrics">Target metrics</h4>
 
-<p><span class="evidence">Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients’ progress collectively</span>, in contrast to what a nurse would prefer, i.e. to go through each patient individually.</p>
+<ol>
+  <li>
+    <p><span class="evidence">Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients’ progress collectively</span>, in contrast to what a nurse would prefer, i.e. to go through each patient individually.</p>
+  </li>
+  <li>
+    <p>There is a need to describe in details on some metrics that might not be familiar to ward staff. For example, <span class="evidence">explaining the ideal tidal volume target range next to the metric</span>.</p>
+  </li>
+  <li>
+    <p>Some other target metrics necessary to the doctor’s workflow that the existing prototype lacks:</p>
+    <ul>
+      <li>Antibiotic taken</li>
+      <li>Time last taken</li>
+      <li>Urine output</li>
+      <li>Length of Stay</li>
+      <li>Average temperature</li>
+      <li>Heart rate</li>
+      <li>No. of patients being ventilated</li>
+    </ul>
+  </li>
+</ol>
 
-<p><span class="evidence">We also discovered some target metrics necessary in the doctor’s workflow that the existing prototype lacks:</span></p>
-<ul>
-  <li>Antibiotic taken</li>
-  <li>Time last taken</li>
-  <li>Urine output</li>
-  <li>Length of Stay</li>
-  <li>Average temperature</li>
-  <li>Heart rate</li>
-  <li>No. of patients being ventilated</li>
-</ul>
+<p><b>Results 👉</b>The appropriate target metrics will be included for junior doctor’s view of dashboard</p>
 
 <h4 id="user-interface">User Interface</h4>
 
-<p><span class="evidence">The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.</span></p>
+<p>The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.</p>
 
-<p><span class="evidence">However, the doctor was confused about how to navigate back to the main page as well as the meanings of different colors on the map.</span></p>
+<p>However, there was no clear navigation between pages. There needs to be a locator and back button on every pages. Color coding also lacks explaination.</p>
 
 <p><img src="https://chloenhy.github.io/assets/images/ICU/maps.png" alt="Markdowm Image" class="bigger-image" /></p>
-<figcaption>Conceptual designs. On the left are legends added to explain the color coding, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.</figcaption>
+<figcaption>Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.</figcaption>
+
+<p><b>Results 👉</b>The usability issues identified were highly appreciated by the team and will be improved in the next iteration.</p>
 
 <h4 id="potential-risks">Potential risks</h4>
 
-<p><b>Staff morality</b></p>
+<h5 id="staff-morality"><b>Staff morality</b></h5>
 
 <p><span class="evidence">The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.</span> Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.</p>
 
@@ -1562,37 +1576,35 @@ Each timestamp represent a point of interaction with the dashboard.</p>
 <p><br />
 <span class="evidence">Although patient care is the top priority, people relationships and a healthy work culture are also important and will inevitably affect patient care.</span> If the technology promotes a blame culture, its usefulness is massively reduced and may even lead to abandonment.</p>
 
-<p><br />
-<b>Data safety</b></p>
+<p><br /></p>
+
+<p><b>Data safety</b></p>
 
 <p>The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
-<br /></p>
+<br /><br /></p>
 
 <blockquote>
-  <p><i>“If it [the dashboard] was nearer the front desk that makes me uncomfortable because of confidentiality, but also because this is the sort of thing that can cause alarm for their relatives.”</i></p>
+  <p><i>“If it [the dashboard] was nearer the front desk that makes me uncomfortable because of <b>confidentiality</b>, but also because this is the sort of thing that <b>can cause alarm for their relatives</b>.”</i></p>
 </blockquote>
 
-<h4 id="dashboard-location-and-access-control">Dashboard location and Access control</h4>
-<p>Concerns on the dashboard location and access control</p>
+<p><br />
+<b>Results 👉</b>Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.</p>
+
+<p><br /></p>
 
 <p>Data accuracy, backup plan</p>
 <blockquote>
   <p>If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.</p>
 </blockquote>
 
-<p>Target metrics</p>
-<blockquote>
-  <p>Because I suspect a lot of the ward staff don’t what the tidal volume should be, having a little bit of detail why it’s set to that may be useful.</p>
-</blockquote>
-
 <div class="breaker"></div>
 <h3 id="outcome-and-deliverables">Outcome and Deliverables</h3>
-<ul>
-  <li>After the group project, I represented my team to present this work to the UCLH Health Informatics Team. I have learnt a lot as a researcher through the interaction with different stakeholders in the team, including their junior doctors, critical care consultants, data scientists, and UX designer. I came to realise that working as an ‘outsider’ could actually be beneficial to the team as I observe workflow and listen to user need with a fresh mindset. Feedback from the team was positive on our findings.</li>
-</ul>
+<p>Building system for clinical use require I represented my team to present this work to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders to further my understanding to the organisation in the team, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer. Working as an ‘outsider’ could be beneficial to the team as I could observe workflow and listen to user need with a fresh mindset.</p>
 
-<p><img src="https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png" alt="Markdowm Image" class="bigger-image" /></p>
-<figcaption>Presenting the findings with another colleague researching on the ICU audit team. It was in a board room setting so we avoid including audience faces in the picture. </figcaption>
+<p>The team considered our findings and design implication in mind for the next iteration. The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.</p>
+
+<p><img src="https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png" alt="Markdowm Image" /></p>
+<figcaption>Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. </figcaption>
 
 <hr />
 
