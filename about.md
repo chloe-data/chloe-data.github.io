@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-# A few things about me  💁
+# A few things about Chloe Ng  💁
 
 
 <div class="side-by-side">
@@ -14,7 +14,7 @@ layout: page
 
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/about/IxDA1.png" alt="Alt Text">
+        <img src="https://chloenhy.github.io/assets/images/about/IxDA1.jpg" alt="Alt Text">
 
     </div>
 </div>
@@ -46,19 +46,17 @@ layout: page
 
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-2.png" alt="Alt Text">
+        <img src="https://chloenhy.github.io/assets/images/about/medtech-2.jpg" alt="Alt Text">
 
-        <br>
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-3.png" alt="Alt Text">
+        <br><br><br><br><br>
 
-        <br>
         <img src="https://chloenhy.github.io/assets/images/about/medtech-1.jpg" alt="Alt Text">
 
     </div>
 </div>
 
 
-<br><br><br>
+<br><br>
 
 <div class="side-by-side">
     <div class="toleft">
@@ -69,19 +67,22 @@ layout: page
       🇺🇸Columbia, SC<br>
       🇭🇰Hong Kong<br>
 
-      <br><br><br><br><br>
+      <br><br><br><br><br><br><br>
 
       <h2>Current reading</h2>
-      21 Lessons for the 21st Century, Yuval Noah Harari <br>
-      Tibetan Yoga, Ian A. Baker
+      21 Lessons for the 21st Century, <br>
+      Yuval Noah Harari <br>
+      <br><br><br>
+      Tibetan Yoga: Principles and Practices, <br>
+      Ian A. Baker
 
-      <br><br><br><br><br>
+      <br><br><br><br><br><br><br>
 
       <h2>Contact</h2>
-      I am always interested to learn new technologies and to solve design problem through research. Let's get in touch!
+      I am always interested to solve design problem through research. Let's get in touch!
       <br><br>
       <a href = 'mailto:ujungx@ucl.ac.uk' target="_blank" >ucjungx@ucl.ac.uk</a>
-      <br>
+      <br><br>
       <a href = 'https://linkedin.com/in/chloenhy/' target="_blank" >LinkedIn</a>
     </div>
 
@@ -90,8 +91,8 @@ layout: page
 </div>
 
 
+<br><br><br>
 
-
-[1]: https://chloenhy.github.io/assets/images/about/IxDA1.png
-[2]: https://chloenhy.github.io/assets/images/about/medtech-3.png
+[1]: https://chloenhy.github.io/assets/images/about/IxDA1.jpg
+[2]: https://chloenhy.github.io/assets/images/about/medtech-3.jpg
 [3]: https://chloenhy.github.io/assets/images/about/cisco.jpg

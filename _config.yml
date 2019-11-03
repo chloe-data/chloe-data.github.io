@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/images/about/CV-ChloeNg.pdf, target="_blank"
+resume-url: assets/images/about/CV-ChloeNG.pdf, target="_blank"
 
 url: https://chloenhy.github.io
 # your url: http://USERNAME.github.io
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-email: ibce.chloeng@gmail.com
+email: chloe.ng.ux@gmail.com
 linkedin: chloenhy
 twitter: chloenghy
 github: chloenhy
@@ -88,7 +88,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [project, blog]
+post-advance-links: [projects, blog]
 
 # show author block at the end of a post ?
 show-author: false
