@@ -23,7 +23,7 @@ description: CaptionThis
 # End-to-end design project: Connecting museum visitors
 <b>Project type: </b>
 
-Full cycle of research, design, testing, iteration, and final prototype
+Full cycle of research: design, testing, iteration, and final prototype
 
 <b>Team: </b>
 
@@ -32,11 +32,11 @@ Juspreet, James, Carol, and myself
 
 <b>Role: </b>
 
-Primary Researcher, Designer
+Primary Researcher, ideation and designer
 
 <b>Methods: </b>
 
-User research, qualitative data analysis, sketching, wireframing, hi-fi prototyping, usability study
+User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
 
 
 ## Table of Contents

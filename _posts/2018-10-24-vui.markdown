@@ -16,13 +16,13 @@ tag:
 - quantitative
 
 star: false
-category: blog
-author: johndoe
+category: project
+author: chloeng
 description: Effects of voice-interface training on driver cognitive workload in simulated driving
 ---
 
 ### Effects of voice-interface training on driver cognitive workload in simulated driving
-<b>Project type: </b> Research Proposal/Study Design
+<b>Project type: </b> Research Proposal
 
 <b>Team size: </b> Individual project
 
@@ -31,9 +31,7 @@ description: Effects of voice-interface training on driver cognitive workload in
 <b>Methods: </b> Quantitative, Physiological metrics
 
 ### Background
-I have written this research proposal to study the effect of automobile VUI video training on driver stress level. The topic is anything about voice interface in car. There are many prior research studying driver performance in terms of error rate and lateral deviation.
-
-In this study, I am particularly interested in measuring physiological state of driver. I used skin conductance level as a proxy to cognitive workload and stress.
+In this study, I am interested in understanding how voice control training would impact driving by measuring the physiological state of driver. Skin conductance level was used as a proxy to cognitive workload and stress.
 
 Feel free to contact me for more details!
 
