@@ -1,0 +1,51 @@
+---
+title: "Human-centered Data Visualization"
+layout: post
+date: 2019-08-13 22:00
+image: /assets/images/
+headerImage: true
+tag:
+- User research
+- Usability
+- Healthcare
+
+projects: true
+star: false
+category: project
+author: chloeng
+description: Designing data visualization with human perception principles in mind
+---
+
+## Realtime Patient Data Dashboard at the ICU
+<b>Project type: </b> Data visualization design
+
+<b>Team size: </b> Individual
+
+<b>My role: </b> Literature Reviewer, Designer, Coder
+
+<b>Tools: </b> Python, Procreate, R, Graphviz
+
+![Markdowm Image][1]
+
+## Background
+<b>This project explores how to visualize data in a way that is compelling to the target audiences. <span class="evidence">The design was informed by previous literature on information retrieval and human perception principles.</span> The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. </b>
+
+
+
+
+![Markdowm Image][2]
+
+
+<div class="breaker"></div>
+
+
+
+
+
+
+
+
+---
+[1]: https://chloenhy.github.io/assets/images/dataVis/wall-1.png
+[2]: https://chloenhy.github.io/assets/images/dataVis/wall-2.png
+[3]: https://chloenhy.github.io/assets/images/dataVis/ipad-1.jpg

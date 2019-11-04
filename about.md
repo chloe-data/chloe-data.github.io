@@ -60,7 +60,7 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-      <h2>Where I worked</h2>
+      <h2>Where I worked and studied</h2>
       🇬🇧<b>London, UK </b><br>
       🇺🇸San Jose, CA<br>
       🇨🇳Beijing, China<br>
@@ -78,7 +78,7 @@ layout: page
 
       <br><br><br><br><br><br><br>
 
-      <h2>Contact</h2>
+      <h2>Contact me</h2>
       I am always interested to solve design problem through research. Let's get in touch!
       <br><br>
       <a href = 'mailto:ujungx@ucl.ac.uk' target="_blank" >ucjungx@ucl.ac.uk</a>
