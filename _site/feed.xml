@@ -1,95 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-03T21:36:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-03T22:25:28+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="Connecting Solo Museum Visitors" /><published>2019-08-21T22:44:00+01:00</published><updated>2019-08-21T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Researcher&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/p&gt;
+&lt;p&gt;Juspreet, James, Carol, and myself
+(from psychology, design, and computer science backgrounds)&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;o-v-e-r-v-i-e-w&quot;&gt;O V E R V I E W&lt;/h2&gt;
-&lt;p&gt;This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.&lt;/p&gt;
-&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
-&lt;p&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h4&gt;
-&lt;h5 id=&quot;method&quot;&gt;Method&lt;/h5&gt;
-&lt;p&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/p&gt;
+&lt;p&gt;Primary Researcher, ideation and designer&lt;/p&gt;
 
-&lt;p&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).&lt;/figcaption&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/p&gt;
 
-&lt;h5 id=&quot;findings&quot;&gt;Findings&lt;/h5&gt;
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The results highlight a &lt;b&gt;dichotomy&lt;/b&gt; between stroke patients/caregivers and domain experts.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;From the CEQ, we learnt that &lt;b&gt;both stroke patients and caregivers considered the device as credible&lt;/b&gt; and expected hand dexterity improvements from using the device.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In contrast, &lt;b&gt;domain experts did not see the device as credible&lt;/b&gt; and useful to improve impaired hand motor function.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The reason might be that &lt;span class=&quot;evidence&quot;&gt;participants’ feedback for the device is associated with their &lt;b&gt;previous experience&lt;/b&gt; with rehabilitative device&lt;/span&gt;.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#user-research&quot;&gt;User Research&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usability-testing&quot;&gt;Usability Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#final-design&quot;&gt;Final Design&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The four themes emerged from the interviews were:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
 
-&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; -
-To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/p&gt;
+&lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
+&lt;p&gt;60 responses from questionnaire&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
-Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
 
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/p&gt;
+&lt;p&gt;To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.&lt;/p&gt;
 
-&lt;p&gt;Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/p&gt;
+&lt;h3 id=&quot;interview-and-observation&quot;&gt;Interview and observation&lt;/h3&gt;
+&lt;p&gt;10 semi-structured interviews
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;At Tate&lt;/figcaption&gt;
 
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;b&gt;Update&lt;/b&gt;
-        &lt;p&gt;In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!&lt;/p&gt;
-    &lt;/div&gt;
+&lt;p&gt;In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.&lt;/p&gt;
 
-    &lt;div class=&quot;toright&quot;&gt;
-      &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The user experience of post-stroke hand rehabilitation robotics: A mixed-method study. A lot of the robotics nowadays focus on efficiency so Chloe conducts research to understand how people use the &lt;a href=&quot;https://twitter.com/hashtag/robots?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#robots&lt;/a&gt; and their experiences &lt;a href=&quot;https://twitter.com/hashtag/ixd?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ixd&lt;/a&gt; &lt;a href=&quot;https://t.co/Lweg0QK6x1&quot;&gt;pic.twitter.com/Lweg0QK6x1&lt;/a&gt;&lt;/p&gt;&amp;mdash; IxDA London Local (@IxDALondon) &lt;a href=&quot;https://twitter.com/IxDALondon/status/1156644106992590848?ref_src=twsrc%5Etfw&quot;&gt;July 31, 2019&lt;/a&gt;&lt;/blockquote&gt;
-      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;h3 id=&quot;analysing-research-data&quot;&gt;Analysing research data&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
 
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility Student Research Competition. 😊&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;breaker&quot;&gt;
-&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+&lt;p&gt;I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.&lt;/p&gt;
+
+&lt;p&gt;Some of the key ideas that emerged were:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
+    &lt;li&gt;In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.&lt;/li&gt;
+    &lt;li&gt;People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.&lt;/li&gt;
+    &lt;li&gt;Some people did not want to talk to others and had concerns about speaking loudly in the museum setting.&lt;/li&gt;
+    &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
+    &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
+    &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
+&lt;p&gt;Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.&lt;/p&gt;
+
+&lt;h3 id=&quot;ideation&quot;&gt;Ideation&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;I sketched my ideas for intervention in the museum.&lt;/figcaption&gt;
+
+&lt;p&gt;I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.&lt;/p&gt;
+
+&lt;p&gt;We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.&lt;/p&gt;
+&lt;h3 id=&quot;parallel-prototyping&quot;&gt;Parallel Prototyping&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
+&lt;p&gt;We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumPrototype.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Some wireframes, storyboard and mockups I created.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;usability-testing&quot;&gt;Usability Testing&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
+
+&lt;p&gt;The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.&lt;/p&gt;
+
+&lt;p&gt;The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.&lt;/p&gt;
+
+&lt;p&gt;Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;final-design&quot;&gt;Final design&lt;/h2&gt;
+
+&lt;p&gt;The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
+&lt;p&gt;We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -213,7 +239,98 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Researcher&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;o-v-e-r-v-i-e-w&quot;&gt;O V E R V I E W&lt;/h2&gt;
+&lt;p&gt;This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.&lt;/p&gt;
+&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
+&lt;p&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h4&gt;
+&lt;h5 id=&quot;method&quot;&gt;Method&lt;/h5&gt;
+&lt;p&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/p&gt;
+
+&lt;p&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Images of a stroke patient’s hand in four positions: open hand without assistance, cylindrical grip, three-finger grip, and full extension with the exoskeleton (from left to right).&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;findings&quot;&gt;Findings&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The results highlight a &lt;b&gt;dichotomy&lt;/b&gt; between stroke patients/caregivers and domain experts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;From the CEQ, we learnt that &lt;b&gt;both stroke patients and caregivers considered the device as credible&lt;/b&gt; and expected hand dexterity improvements from using the device.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In contrast, &lt;b&gt;domain experts did not see the device as credible&lt;/b&gt; and useful to improve impaired hand motor function.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The reason might be that &lt;span class=&quot;evidence&quot;&gt;participants’ feedback for the device is associated with their &lt;b&gt;previous experience&lt;/b&gt; with rehabilitative device&lt;/span&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The four themes emerged from the interviews were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; -
+To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
+Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/p&gt;
+
+&lt;p&gt;Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/p&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;b&gt;Update&lt;/b&gt;
+        &lt;p&gt;In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+      &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The user experience of post-stroke hand rehabilitation robotics: A mixed-method study. A lot of the robotics nowadays focus on efficiency so Chloe conducts research to understand how people use the &lt;a href=&quot;https://twitter.com/hashtag/robots?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#robots&lt;/a&gt; and their experiences &lt;a href=&quot;https://twitter.com/hashtag/ixd?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ixd&lt;/a&gt; &lt;a href=&quot;https://t.co/Lweg0QK6x1&quot;&gt;pic.twitter.com/Lweg0QK6x1&lt;/a&gt;&lt;/p&gt;&amp;mdash; IxDA London Local (@IxDALondon) &lt;a href=&quot;https://twitter.com/IxDALondon/status/1156644106992590848?ref_src=twsrc%5Etfw&quot;&gt;July 31, 2019&lt;/a&gt;&lt;/blockquote&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility Student Research Competition. 😊&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;breaker&quot;&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -225,124 +342,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;D&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Physical Prototyping</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="Connecting Solo Museum Visitors" /><published>2018-11-24T22:44:00+00:00</published><updated>2018-11-24T22:44:00+00:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Juspreet, James, Carol, and myself
-(from psychology, design, and computer science backgrounds)&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Primary Researcher, ideation and designer&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/p&gt;
-
-&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#user-research&quot;&gt;User Research&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#usability-testing&quot;&gt;Usability Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#final-design&quot;&gt;Final Design&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
-
-&lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
-&lt;p&gt;60 responses from questionnaire&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
-
-&lt;p&gt;To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.&lt;/p&gt;
-
-&lt;h3 id=&quot;interview-and-observation&quot;&gt;Interview and observation&lt;/h3&gt;
-&lt;p&gt;10 semi-structured interviews
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;At Tate&lt;/figcaption&gt;
-
-&lt;p&gt;In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.&lt;/p&gt;
-
-&lt;h3 id=&quot;analysing-research-data&quot;&gt;Analysing research data&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
-
-&lt;p&gt;I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.&lt;/p&gt;
-
-&lt;p&gt;Some of the key ideas that emerged were:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
-    &lt;li&gt;In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.&lt;/li&gt;
-    &lt;li&gt;People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.&lt;/li&gt;
-    &lt;li&gt;Some people did not want to talk to others and had concerns about speaking loudly in the museum setting.&lt;/li&gt;
-    &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
-    &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
-    &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
-&lt;p&gt;Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.&lt;/p&gt;
-
-&lt;h3 id=&quot;ideation&quot;&gt;Ideation&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;I sketched my ideas for intervention in the museum.&lt;/figcaption&gt;
-
-&lt;p&gt;I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.&lt;/p&gt;
-
-&lt;p&gt;We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.&lt;/p&gt;
-&lt;h3 id=&quot;parallel-prototyping&quot;&gt;Parallel Prototyping&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
-&lt;p&gt;We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumPrototype.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Some wireframes, storyboard and mockups I created.&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;usability-testing&quot;&gt;Usability Testing&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
-
-&lt;p&gt;The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.&lt;/p&gt;
-
-&lt;p&gt;The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.&lt;/p&gt;
-
-&lt;p&gt;Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;final-design&quot;&gt;Final design&lt;/h2&gt;
-
-&lt;p&gt;The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
-&lt;p&gt;We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
-
-&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Physical Prototyping</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Research Proposal&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;

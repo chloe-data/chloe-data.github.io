@@ -1,7 +1,7 @@
 ---
 title: "Connecting Solo Museum Visitors"
 layout: post
-date: 2018-11-24 22:44
+date: 2019-08-21 22:44
 image: /assets/images/museum/museumhall2.jpg
 headerImage: false
 tag:
