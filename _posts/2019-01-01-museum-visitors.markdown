@@ -1,5 +1,5 @@
 ---
-title: "Connecting Solo Museum Visitors"
+title: "🤳  Connecting Solo Museum Visitors"
 layout: post
 date: 2019-08-21 22:44
 image: /assets/images/museum/museumhall2.jpg

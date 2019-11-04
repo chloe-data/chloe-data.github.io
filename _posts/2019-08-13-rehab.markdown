@@ -1,5 +1,5 @@
 ---
-title: "Mixed-method UX Study of Stroke Rehab Robotics"
+title: "💪 Mixed-method UX Study of Stroke Rehab Robotics"
 layout: post
 date: 2019-08-13 22:00
 image: /assets/images/rehab/hand.jpg

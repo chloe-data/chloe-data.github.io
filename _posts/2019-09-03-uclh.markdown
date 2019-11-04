@@ -1,5 +1,5 @@
 ---
-title: "Patient Data Dashboard at the ICU"
+title: "💊 Patient Data Dashboard at the ICU"
 layout: post
 date: 2019-08-13 22:00
 image: /assets/images/ICU/uclh.jpg

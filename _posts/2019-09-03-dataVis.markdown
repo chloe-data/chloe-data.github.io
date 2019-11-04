@@ -1,5 +1,5 @@
 ---
-title: "Human-centered Data Visualization"
+title: "📊 Human-centered Data Visualization"
 layout: post
 date: 2019-08-13 22:00
 image: /assets/images/
