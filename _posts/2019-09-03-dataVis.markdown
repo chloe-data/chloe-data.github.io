@@ -1,9 +1,9 @@
 ---
 title: "📊 Human-centered Data Visualization"
 layout: post
-date: 2019-08-13 22:00
+date: 2019-08-10 22:00
 image: /assets/images/
-headerImage: true
+headerImage: false
 tag:
 - Human perception
 - Usability
@@ -46,6 +46,6 @@ description: Designing data visualization with human perception principles in mi
 
 
 ---
-[1]: https://chloenhy.github.io/assets/images/dataVis/wall-1.png
-[2]: https://chloenhy.github.io/assets/images/dataVis/wall-2.png
+[1]: https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg
+[2]: https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg
 [3]: https://chloenhy.github.io/assets/images/dataVis/ipad-1.jpg

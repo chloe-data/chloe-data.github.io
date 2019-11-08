@@ -11,10 +11,9 @@ layout: page
     <h2>User Researcher</h2>
     <p><b>Being passionate about understanding and improving the intersection between human and technology, I am curious to learn about individuals as a user researcher. My academic and industry projects in Human-computer Interaction equip me with <span class="evidence"><b>a solid understanding of interaction science and design, which reinforced my research interest in the intersection of technology and human behaviour, particularly in digital health.</b></span> I also enjoy evangelising user research practice and engage with the community.</b></p>
     </div>
-
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/about/IxDA1.jpg" alt="Alt Text">
+        <img src="https://chloenhy.github.io/assets/images/museum/paperTesting2.jpg">
 
     </div>
 </div>

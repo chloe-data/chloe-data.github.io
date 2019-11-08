@@ -1,121 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-04T17:09:49+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-21T22:44:00+01:00</published><updated>2019-08-21T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Juspreet, James, Carol, and myself
-(from psychology, design, and computer science backgrounds)&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Primary Researcher, ideation and designer&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/p&gt;
-
-&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#user-research&quot;&gt;User Research&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Process&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#usability-testing&quot;&gt;Usability Testing&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#final-design&quot;&gt;Final Design&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
-
-&lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
-&lt;p&gt;60 responses from questionnaire&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
-
-&lt;p&gt;To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.&lt;/p&gt;
-
-&lt;h3 id=&quot;interview-and-observation&quot;&gt;Interview and observation&lt;/h3&gt;
-&lt;p&gt;10 semi-structured interviews
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;At Tate&lt;/figcaption&gt;
-
-&lt;p&gt;In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.&lt;/p&gt;
-
-&lt;h3 id=&quot;analysing-research-data&quot;&gt;Analysing research data&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
-
-&lt;p&gt;I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.&lt;/p&gt;
-
-&lt;p&gt;Some of the key ideas that emerged were:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;ul&gt;
-    &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
-    &lt;li&gt;In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.&lt;/li&gt;
-    &lt;li&gt;People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.&lt;/li&gt;
-    &lt;li&gt;Some people did not want to talk to others and had concerns about speaking loudly in the museum setting.&lt;/li&gt;
-    &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
-    &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
-    &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
-&lt;p&gt;Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.&lt;/p&gt;
-
-&lt;h3 id=&quot;ideation&quot;&gt;Ideation&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;I sketched my ideas for intervention in the museum.&lt;/figcaption&gt;
-
-&lt;p&gt;I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.&lt;/p&gt;
-
-&lt;p&gt;We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.&lt;/p&gt;
-&lt;h3 id=&quot;parallel-prototyping&quot;&gt;Parallel Prototyping&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
-&lt;p&gt;We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumPrototype.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Some wireframes, storyboard and mockups I created.&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;usability-testing&quot;&gt;Usability Testing&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
-
-&lt;p&gt;The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.&lt;/p&gt;
-
-&lt;p&gt;The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.&lt;/p&gt;
-
-&lt;p&gt;Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;final-design&quot;&gt;Final design&lt;/h2&gt;
-
-&lt;p&gt;The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
-&lt;p&gt;We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
-
-&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-06T14:21:29+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -239,25 +122,127 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Data visualization design&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual&lt;/p&gt;
+&lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Literature Reviewer, Designer, Coder&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Tools: &lt;/b&gt; Python, Procreate, R, Graphviz&lt;/p&gt;
+&lt;p&gt;Juspreet, James, Carol, and myself
+(from psychology, design, and computer science backgrounds)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-1.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;One saying about the ubiquity of data is As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. &lt;span class=&quot;evidence&quot;&gt;The design was informed by previous literature on information retrieval and human perception principles.&lt;/span&gt; The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. Interactive graphs will be uploaded here soon.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Primary Researcher, ideation and designer&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-2.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/p&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#user-research&quot;&gt;User Research&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#design&quot;&gt;Design Process&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usability-testing&quot;&gt;Usability Testing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#final-design&quot;&gt;Final Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html">Visualizing data Project type: Data visualization design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
+&lt;p&gt;60 responses from questionnaire&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.&lt;/p&gt;
+
+&lt;h3 id=&quot;interview-and-observation&quot;&gt;Interview and observation&lt;/h3&gt;
+&lt;p&gt;10 semi-structured interviews
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;At Tate&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.&lt;/p&gt;
+
+&lt;h3 id=&quot;analysing-research-data&quot;&gt;Analysing research data&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
+
+&lt;p&gt;I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.&lt;/p&gt;
+
+&lt;p&gt;Some of the key ideas that emerged were:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
+    &lt;li&gt;In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.&lt;/li&gt;
+    &lt;li&gt;People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.&lt;/li&gt;
+    &lt;li&gt;Some people did not want to talk to others and had concerns about speaking loudly in the museum setting.&lt;/li&gt;
+    &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
+    &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
+    &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
+&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
+&lt;p&gt;Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.&lt;/p&gt;
+
+&lt;h3 id=&quot;ideation&quot;&gt;Ideation&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;I sketched my ideas for intervention in the museum.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.&lt;/p&gt;
+
+&lt;p&gt;We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.&lt;/p&gt;
+&lt;h3 id=&quot;parallel-prototyping&quot;&gt;Parallel Prototyping&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumPrototype.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some wireframes, storyboard and mockups I created.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;usability-testing&quot;&gt;Usability Testing&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
+&lt;br /&gt;&lt;br /&gt;
+The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.&lt;/p&gt;
+
+&lt;p&gt;Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;final-design&quot;&gt;Final design&lt;/h2&gt;
+
+&lt;p&gt;The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -348,7 +333,25 @@ Due to the specificity of the recruitment screener and time constraint (finishin
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;breaker&quot;&gt;
-&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">🧘 ‍Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Data visualization design&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Literature Reviewer, Designer, Coder&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tools: &lt;/b&gt; Python, Procreate, R, Graphviz&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;One saying about the ubiquity of data is As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. &lt;span class=&quot;evidence&quot;&gt;The design was informed by previous literature on information retrieval and human perception principles.&lt;/span&gt; The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. Interactive graphs will be uploaded here soon.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html">Visualizing data Project type: Data visualization design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
