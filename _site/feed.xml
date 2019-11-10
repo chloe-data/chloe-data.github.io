@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-10T15:38:30+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-10T16:39:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -22,18 +22,18 @@
 &lt;h2 id=&quot;research-approach&quot;&gt;Research approach&lt;/h2&gt;
 &lt;p&gt;I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically&lt;/p&gt;
 
-&lt;p&gt;Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly. Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-ip questions on the new ideas raised by the interviewee. Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly.&lt;/span&gt; Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-up questions on the new ideas raised by the interviewee. &lt;span class=&quot;evidence&quot;&gt;Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The fact that we were conducting the interview at an open corridor at the ICU, though initially a constraint due to the doctor’s tight schedule, as well encouraged interaction with the staff who passed by.&lt;/span&gt; This not only made the interview process more relaxing, but also sparked discussion surrounding the use of dashboard and general opinions among other staff members.&lt;/p&gt;
 
-&lt;p&gt;As the interviewee explained the difficulty around patient information retrieval, I observed the entire workflow of getting the heart rate of one patient at the existing  Intensive Care Information Platform (ICIP).&lt;/p&gt;
+&lt;p&gt;As the interviewee explained the difficulty around patient information retrieval, &lt;span class=&quot;evidence&quot;&gt;I observed the cumbersome workflow of getting the heart rate data of one patient in the existing  Intensive Care Information Platform (ICIP).&lt;/span&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
 
 &lt;h3 id=&quot;identifying-workflow&quot;&gt;Identifying workflow&lt;/h3&gt;
-&lt;p&gt;During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to formulate the timeline.
+&lt;p&gt;During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to construct the timeline.
 Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
@@ -66,7 +66,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The appropriate target metrics will be included for junior doctor’s view of dashboard&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Clinicians and Care Consultants will reference these target metrics as they further examine the clinical use of those metrics. Metrics will be included for junior doctor’s view of dashboard.&lt;/p&gt;
 
 &lt;h3 id=&quot;user-interface&quot;&gt;User Interface&lt;/h3&gt;
 
@@ -77,7 +77,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/maps.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the team and will be improved in the next iteration.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the UI designer and Care Consultants. Issues will be improved in the next iteration.&lt;/p&gt;
 
 &lt;h3 id=&quot;potential-risks&quot;&gt;Potential risks&lt;/h3&gt;
 &lt;h4 id=&quot;staff-morality&quot;&gt;&lt;b&gt;Staff morality&lt;/b&gt;&lt;/h4&gt;
