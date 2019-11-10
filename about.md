@@ -80,7 +80,7 @@ layout: page
       <h2>Contact me</h2>
       I am always interested to solve design problem through research. Let's get in touch!
       <br><br>
-      <a href = 'mailto:ujungx@ucl.ac.uk' target="_blank" >ucjungx@ucl.ac.uk</a>
+      <a href = 'mailto:chloengux@gmail.com' target="_blank" >Email</a>
       <br><br>
       <a href = 'https://linkedin.com/in/chloenhy/' target="_blank" >LinkedIn</a>
     </div>
