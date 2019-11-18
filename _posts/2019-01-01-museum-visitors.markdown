@@ -121,25 +121,29 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 <br><br>
 <b><span class="evidence">I came up with concepts that were of general and coarse granularity.</span> For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
 </b>
+<br>
 ### Refining ideas
 <b>
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
 ![Markdown Image][18]
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
 </b>
+<br>
 ### Parallel Prototyping
 <b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
-
 </b>
+
 <br>
 ![Markdown Image][16]
 <br>
 ![Markdown Image][17]
 <figcaption>Some wireframes and mockups I created.</figcaption>
 <br>
+<b>
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
-<br>
+</b>
+<br><br>
 ![Markdown Image][15]
 <br><br>
 <b>
