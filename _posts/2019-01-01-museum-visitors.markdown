@@ -131,13 +131,15 @@ We moved forward the idea of web app and digital wall display eventually. This i
 <b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
 
-I created a storyboard listing the key moments of interaction so as to align our team's design goal and make sure everyone agree the same experience we were going to design.
 </b>
-
+<br>
 ![Markdown Image][16]
+<br>
 ![Markdown Image][17]
 <figcaption>Some wireframes and mockups I created.</figcaption>
-
+<br>
+To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
+<br>
 ![Markdown Image][15]
 <br><br>
 <b>
