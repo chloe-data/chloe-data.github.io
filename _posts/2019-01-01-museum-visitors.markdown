@@ -93,7 +93,7 @@ Visitors were conscious of moving on quickly so that other visitors could have t
 I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
 
 Some of the key ideas that emerged were:
-
+</b>
 > * People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.
 > * In order to feel more comfortable interacting with others, people do not want to be the one to initiate a verbal conversation and would prefer indirect facilities rather than direct conversation.
 > * People would like to talk to people with similar interests as them and the opportunity to talk to staff and artists.
@@ -102,7 +102,7 @@ Some of the key ideas that emerged were:
 > * Experiences are currently shared through discussions, social media, and pictures.
 > * One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
 <br><br>
-</b>
+
 
 [Back to Top](#home)
 
@@ -113,8 +113,8 @@ Gathering insights from previous research and our data collection, we aimed to d
 ## Design Process
 <b>
 We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
-
 </b>
+
 ### Ideation: 10x10 sketch
 ![Markdown Image][4]
 <figcaption>Sketches of my intervention ideas at museums.</figcaption>
@@ -128,10 +128,11 @@ As a group, we eliminated ideas that were ineffective at easing user pain points
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
 </b>
 ### Parallel Prototyping
+<b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
 
 I created a storyboard listing the key moments of interaction so as to align our team's design goal and make sure everyone agree the same experience we were going to design.
-
+</b>
 
 ![Markdown Image][16]
 ![Markdown Image][17]
@@ -139,7 +140,9 @@ I created a storyboard listing the key moments of interaction so as to align our
 
 ![Markdown Image][15]
 <br><br>
+<b>
 We then moved on to discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
+</b>
 <br><br>
 ![Markdown Image][5]
 <figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
@@ -154,26 +157,29 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 ![Markdown Image][7]
 <figcaption>During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.</figcaption>
 <br>
+<b>
 The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
 <br><br>
 The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.
 
 Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
-
+</b>
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="final-design"></a>
 ## Final design
-
+<b>
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
+</b>
 <br><br>
 ![Markdown Image][11]
 ![Markdown Image][12]
 ![Markdown Image][13]
 <figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
 <br><br>
+<b>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
-
+</b>
 [Back to Top](#home)
 ---
 [1]: https://chloenhy.github.io/assets/images/museum/whiteboard.jpg
