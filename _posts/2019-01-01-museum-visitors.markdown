@@ -47,14 +47,16 @@ User research, qualitative data analysis, sketching, wireframing, lo-fi prototyp
 
 <div class="breaker"></div> <a id="user-research"></a>
 
-<b>In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes & Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, & Rubiales, 2013).
+<b>
+In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes & Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, & Rubiales, 2013).
 
 Despite the importance of social interaction within the museum setting, many visitors may not have opportunities to discuss their thoughts with others, particularly when visiting alone.
 
 This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.</b>
-
+<br>
+<br>
 ## 1 User Research and Establishing Requirements
-
+<br>
 ### 1.1 Questionnaire
 60 responses from questionnaire
 
@@ -64,8 +66,9 @@ This project aimed to design a solution allowing museum visitors to interact wit
 <b>
 To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
 </b>
-
-### Interview and observation
+<br>
+<br>
+### 1.2 Interview and observation
 10 semi-structured interviews
 <br>
 ![Markdown Image][2]
@@ -75,23 +78,27 @@ To begin to develop an understanding of our users’ needs, we constructed a que
 We conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
 </b>
 <br>
+<br>
 ![Markdown Image][14]
 <figcaption>Field visit at art museums around London.</figcaption>
+<br>
 <br>
 <b>
 Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.  
 </b>
 ### Analysing research data
-
-![Markdown Image][3]{: class="bigger-image" }
-![Markdown Image][10]{: class="smaller-image" }
-<figcaption>Quotes and affinity diagram</figcaption>
-
-
-
+<br>
 <b>
 I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
-
+</b>
+<br>
+![Markdown Image][3]{: class="bigger-image" }
+<br>
+<br>
+![Markdown Image][10]{: class="smaller-image" }
+<figcaption>Quotes and affinity diagram</figcaption>
+<br>
+<b>
 Some of the key ideas that emerged were:
 </b>
 > * People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.
@@ -105,16 +112,21 @@ Some of the key ideas that emerged were:
 
 
 [Back to Top](#home)
+<br>
+<br>
 
 <div class="breaker"></div> <a id="design"></a>
 <b>
 Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum.
 </b>
+<br>
+<br>
 ## Design Process
 <b>
 We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
 </b>
-
+<br>
+<br>
 ### Ideation: 10x10 sketch
 ![Markdown Image][4]
 <figcaption>Sketches of my intervention ideas at museums.</figcaption>
@@ -122,12 +134,14 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 <b><span class="evidence">I came up with concepts that were of general and coarse granularity.</span> For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
 </b>
 <br>
+<br>
 ### Refining ideas
 <b>
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
 ![Markdown Image][18]
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
 </b>
+<br>
 <br>
 ### Parallel Prototyping
 <b>
@@ -164,6 +178,7 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
 </b>
 <br>
+<br>
 ![Markdown Image][7]
 <figcaption>During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.</figcaption>
 <br>
@@ -174,6 +189,7 @@ The response for choosing between continuous scrolling and tab node was mixed. S
 Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
 </b>
 <br>
+<br>
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="final-design"></a>
@@ -183,13 +199,17 @@ The constructive and positive feedback from our participants were encouraging. F
 </b>
 <br><br>
 ![Markdown Image][11]
-![Markdown Image][12]
-![Markdown Image][13]
-<figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
 <br><br>
 <b>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
 </b>
+<br><br>
+![Markdown Image][12]
+![Markdown Image][13]
+<figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
+<br>
+<br>
+<br>
 <br>
 [Back to Top](#home)
 <br>
