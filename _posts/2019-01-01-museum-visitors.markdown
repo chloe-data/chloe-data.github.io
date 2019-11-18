@@ -67,18 +67,22 @@ To begin to develop an understanding of our users’ needs, we constructed a que
 
 ### Interview and observation
 10 semi-structured interviews
+<br>
 ![Markdown Image][2]
 <figcaption>At Tate</figcaption>
-<br><br>
+<br>
 <b>
 We conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
 </b>
-
+<br>
 ![Markdown Image][14]
+<figcaption>Field visit at art museums around London.</figcaption>
+<br>
 <b>
 Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.  
 </b>
 ### Analysing research data
+
 ![Markdown Image][3]{: class="bigger-image" }
 ![Markdown Image][10]{: class="smaller-image" }
 <figcaption>Quotes and affinity diagram</figcaption>
@@ -116,8 +120,9 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 <figcaption>Sketches of my intervention ideas at museums.</figcaption>
 <br><br>
 <b><span class="evidence">I came up with concepts that were of general and coarse granularity.</span> For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
-
+</b>
 ### Refining ideas
+<b>
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
 ![Markdown Image][18]
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
