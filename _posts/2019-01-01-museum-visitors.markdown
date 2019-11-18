@@ -119,22 +119,23 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 
 ### Refining ideas
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
-
+![Markdown Image][18]
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
 </b>
 ### Parallel Prototyping
-![Markdown Image][15]
-![Markdown Image][16]
-![Markdown Image][17]
+![Markdown Image][15]{: class="smaller-image" }
+![Markdown Image][16]{: class="smaller-image" }
+![Markdown Image][17]{: class="smaller-image" }
+<figcaption>Some wireframes, storyboard and mockups I created.</figcaption>
 
-![Markdown Image][18]
+
 ![Markdown Image][5]
 <figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
 <br><br>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
 <br><br>
-![Markdown Image][6]
-<figcaption>Some wireframes, storyboard and mockups I created.</figcaption>
+
+
 
 [Back to Top](#home)
 
