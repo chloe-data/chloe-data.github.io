@@ -87,7 +87,7 @@ We conducted semi-structured interviews with 5 visitors and 5 members of staff a
 <b>
 Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.  
 </b>
-### Analysing research data
+### 1.3 Analysing research data
 <br>
 <b>
 I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
@@ -122,13 +122,13 @@ Gathering insights from previous research and our data collection, we aimed to d
 </b>
 <br>
 <br>
-## Design Process
+## 2 Design Process
 <b>
 We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
 </b>
 <br>
 <br>
-### Ideation: 10x10 sketch
+### 2.1 Ideation: 10x10 sketch
 ![Markdown Image][4]
 <figcaption>Sketches of my intervention ideas at museums.</figcaption>
 <br><br>
@@ -136,7 +136,7 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 </b>
 <br>
 <br>
-### Refining ideas
+### 2.2 Refining ideas
 <b>
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
 ![Markdown Image][18]
@@ -144,7 +144,7 @@ We moved forward the idea of web app and digital wall display eventually. This i
 </b>
 <br>
 <br>
-### Parallel Prototyping
+### 2.3 Parallel Prototyping
 <b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
 </b>
@@ -184,7 +184,7 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="usability-testing"></a>
-### Usability Testing
+### 3 Usability Testing
 <br>
 <b>
 I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
@@ -205,7 +205,7 @@ Regarding the participants’ feeling towards the intervention, they were positi
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="final-design"></a>
-## Final design
+## 4 Final design
 <b>
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
 </b>
@@ -226,6 +226,11 @@ We incorporated the feedback on full-screen message notification into our final 
 <br>
 <br>
 <br>
+
+<b>
+Thanks for reading!
+</b>
+
 [Back to Top](#home)
 <br>
 
