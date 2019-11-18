@@ -79,6 +79,7 @@ We conducted semi-structured interviews with 5 visitors and 5 members of staff a
 </b>
 <br>
 <br>
+<br>
 ![Markdown Image][14]
 <figcaption>Field visit at art museums around London.</figcaption>
 <br>
@@ -157,9 +158,11 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 <b>
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
 </b>
-<br><br>
+<br>
+<br>
 ![Markdown Image][15]
-<br><br>
+<br>
+<br>
 <b>
 We then moved on to discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
 </b>
