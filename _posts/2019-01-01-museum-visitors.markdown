@@ -156,16 +156,20 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 
 <div class="breaker"></div> <a id="usability-testing"></a>
 ### Usability Testing
+<b>
+I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
+</b>
+<br>
 ![Markdown Image][7]
 <figcaption>During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.</figcaption>
 <br>
+<br>
 <b>
-The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
-<br><br>
 The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.
 
 Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
 </b>
+<br>
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="final-design"></a>
@@ -182,7 +186,11 @@ The constructive and positive feedback from our participants were encouraging. F
 <b>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
 </b>
+<br>
 [Back to Top](#home)
+<br>
+
+
 ---
 [1]: https://chloenhy.github.io/assets/images/museum/whiteboard.jpg
 [2]: https://chloenhy.github.io/assets/images/museum/museumhall2.jpg
