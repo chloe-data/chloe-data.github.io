@@ -21,7 +21,7 @@ description: CaptionThis
 ---
 <div class="breaker"></div> <a id="home"></a>
 # End-to-end design project: Connecting museum visitors
-<b>Project type: </b>
+<b><b>Project type: </b>
 
 Full cycle of research: design, testing, iteration, and final prototype
 
@@ -32,12 +32,12 @@ Juspreet, James, Carol, and myself
 
 <b>Role: </b>
 
-Primary Researcher, ideation and designer
+Primary Researcher, ideation and prototyper
 
 <b>Methods: </b>
 
 User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
-
+</b>
 
 ## Table of Contents
 - [User Research](#user-research)
@@ -46,6 +46,13 @@ User research, qualitative data analysis, sketching, wireframing, lo-fi prototyp
 - [Final Design](#final-design)
 
 <div class="breaker"></div> <a id="user-research"></a>
+
+<b>In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes & Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, & Rubiales, 2013).
+
+Despite the importance of social interaction within the museum setting, many visitors may not have opportunities to discuss their thoughts with others, particularly when visiting alone.
+
+This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.</b>
+
 ## 1 User Research and Establishing Requirements
 
 ### 1.1 Questionnaire
@@ -54,16 +61,23 @@ User research, qualitative data analysis, sketching, wireframing, lo-fi prototyp
 ![Markdown Image][1]
 <figcaption>My teammate and I organising questionnaire data.</figcaption>
 <br><br>
+<b>
 To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
-
+</b>
 
 ### Interview and observation
 10 semi-structured interviews
 ![Markdown Image][2]
 <figcaption>At Tate</figcaption>
 <br><br>
-In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
+<b>
+We conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
+</b>
 
+![Markdown Image][14]
+<b>
+Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.  
+</b>
 ### Analysing research data
 ![Markdown Image][3]{: class="bigger-image" }
 ![Markdown Image][10]{: class="smaller-image" }
@@ -71,8 +85,7 @@ In addition, we conducted semi-structured interviews with 5 visitors and 5 membe
 
 
 
-
-
+<b>
 I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
 
 Some of the key ideas that emerged were:
@@ -85,21 +98,36 @@ Some of the key ideas that emerged were:
 > * Experiences are currently shared through discussions, social media, and pictures.
 > * One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
 <br><br>
+</b>
+
 [Back to Top](#home)
 
 <div class="breaker"></div> <a id="design"></a>
+<b>
+Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum.
+</b>
 ## Design Process
-Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
+<b>
+We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
 
-
-### Ideation
+</b>
+### Ideation: 10x10 sketch
 ![Markdown Image][4]
-<figcaption>I sketched my ideas for intervention in the museum.</figcaption>
+<figcaption>Sketches of my intervention ideas at museums.</figcaption>
 <br><br>
-I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
+<b><span class="evidence">I came up with concepts that were of general and coarse granularity.</span> For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
+
+### Refining ideas
+As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
 
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
+</b>
 ### Parallel Prototyping
+![Markdown Image][15]
+![Markdown Image][16]
+![Markdown Image][17]
+
+![Markdown Image][18]
 ![Markdown Image][5]
 <figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
 <br><br>
@@ -153,3 +181,9 @@ We incorporated the feedback on full-screen message notification into our final 
 [11]: https://chloenhy.github.io/assets/images/museum/final1.png
 [12]: https://chloenhy.github.io/assets/images/museum/final2.png
 [13]: https://chloenhy.github.io/assets/images/museum/final3.png
+
+[14]: https://chloenhy.github.io/assets/images/museum/gallery.jpg
+[15]: https://chloenhy.github.io/assets/images/museum/storyboard.png
+[16]: https://chloenhy.github.io/assets/images/museum/low-fi.png
+[17]: https://chloenhy.github.io/assets/images/museum/mid-fi.png
+[18]: https://chloenhy.github.io/assets/images/museum/design-funnel.png
