@@ -151,9 +151,11 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 
 <br>
 ![Markdown Image][16]
+<figcaption>Some of the lo-fi wireframes I created.</figcaption>
+<br>
 <br>
 ![Markdown Image][17]
-<figcaption>Some wireframes and mockups I created.</figcaption>
+<figcaption>Some of the medium fidelity mockups I created.</figcaption>
 <br>
 <b>
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
