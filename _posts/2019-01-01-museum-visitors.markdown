@@ -157,18 +157,24 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 ![Markdown Image][17]
 <figcaption>Some of the medium fidelity mockups I created.</figcaption>
 <br>
+<br>
+<br>
 <b>
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
 </b>
 <br>
 <br>
+<br>
 ![Markdown Image][15]
+<br>
 <br>
 <br>
 <b>
 We then moved on to discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
 </b>
-<br><br>
+<br>
+<br>
+<br>
 ![Markdown Image][5]
 <figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
 
@@ -179,6 +185,7 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 
 <div class="breaker"></div> <a id="usability-testing"></a>
 ### Usability Testing
+<br>
 <b>
 I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
 </b>
@@ -202,13 +209,16 @@ Regarding the participants’ feeling towards the intervention, they were positi
 <b>
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
 </b>
-<br><br>
+<br>
+<br>
 ![Markdown Image][11]
-<br><br>
+<br>
+<br>
 <b>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
 </b>
-<br><br>
+<br>
+<br>
 ![Markdown Image][12]
 ![Markdown Image][13]
 <figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
