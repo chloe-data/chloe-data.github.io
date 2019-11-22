@@ -8,7 +8,7 @@ tag:
 - Heuristic Evaluation
 - Critical Interface Analysis
 - Usability Study
-- Sketching
+- Sketching techniques
 
 
 projects: true
@@ -18,10 +18,12 @@ author: chloeng
 description: A critical interface analysis of a ticket vending machine at Euston station, followed by a redesign of the machine.
 ---
 
-## User perspectives on Robotics for Post-stroke Hand Rehabilitation
+## Redesigning a self-service ticket machine at Euston station
 <b>Project type: </b> Critical Interface Analysis and Redesign
 
 <b>Team size: </b> Individual project
+
+This project focus on the two parts: first, to critically analyse the existing user interface and point out the potential problems; second, to address the identified problems with design improvements of the interface. The presentation slide here focus on the entire evaluation and design process.
 
 ![Markdowm Image][1]{: class="bigger-image" }
 
