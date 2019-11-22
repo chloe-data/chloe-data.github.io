@@ -49,16 +49,21 @@ User research, qualitative data analysis, sketching, wireframing, lo-fi prototyp
 
 <b>
 In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes & Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, & Rubiales, 2013).
+</b>
 
+<b>
 Despite the importance of social interaction within the museum setting, many visitors may not have opportunities to discuss their thoughts with others, particularly when visiting alone.
+</b>
 
-This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.</b>
+<b>
+This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.
+</b>
 <br>
 <br>
 ## 1 User Research and Establishing Requirements
-<br>
+
 ### 1.1 Questionnaire
-60 responses from questionnaire
+<b>60 responses from questionnaire
 
 ![Markdown Image][1]
 <figcaption>My teammate and I organising questionnaire data.</figcaption>
@@ -69,7 +74,7 @@ To begin to develop an understanding of our users’ needs, we constructed a que
 <br>
 <br>
 ### 1.2 Interview and observation
-10 semi-structured interviews
+<b>10 semi-structured interviews
 <br>
 ![Markdown Image][2]
 <figcaption>At Tate</figcaption>
@@ -92,6 +97,8 @@ Visitors were conscious of moving on quickly so that other visitors could have t
 <b>
 I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
 </b>
+<br>
+<br>
 <br>
 ![Markdown Image][3]{: class="bigger-image" }
 <br>
@@ -117,12 +124,14 @@ Some of the key ideas that emerged were:
 <br>
 
 <div class="breaker"></div> <a id="design"></a>
+<br>
 <b>
 Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum.
 </b>
 <br>
 <br>
 ## 2 Design Process
+<br>
 <b>
 We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
 </b>
@@ -137,14 +146,18 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 <br>
 <br>
 ### 2.2 Refining ideas
+<br>
 <b>
 As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
+<br>
 ![Markdown Image][18]
+<br>
 We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
 </b>
 <br>
 <br>
 ### 2.3 Parallel Prototyping
+<br>
 <b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
 </b>
@@ -162,6 +175,7 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 <br>
 <b>
 #### User journey storyboarding
+<b>
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
 </b>
 <br>
@@ -178,7 +192,9 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 <br>
 <br>
 #### Internal evaluation of prototype
+<b>
 Each of our team members took turn to explain the mentla models behind our designs. We discussed and critiqued each other's work. Eventually came up with minimum viable prototypes (MVP) for further testing.
+</b>
 <br>
 <br>
 ![Markdown Image][5]
@@ -197,6 +213,7 @@ I co-led usability tests with our user group using paper prototype. This informe
 </b>
 <br>
 <br>
+<br>
 ![Markdown Image][7]
 <figcaption>During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.</figcaption>
 <br>
@@ -213,6 +230,7 @@ Regarding the participants’ feeling towards the intervention, they were positi
 
 <div class="breaker"></div> <a id="final-design"></a>
 ## 4 Final design
+<br>
 <b>
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
 </b>
