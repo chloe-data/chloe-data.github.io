@@ -249,13 +249,11 @@ We incorporated the feedback on full-screen message notification into our final 
 <figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
 <br>
 <br>
-<br>
-<br>
-
 <b>
 Thanks for reading!
 </b>
-
+<br>
+<br>
 [Back to Top](#home)
 <br>
 
