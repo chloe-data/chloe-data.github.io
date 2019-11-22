@@ -31,4 +31,8 @@ description: Blending traditional pranayama practice with sensor and actuators.
 ### Abstract
 D
 
+<video src="pcp-backyard.mp4" width="320" height="200" controls preload></video>
+
+<video src="pcp-test.mp4" width="320" height="200" controls preload></video>
+
 ---
