@@ -23,17 +23,23 @@ description: A critical interface analysis of a ticket vending machine at Euston
 
 <b>Team size: </b> Individual project
 
-This project focus on the two parts: first, to critically analyse the existing user interface and point out the potential problems; second, to address the identified problems with design improvements of the interface. The presentation slide here focus on the entire evaluation and design process.
+<b>
+This project focus on the two parts:
+(1) To critically analyse the existing user interface and point out the potential problems
+(2) To address the identified problems with design improvements of the interface
+
+The presentation slides here focus on the entire evaluation and design process.
+</b>
 
 ![Markdowm Image][1]{: class="bigger-image" }
 
 
 
 ![Markdowm Image][2]{: class="bigger-image" }
-
-
-
-
+<br>
+<br>
+Here is an A2-sized poster created for a design critique and showcase with other designers:
+<br>
 <img alt="ticket poster" src="https://chloenhy.github.io/assets/images/train/ticket-machine.jpg" />
 
 [1]: https://chloenhy.github.io/assets/images/train/ticket1.jpg
