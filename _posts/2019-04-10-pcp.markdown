@@ -29,7 +29,7 @@ description: Blending traditional pranayama practice with sensor and actuators.
 <b>Methods: </b> Arduino, sketching, 3D printing, laser cutting
 
 ### Abstract
-<video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4"></video>
+<video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200"></video>
 
 <video src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4"  loop={true} controls preload></video>
 
