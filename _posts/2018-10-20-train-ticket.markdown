@@ -24,4 +24,4 @@ description: A critical interface analysis of a ticket vending machine at Euston
 <b>Team size: </b> Individual project
 
 
-<img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/train/ticket-machine.pdf" />
+<img alt="ticket poster" src="https://chloenhy.github.io/assets/images/train/ticket-machine.jpg" />
