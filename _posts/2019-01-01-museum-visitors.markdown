@@ -128,7 +128,7 @@ We started to sketch our own ideas with individual brainstormings. Then we discu
 </b>
 <br>
 <br>
-### 2.1 Ideation: 10x10 sketch
+### 2.1 Ideation: Crazy-eight brainstorming
 ![Markdown Image][4]
 <figcaption>Sketches of my intervention ideas at museums.</figcaption>
 <br><br>
@@ -148,8 +148,9 @@ We moved forward the idea of web app and digital wall display eventually. This i
 <b>
 We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
 </b>
-
 <br>
+<br>
+#### Wireframes and prototyping
 ![Markdown Image][16]
 <figcaption>Some of the lo-fi wireframes I created.</figcaption>
 <br>
@@ -160,6 +161,7 @@ We decided our initial workflow by listing the tasks that a visitor would do whe
 <br>
 <br>
 <b>
+#### User journey storyboarding
 To align our team's design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
 </b>
 <br>
@@ -175,11 +177,15 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 <br>
 <br>
 <br>
+#### Internal evaluation of prototype
+Each of our team members took turn to explain the mentla models behind our designs. We discussed and critiqued each other's work. Eventually came up with minimum viable prototypes (MVP) for further testing.
+<br>
+<br>
 ![Markdown Image][5]
 <figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
 
-
-
+<br>
+<br>
 
 [Back to Top](#home)
 
@@ -197,7 +203,8 @@ I co-led usability tests with our user group using paper prototype. This informe
 <br>
 <b>
 The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.
-
+</b>
+<b>
 Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
 </b>
 <br>
