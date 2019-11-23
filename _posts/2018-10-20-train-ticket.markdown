@@ -25,13 +25,13 @@ description: A critical interface analysis of a ticket vending machine at Euston
 <b>Team size: </b> Individual project
 <div class="breaker"></div>
 <b>
-This is a design activity in my Interaction Design class. We first choose a physical interface we use in our daily life that we could improve on, then we perform a heuristic evaluation with regard to human factor concepts. After analysing the interface and locating rooms for improvement, we propose new design or design refinement on the existing interface. Finally, we present our conceptual design and critique one another at a design artefact showcase.  
+This is a design activity in my Interaction Design class. We first choose a physical interface we use in our daily life that we could improve on, then we perform a heuristic evaluation with regard to human factor concepts. After analysing the interface and locating rooms for improvement, we propose new design or design refinement on the existing interface.
 
 
-I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via national rail, as well as within London via tube and overground services. Purchasing or collecting train tickets is usually time-critical not only because of train departure time, but also it is difficult to predict when there will be a long queue at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
+I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via the national rail, and within London via tube and overground services. Purchasing or collecting train tickets at a self-service machine can sometimes be a pain. Although most interaction remains on screen, the design of physical machine can help increase learnability and save commuters' time, thus avoid long queues at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
 
 
-In short, this project focus on the two parts:
+In short, this redesign project focus on the two parts:
 (1) To critically analyse the existing user interface of a ticket vending machine and point out the potential problems
 (2) To address the identified problems with design improvements of the machine interface
 
@@ -43,13 +43,14 @@ Here is a two-page explanation focusing on the entire evaluation and design proc
 ![Markdowm Image][1]{: class="bigger-image" }
 
 
-
+<b>Design proposal
+<br>
 ![Markdowm Image][2]{: class="bigger-image" }
 <br>
 <br>
 <br>
 <br>
-After individually designing This is an A2-sized poster created for a design critique and showcase with other designers:
+<b> Finally, we present our conceptual design and critique one another's at a design artefact showcase with other designers.  This is an A2-sized poster created for a design critique and showcase:
 <br>
 <br>
 <br>
