@@ -36,6 +36,9 @@ description: Blending traditional pranayama practice with sensor and actuators.
 Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is one that fits on your desk or bedroom side table to engage you with breathing practice.
 </b>
 
+
+<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="320" height="200"></img>
+
 ![Markdowm Image][1]
 
 ### How it works
