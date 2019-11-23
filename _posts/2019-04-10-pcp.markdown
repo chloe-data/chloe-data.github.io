@@ -37,7 +37,7 @@ Most of the technology-assisted meditation and pranayama breathing practice are 
 </b>
 
 
-<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="400" height="400">
+<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="400" height="420">
 
 
 ### How it works
@@ -53,7 +53,21 @@ Ending the sequence with your favorite yoga mudra to show your gratitude to your
 </b>
 
 ### Design process
+Early Sketches from brainstorming. Sketches that directly informed design of form factor:
 
+<img src="https://chloenhy.github.io/assets/images/pcp/sketch.jpg" width="400" height="440">
+
+
+<b>3D Printing</b>
+<b>3D printing used is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality & material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
+</b>
+
+<b>Laser cutting</b>
+<b>
+Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
+</b>
+
+Patterns of yoga mudras were engraved and painted on the acrylic board to enhance the visual appearance. The patterns also serve as instruction for user to start using this prototype. All mudra patterns were vector files from
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200"></video>
 
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200"></video>
