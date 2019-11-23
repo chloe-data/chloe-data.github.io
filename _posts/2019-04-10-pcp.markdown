@@ -1,5 +1,5 @@
 ---
-title: "🧘 ‍Interactive tangible prototype"
+title: "🧘 ‍Interactive Tangible Prototype"
 layout: post
 date: 2019-05-01 22:00
 image: /assets/images/rehab/hand.jpg
@@ -32,14 +32,16 @@ description: Blending traditional pranayama practice with sensor and actuators.
 
 <b>
 <b>Novel approach of using tangible cue</b>
+<br>
 Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is one that fits on your desk or bedroom side table to engage you with breathing practice.
 </b>
 
+![Markdowm Image][1]
 
 ### How it works
 <b>
 <b>Inhale-exhale:</b>
-User would use hand motion to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.
+Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.
 
 
 <b>
@@ -47,9 +49,11 @@ User would use hand motion to control the light trail inside the twisted cylinde
 Ending the sequence with your favorite yoga mudra to show your gratitude to yourself. See the base of the prototype for more mudras.
 </b>
 
+
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200"></video>
 
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200"></video>
 
 
 ---
+[1]: https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg
