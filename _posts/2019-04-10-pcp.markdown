@@ -19,7 +19,7 @@ author: chloeng
 description: Blending traditional pranayama practice with sensor and actuators.
 ---
 
-### User perspectives on Robotics for Post-stroke Hand Rehabilitation
+### Mudrayama - an interactive prototype to aid pranayama yogic breathing
 <b>Project type: </b> Physical Prototyping
 
 <b>Team size: </b> Individual project
@@ -37,21 +37,22 @@ Most of the technology-assisted meditation and pranayama breathing practice are 
 </b>
 
 
-<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="320" height="200"></img>
+<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="400" height="400">
 
-![Markdowm Image][1]
 
 ### How it works
 <b>
 <b>Inhale-exhale:</b>
 Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.
 
+<video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-bed.mp4" width="320" height="200"></video>
 
 <b>
 <b>Hand mudra:</b>
 Ending the sequence with your favorite yoga mudra to show your gratitude to yourself. See the base of the prototype for more mudras.
 </b>
 
+### Design process
 
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200"></video>
 
