@@ -234,16 +234,23 @@ Regarding the participants’ feeling towards the intervention, they were positi
 <b>
 The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
 </b>
+
 <br>
 <br>
+
+
 ![Markdown Image][11]
+
 <br>
 <br>
+
 <b>
 We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
 </b>
+
 <br>
 <br>
+
 ![Markdown Image][12]
 ![Markdown Image][13]
 <figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
