@@ -36,13 +36,13 @@ Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%" align="middle"/>
 <br>
 <br>
-##### Final gesture set for game tasks
 <img alt="mid air gestures" src="https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
-
 <img alt="touch gestures" src="https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg"/>
-
+<br>
+<br>
 <img alt="agreement rates" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg"/>
-
+<br>
+<br>
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%"/>
 
 
