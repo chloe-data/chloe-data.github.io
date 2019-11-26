@@ -48,19 +48,4 @@ I conducted gesture elicitation session with 24 participants using priming and p
 
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width=50% height=50%/>
 
-* The results highlight a <b>dichotomy</b> between stroke patients/caregivers and domain experts.
-
-* From the CEQ, we learnt that <b>both stroke patients and caregivers considered the device as credible</b> and expected hand dexterity improvements from using the device.
-
-* In contrast, <b>domain experts did not see the device as credible</b> and useful to improve impaired hand motor function.
-
-* The reason might be that <span class="evidence">participants’ feedback for the device is associated with their <b>previous experience</b> with rehabilitative device</span>.
-
-The four themes emerged from the interviews were:
-* <b>Perceived Efficacy</b> - Participants were able to propose use case scenarios to put the device in the context of patient daily life.
-
-* <b>Combining device usage with current physiotherapies and ADL</b> - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.
-
-* <b>Negative feedback for the exoskeleton mechanism</b> -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.
-
-* <b>Weight and Appearance</b> - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.
+Feel free to drop me a message if you are interested in the full paper!
