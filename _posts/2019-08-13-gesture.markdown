@@ -34,18 +34,18 @@ Interaction techniques for mobile games have developed massively as the capabili
 ##### Method
 I conducted gesture elicitation session with 24 participants using priming and pairing methods to encourage out-of-the-box proposals.
 
-<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width=50% height=50%/>
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%"/>
 ##### Findings
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
 
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg"/>
 
-<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg" width=50% height=50%/>
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg" width="50%" height="50%"/>
 
-<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width=50% height=50%/>
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%"/>
 
-<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width=50% height=50%/>
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%"/>
 
-<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width=50% height=50%/>
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%"/>
 
 Feel free to drop me a message if you are interested in the full paper!
