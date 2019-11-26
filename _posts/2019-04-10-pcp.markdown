@@ -33,11 +33,11 @@ description: Blending traditional pranayama practice with sensor and actuators.
 <b>
 <b>Novel approach of using tangible cue</b>
 <br>
-Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is one that fits on your desk or bedroom side table to engage you with breathing practice.
+Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is s proof-of-concept prototype that fits on your desk or bedroom side table to engage you with breathing practice.
 </b>
 
 
-<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="400" height="420">
+<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width="400" height="430">
 
 
 ### How it works
@@ -46,6 +46,7 @@ Most of the technology-assisted meditation and pranayama breathing practice are 
 Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.
 
 <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-bed.mp4" width="320" height="200"></video>
+<figcaption class="caption">Breathe in...breathe out...   The distance signal detection was unstable (even after averaging out), which explains the flickering LED. </figcaption>
 
 <b>
 <b>Hand mudra:</b>
@@ -55,14 +56,16 @@ Ending the sequence with your favorite yoga mudra to show your gratitude to your
 ### Design process
 Early Sketches from brainstorming. Sketches that directly informed design of form factor:
 
-<img src="https://chloenhy.github.io/assets/images/pcp/sketch.jpg" width="400" height="440">
+<img src="https://chloenhy.github.io/assets/images/pcp/sketch.jpg">
 
-
+<br>
 <b>3D Printing</b>
-<b>3D printing used is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality & material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
+<br>
+<b>The major components of this prototype were 3D printed. The use is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality & material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
 </b>
-
+<br>
 <b>Laser cutting</b>
+<br>
 <b>
 Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
 </b>
