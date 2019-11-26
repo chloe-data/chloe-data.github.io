@@ -50,7 +50,7 @@ Here is a two-page explanation focusing on the evaluation and design process:
 <br>
 <br>
 <br>
-<b> Finally, we present our conceptual design and critique one another's at a design artefact showcase with other designers.  This is an A2-sized poster created for a design critique and showcase:
+<b> At the end of this design activity, we presented our conceptual design and critique one another's at a design artefact showcase with other designers.  This is an A2-sized poster created for a design critique and showcase:
 </b>
 <br>
 <br>
