@@ -34,12 +34,18 @@ Interaction techniques for mobile games have developed massively as the capabili
 Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air gesture proposals for 11 game tasks, as well as insights into user preferences. This paper extends prior gesture elicitation work for cross-device interaction by applying the elicitation methodology in co-located mobile gaming. We contribute to the classification and analysis of 622 gestures, resulting in a consensus gesture set, a gesture taxonomy showing more collaborative gestures in the mid-air modality, and agreement rates showing higher consensus for touch gestures. We identified themes from participants’ feedback, which offer guidelines for future game and gesture design. With the rise of gesture-based control mobile devices, we believe this work can be a reference point for future mobile game gesture design.
 
 #### Snippets of findings
+<br>
+<br>
 <div style="display: flex; justify-content: center;">
   <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%" />
 </div>
 <br>
 <br>
+<br>
+<br>
 <img alt="agreement rates" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg"/>
+<br>
+<br>
 <br>
 <br>
 <div style="display: flex; justify-content: center;">
@@ -47,10 +53,13 @@ Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air
 </div>
 <br>
 <br>
+<br>
+<br>
 <img alt="mid air gestures" src="https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
 <img alt="touch gestures" src="https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg"/>
 
-
-
-
-The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper!
+<br>
+<br>
+<br>
+<br>
+The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper :)
