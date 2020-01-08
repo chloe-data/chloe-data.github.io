@@ -37,7 +37,7 @@ Most of the technology-assisted meditation and pranayama breathing practice are 
 </b>
 
 
-<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg" width=50% height=50%></img>
+<img src="https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg">
 
 
 ### How it works
