@@ -2,7 +2,7 @@
 title: "🧘 ‍Interactive Tangible Prototype"
 layout: post
 date: 2019-05-01 22:00
-image: /assets/images/rehab/hand.jpg
+image: false
 headerImage: false
 tag:
 - proof-of-concept
