@@ -30,7 +30,7 @@ description: Designing data visualization with human perception principles in mi
 ## Background
 <b>As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. <span class="evidence">The design was informed by previous literature on information retrieval and human perception principles.</span> The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. Interactive graphs will be uploaded here soon.</b>
 
-<div>
+<div class="graph-container">
     <a href="https://plot.ly/~chloe.ng/2/?share_key=2nwYbBfXAtQRbuzQWROMVs" target="_blank" title="currency_matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~chloe.ng/2.png?share_key=2nwYbBfXAtQRbuzQWROMVs" alt="currency_matrix" style="max-width: 100%;width: 50%;"  width="50%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="chloe.ng:2" sharekey-plotly="2nwYbBfXAtQRbuzQWROMVs" src="https://plot.ly/embed.js" async></script>
 </div>
@@ -40,8 +40,13 @@ description: Designing data visualization with human perception principles in mi
 
 <div class="breaker"></div>
 
-
-
+<style>
+    .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+</style>
 
 
 
