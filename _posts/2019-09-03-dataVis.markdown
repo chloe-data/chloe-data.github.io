@@ -31,7 +31,7 @@ description: Designing data visualization with human perception principles in mi
 <b>As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. <span class="evidence">The design was informed by previous literature on information retrieval and human perception principles.</span> The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. Interactive graphs will be uploaded here soon.</b>
 
 
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~chloe.ng/2.embed"></iframe>
 
 ![Markdowm Image][2]
 
