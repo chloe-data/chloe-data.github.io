@@ -15,6 +15,13 @@ category: project
 author: chloeng
 description: Designing data visualization with human perception principles in mind
 ---
+<style>
+    .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+</style>
 
 ## Visualizing data
 <b>Project type: </b> Data visualization design
@@ -40,13 +47,7 @@ description: Designing data visualization with human perception principles in mi
 
 <div class="breaker"></div>
 
-<style>
-    .graph-container {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    }
-</style>
+
 
 
 
