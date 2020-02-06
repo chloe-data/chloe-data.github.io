@@ -37,15 +37,15 @@ description: Designing data visualization with human perception principles in mi
 ## Background
 <b>As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. <span class="evidence">The design was informed by previous literature on information retrieval and human perception principles.</span> The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate.</b>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/yzqpppNM3HIgtV" title="dv" target="_blank">dv</a> </strong> from <strong><a href="//www.slideshare.net/ChloeNG4" target="_blank">Chloe Ng</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV"  width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 
 <div class="graph-container">
     <a href="https://plot.ly/~chloe.ng/2/?share_key=2nwYbBfXAtQRbuzQWROMVs" target="_blank" title="currency_matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~chloe.ng/2.png?share_key=2nwYbBfXAtQRbuzQWROMVs" alt="currency_matrix" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="chloe.ng:2" sharekey-plotly="2nwYbBfXAtQRbuzQWROMVs" src="https://plot.ly/embed.js" async></script>
 </div>
-
-![Markdowm Image][2]
-
 
 <div class="breaker"></div>
 
