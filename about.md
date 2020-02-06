@@ -9,7 +9,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
     <h2>User Researcher</h2>
-    <p><b>Being passionate about understanding and improving the intersection between human and technology, I am curious to learn about individuals as a user researcher. My academic and industry projects in Human-computer Interaction equip me with <span class="evidence"><b>a solid understanding of interaction science and design, which reinforced my research interest in the intersection of technology and human behaviour, particularly in digital health.</b></span> I also enjoy evangelising user research practice and engage with the community.</b></p>
+    <p><b>Being passionate about understanding and improving the intersection between human and technology, I am curious to learn about individuals as a user researcher. My academic and industry projects in Human-computer Interaction equip me with <span class="evidence"><b>a solid understanding of interaction science and design, which reinforced my research interest in the intersection of technology and human behaviour.</b></span> I also enjoy evangelising user research practice and engage with the community.</b></p>
     </div>
     <div class="toright">
         <br><br><br><br>
@@ -23,13 +23,31 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
       <h2>Product Person</h2>
-      <p><b>I previously worked in user research and product management in the technology industry. Working under the product management for a data logging enterprise software, I led my team's presence in conferences to present the product to users and vendors. I also co-hosted workshops teaching users to interact with the software. <span class="evidence"><b>These experiences enable me to communicate concisely with both engineers and designers.</b></span></b>
+      <p><b>In the past years, I have worked in agile teams in large enterprise and small start-up companies (and even start-up in a large company!). I have been doing work in the product management side as well such as maintaining backlog, leading team's presence in conferences, presenting the product to users and vendors, hosting user education workshops, and doing competitor analysis. <span class="evidence"><b>These experiences enable me to communicate concisely with users, engineers and designers.</b></span></b>
       </p>
     </div>
 
     <div class="toright">
       <br><br><br><br>
-      <img class = "image" src="https://chloenhy.github.io/assets/images/about/cisco.jpg" alt="Alt Text">
+      <img class = "image" src="https://chloenhy.github.io/assets/images/about/cisco.jpg" alt="talking to customers in an industry conference">
+
+    </div>
+</div>
+
+<br><br>
+
+<div class="side-by-side">
+    <div class="toleft">
+      <h2>Data-driven</h2>
+      <p><b>I enjoy wrangling with data and build impactful data visualisation through storytelling. My Master’s degree in Human-Computer Interaction equips me with vigorous research and analytical skills. My BBA degree in Management Information System and Minor in Statistics have also built my skills in wrangling, visualising and making inference from large datasets. The combination of my education is essential for my approach to user research, because it allows me to marry qualitative methodologies to quantitative analysis.
+
+ </b></span></b>
+      </p>
+    </div>
+
+    <div class="toright">
+      <br><br><br><br>
+      <img class = "image" src="https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg" alt="chloropleth map on wall with pedestrians passing by">
 
     </div>
 </div>
@@ -68,12 +86,7 @@ layout: page
 
       <br><br><br><br><br><br><br>
 
-      <h2>Current reading</h2>
-      21 Lessons for the 21st Century, <br>
-      Yuval Noah Harari <br>
-      <br><br><br>
-      Tibetan Yoga: Principles and Practices, <br>
-      Ian A. Baker
+   
 
       <br><br><br><br><br><br><br>
 
