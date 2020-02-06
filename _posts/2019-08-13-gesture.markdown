@@ -6,7 +6,8 @@ image: false
 headerImage: false
 tag:
 - Cross-device
-- Gesture elicitation
+- Data Visualisation
+- Statistical test
 - Exit Interview
 - Questionnaires
 - Mixed-method
@@ -24,9 +25,44 @@ description: Gesture Elicitation
 
 <b>My role: </b> Researcher
 
-<b>Methods: </b> Gesture elicitation, questionnaires, exit interviews, thematic analysis, sketch, data visualisation, quantitative
+<b>Methods: </b> t-tests, questionnaires, exit interviews, thematic analysis, sketch, data visualisation, quantitative
+
+#### Background
+In recent years, mobile games have become increasingly popular and have largely improved on their interaction techniques. This improvement is enabled by the increasing capability in modern mobile devices as they feature sophisticated sensors such as accelerometers, gyroscope, and motion sensors, which allows for a vast range of input methods. 
+
+To make use of the improving capability in mobile devices in the domain of mobile games, there has been research that explores alternative input methods (other than using capacitive touchscreens).
+
+In this research, we aim to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community. We will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.
 
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg" />
+#### Research Approach
+We draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures. User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.
+
+I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
+
+We seek answers to our research question: 
+
+How can the results and observations made in a gesture elicitation for game tasks inform gesture design in co-located multiplayer mobile games?
+
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/participants.jpg" />
+
+
+#### Data Collection and Analysis
+Data collected include observational notes jotted by the experimenter and the video recordings (Figure 4) of the entire sessions, including the elicitation and the post-study interviews. The pre- and post-study questionnaires contain demographic, technology usage habits, Likert-scale and free-form responses. Descriptive statistics were generated from the Likert-scale questions. 
+
+<div style="display: flex; justify-content: center;">
+  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%" align="middle"/>
+</div>
+
+All gestures were coded (and fed into the AGAte 2.0 tool for agreement rate calculation.
+<img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/agate.jpg" />
+
+
+#### Results
+##### Quantitative 
+A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.
+<img alt="agreement rates" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg"/>
+
 #### Abstract
 Interaction techniques for mobile games have developed massively as the capabilities of mobile devices have become sophisticated. However, work on interaction techniques for mobile gaming focuses mainly on single- player games and are expert-designed. This paper attempts to bridge this gap by investigating touch and mid-air gestures as input control for co-located mobile gaming from a user perspective, specifically using board and card games due to the materiality of their game artefacts and the rich interaction between players.
 <br>
@@ -43,17 +79,7 @@ Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air
 <br>
 <br>
 <br>
-<img alt="agreement rates" src="https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg"/>
-<br>
-<br>
-<br>
-<br>
-<div style="display: flex; justify-content: center;">
-  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="50%" height="50%" align="middle"/>
-</div>
-<br>
-<br>
-<br>
+
 <br>
 <img alt="mid air gestures" src="https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
 <img alt="touch gestures" src="https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg"/>
