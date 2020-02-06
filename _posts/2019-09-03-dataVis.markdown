@@ -39,10 +39,6 @@ description: Designing data visualization with human perception principles in mi
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"></div>
 
-<div class="graph-container">
-    <a href="https://plot.ly/~chloe.ng/2/?share_key=2nwYbBfXAtQRbuzQWROMVs" target="_blank" title="currency_matrix" style="display: block; text-align: center;"><img src="https://plot.ly/~chloe.ng/2.png?share_key=2nwYbBfXAtQRbuzQWROMVs" alt="currency_matrix" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="chloe.ng:2" sharekey-plotly="2nwYbBfXAtQRbuzQWROMVs" src="https://plot.ly/embed.js" async></script>
-</div>
 
 <div class="breaker"></div>
 
