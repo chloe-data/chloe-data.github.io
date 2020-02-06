@@ -39,9 +39,7 @@ layout: page
 <div class="side-by-side">
     <div class="toleft">
       <h2>Data analyst</h2>
-      <p><b>I enjoy building impactful data visualisation through storytelling. My Master’s degree in Human-Computer Interaction equips me with vigorous research and analytical skills, whereas my BBA degree in Management Information System with minor in Statistics have built my skills in wrangling, visualising and making inference from large datasets. The combination of my education is essential for my approach to user research, because it allows me to marry qualitative methodologies to quantitative analysis.
-
- </b></span></b>
+      <p><b><span class="evidence"><b>I enjoy building impactful data visualisation through storytelling</b></span>. My Master’s degree in Human-Computer Interaction equips me with vigorous research and analytical skills, whereas my BBA degree in Management Information System with minor in Statistics have built my skills in wrangling, visualising and making inference from large datasets. The combination of my education is essential for my approach to user research, because <span class="evidence"><b>it allows me to marry qualitative methodologies to quantitative analysis</b></span>.</b>
       </p>
     </div>
 
@@ -63,11 +61,11 @@ layout: page
 
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-2.jpg" alt="Alt Text">
+        <img src="https://chloenhy.github.io/assets/images/about/medtech-2.jpg" alt="AI in Medicine Conference">
 
         <br><br><br><br><br>
 
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-1.jpg" alt="Alt Text">
+        <img src="https://chloenhy.github.io/assets/images/about/medtech-1.jpg" alt="The MedTech team">
 
     </div>
 </div>
