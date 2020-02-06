@@ -38,8 +38,8 @@ layout: page
 
 <div class="side-by-side">
     <div class="toleft">
-      <h2>Data-driven</h2>
-      <p><b>I enjoy wrangling with data and build impactful data visualisation through storytelling. My Master’s degree in Human-Computer Interaction equips me with vigorous research and analytical skills. My BBA degree in Management Information System and Minor in Statistics have also built my skills in wrangling, visualising and making inference from large datasets. The combination of my education is essential for my approach to user research, because it allows me to marry qualitative methodologies to quantitative analysis.
+      <h2>Data analyst</h2>
+      <p><b>I enjoy building impactful data visualisation through storytelling. My Master’s degree in Human-Computer Interaction equips me with vigorous research and analytical skills, whereas my BBA degree in Management Information System with minor in Statistics have built my skills in wrangling, visualising and making inference from large datasets. The combination of my education is essential for my approach to user research, because it allows me to marry qualitative methodologies to quantitative analysis.
 
  </b></span></b>
       </p>
