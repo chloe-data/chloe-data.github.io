@@ -50,7 +50,7 @@ Move hand to control the light trail inside the twisted cylinder. As you inhale,
 
 <b>
 <b>Hand mudra:</b>
-Ending the sequence with your favorite yoga mudra to show your gratitude to yourself. See the base of the prototype for more mudras.
+Ending the sequence with your favorite yoga mudra to show gratitude to yourself. See the base of the prototype for more mudras. Patterns of yoga mudras (stock) were engraved and painted on the acrylic board.
 </b>
 
 ### Design process
@@ -76,13 +76,14 @@ Early Sketches from brainstorming. Sketches that directly informed design of for
 <br>
 <b>Laser cutting</b>
 <br>
-<b>
-Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
+<b>Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
 </b>
 
-Patterns of yoga mudras (stock) were engraved and painted on the acrylic board to enhance the visual appearance. The patterns also serve as instruction for user to start using this prototype. 
+
 <div style="display: flex; justify-content: center;">
     <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200">           </video>
+    <br>
+    <br>
     <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200">
     </video>
 </div>
