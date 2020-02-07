@@ -96,7 +96,7 @@ Due to the limited research in user evaluation of rehabilitative device, especia
         <p>As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility SRC. 🎉</p>
     </div>
     <div class="toright">
-        <img src="https://chloenhy.github.io/assets/images/rehab/poster.jpg" alt="presentation poster" size="50%"/>
+        <img src="https://chloenhy.github.io/assets/images/rehab/poster.jpg" alt="presentation poster" size="100%"/>
     </div>
 </div>
 <div class="breaker">
