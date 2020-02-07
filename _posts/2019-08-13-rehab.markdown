@@ -91,13 +91,15 @@ Due to the limited research in user evaluation of rehabilitative device, especia
     </div>
 </div>
 
-[1]: https://chloenhy.github.io/assets/images/rehab/combined.png
 <div class="side-by-side">
     <div class="toleft">
-        <p>As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility Student Research Competition. 😊</p>
+        <p>As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility SRC. 🎉</p>
     </div>
     <div class="toright">
+        <img src="" alt="https://chloenhy.github.io/assets/images/rehab/poster.jpg" size="50%">
     </div>
 </div>
 <div class="breaker">
 </div>
+
+[1]: https://chloenhy.github.io/assets/images/rehab/combined.png
