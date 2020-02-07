@@ -20,9 +20,9 @@ description: Blending traditional pranayama practice with sensor and actuators.
 ---
 
 ### Mudrayama - an interactive prototype to aid pranayama yogic breathing
-<b>Project type: </b> Physical Prototyping
+<b>Project area: </b> Physical Prototyping
 
-<b>Team size: </b> Individual project
+<b>Type: </b> Individual project
 
 <b>Methods: </b> Arduino, sketching, 3D printing, laser cutting
 
@@ -56,13 +56,23 @@ Ending the sequence with your favorite yoga mudra to show your gratitude to your
 ### Design process
 Early Sketches from brainstorming. Sketches that directly informed design of form factor:
 
+<div style="display: flex; justify-content: center;">
 <img src="https://chloenhy.github.io/assets/images/pcp/sketch.jpg">
+</div>
 
 <br>
 <b>3D Printing</b>
 <br>
 <b>The major components of this prototype were 3D printed. The use is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality & material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
 </b>
+<br>
+<div style="display: flex; justify-content: center;">
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/3d-print2.mp4" width="320" height="200">
+    </video>
+    <div style="margin-bottom:5px">Half failing print :D</div>
+</div>
+
+<br>
 <br>
 <b>Laser cutting</b>
 <br>
@@ -71,9 +81,11 @@ Laser cutting with plain acrylic is used to construct a robust case to protect t
 </b>
 
 Patterns of yoga mudras (stock) were engraved and painted on the acrylic board to enhance the visual appearance. The patterns also serve as instruction for user to start using this prototype. 
-<video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200"></video>
-
-<video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200"></video>
+<div style="display: flex; justify-content: center;">
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4" width="320" height="200">           </video>
+    <video autoplay muted loop src="https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4" width="320" height="200">
+    </video>
+</div>
 
 
 ---
