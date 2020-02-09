@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-09T16:39:16+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-09T22:23:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -470,21 +470,27 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 &lt;div class=&quot;breaker&quot;&gt;
 &lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">👋 Exploring hand gestural control for mobile devices</title><link href="http://localhost:4000/gesture/" rel="alternate" type="text/html" title="👋 Exploring hand gestural control for mobile devices" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/gesture</id><content type="html" xml:base="http://localhost:4000/gesture/">&lt;h2 id=&quot;eliciting-user-defined-touch-and-mid-air-gestures-for-co-located-mobile-gaming&quot;&gt;Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;
-&lt;b&gt;Project area: &lt;/b&gt; Gesture elicitation, Interview, Survey, Think-aloud&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Academic research&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
 &lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Questionnaires, interviews, think-aloud, survey, thematic analysis, data visualisation, descriptive statistics, t-tests&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
 &lt;b&gt;My role: &lt;/b&gt; I managed the entire project starting from literature review of past gesture elicitation studies and gestural control. Following the study design, which includes survey design, artifact design, interview script, I went on recruiting participants and carrying out the lab sessions. After collecting video recordings of the elicitation and survey response, I coded the quant/qual data for analysis, subsequently writing up the report.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
-&lt;b&gt;Methods: &lt;/b&gt; questionnaires, interviews, thematic analysis, data visualisation, descriptive statistics, t-tests&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;
-&lt;b&gt;Time: &lt;/b&gt; 6 months&lt;/b&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 6 months
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg&quot; alt=&quot;example gestures&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figcaption&gt;Examples of mid-air gestures from the study&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;
 In recent years, mobile games have become increasingly popular and have largely improved on their interaction techniques. This improvement is enabled by the increasing capability in modern mobile devices as they feature sophisticated sensors such as accelerometers, gyroscope, and motion sensors, which allows for a vast range of input methods.&lt;/b&gt;&lt;/p&gt;
 
@@ -492,56 +498,68 @@ In recent years, mobile games have become increasingly popular and have largely 
 To make use of the improving capability in mobile devices in the domain of mobile games, there has been research that explores alternative input methods (other than using capacitive touchscreens).&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
-In this research, I aim &lt;span class=&quot;evidence&quot;&gt;to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community&lt;/span&gt;. I will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, and the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h4&gt;
+In this research, I aim &lt;span class=&quot;evidence&quot;&gt;to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community&lt;/span&gt;. I will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, and the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;
-I draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures. User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
+I draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. &lt;span class=&quot;evidence&quot;&gt;Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures&lt;/span&gt; instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
 I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;participants&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/participants.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;participants&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/participants.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;figcaption&gt;One of the participant pairs proposing gestures&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Research question:&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;We seek answers to our research question:&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;How can the results and observations made in a gesture elicitation for game tasks inform gesture design in co-located multiplayer mobile games?&lt;/b&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;data-collection-and-analysis&quot;&gt;Data Collection and Analysis&lt;/h4&gt;
-&lt;p&gt;Data collected include observational notes jotted by the experimenter and the video recordings of the entire sessions, including the elicitation and the post-study interviews. The pre- and post-study questionnaires contain demographic, technology usage habits, Likert-scale and free-form responses. Descriptive statistics were generated from the Likert-scale questions.&lt;/p&gt;
-
-&lt;p&gt;All gestures were coded (and fed into the AGAte 2.0 tool for agreement rate calculation.
+&lt;p&gt;&lt;b&gt;&lt;b&gt;How can the results and observations made in a gesture elicitation for game tasks inform gesture design for co-located multiplayer mobile games?&lt;/b&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/agate.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;data-collection-and-analysis&quot;&gt;Data Collection and Analysis&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Data collected include &lt;b&gt;observational notes&lt;/b&gt; jotted by the experimenter and the &lt;b&gt;video recordings&lt;/b&gt; of the entire sessions, including the elicitation and the post-study interviews. The &lt;b&gt;pre-&lt;/b&gt; and &lt;b&gt;post-study questionnaires&lt;/b&gt; contain demographic, technology usage habits, Likert-scale and free-form responses. &lt;b&gt;Descriptive statistics&lt;/b&gt; were generated from the Likert-scale questions.&lt;/b&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;results&quot;&gt;Results&lt;/h4&gt;
-&lt;h5 id=&quot;quantitative&quot;&gt;Quantitative&lt;/h5&gt;
-&lt;p&gt;A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.
-&lt;img alt=&quot;agreement rates&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;All gestures were coded and fed into the &lt;a href=&quot;http://depts.washington.edu/acelab/proj/dollar/agate.html&quot; target=&quot;_blank&quot;&gt;AGAte 2.0 tool&lt;/a&gt; for &lt;b&gt;agreement rate&lt;/b&gt; calculation.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agate.jpg&quot; alt=&quot;AGAte 2.0 tool screenshot&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;figcaption&gt;Screenshot of the AGAte software for analysing the agreement rates among gestures&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;h4 id=&quot;quantitative&quot;&gt;Quantitative&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; alt=&quot;bar chart of the agreement rates&quot; /&gt;&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
 &lt;/div&gt;
 
-&lt;h5 id=&quot;qualitative&quot;&gt;Qualitative&lt;/h5&gt;
+&lt;h4 id=&quot;qualitative&quot;&gt;Qualitative&lt;/h4&gt;
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
     &lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
-    
-    &lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
-    
-    &lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
 &lt;/div&gt;
 
-&lt;h4 id=&quot;abstract&quot;&gt;Abstract&lt;/h4&gt;
-&lt;p&gt;Interaction techniques for mobile games have developed massively as the capabilities of mobile devices have become sophisticated. However, work on interaction techniques for mobile gaming focuses mainly on single- player games and are expert-designed. This paper attempts to bridge this gap by investigating touch and mid-air gestures as input control for co-located mobile gaming from a user perspective, specifically using board and card games due to the materiality of their game artefacts and the rich interaction between players.
-&lt;br /&gt;
-&lt;br /&gt;
-Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air gesture proposals for 11 game tasks, as well as insights into user preferences. This paper extends prior gesture elicitation work for cross-device interaction by applying the elicitation methodology in co-located mobile gaming. We contribute to the classification and analysis of 622 gestures, resulting in a consensus gesture set, a gesture taxonomy showing more collaborative gestures in the mid-air modality, and agreement rates showing higher consensus for touch gestures. We identified themes from participants’ feedback, which offer guidelines for future game and gesture design. With the rise of gesture-based control mobile devices, we believe this work can be a reference point for future mobile game gesture design.&lt;/p&gt;
-
-&lt;p&gt;The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper :)&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Cross-device" /><category term="Data Visualisation" /><category term="Statistical test" /><category term="Exit Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><summary type="html">Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming Project area: Gesture elicitation, Interview, Survey, Think-aloud</summary></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;style&gt;
+&lt;p&gt;The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper :)&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Cross-device" /><category term="Data Visualisation" /><category term="Statistical test" /><category term="Exit Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><summary type="html">Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming Nature: Academic research</summary></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;style&gt;
     .graph-container {
     display: flex;
     flex-wrap: wrap;
