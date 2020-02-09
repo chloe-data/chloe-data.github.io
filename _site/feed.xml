@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-10T18:09:39+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-09T16:39:16+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -125,7 +125,7 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
 
@@ -136,11 +136,12 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Primary Researcher, ideation and designer&lt;/p&gt;
+&lt;p&gt;Primary Researcher, ideation and prototyper&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/p&gt;
+&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
+&amp;lt;/b&amp;gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 &lt;ul&gt;
@@ -152,32 +153,69 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;user-research&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+In recent years, art museums have become increasingly popular, with the largest exhibitions worldwide seeing up to 10,000 visitors each day (Pes &amp;amp; Sharpe, 2012). Social interaction has a crucial influence on visitors’ perception of artwork, as well as the museum experience as a whole (Tröndle et al., 2012). Social interaction may allow the transference of knowledge due to the possibility of discussing the meaning behind artwork (Sintas, Álvarez, &amp;amp; Rubiales, 2013).
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+Despite the importance of social interaction within the museum setting, many visitors may not have opportunities to discuss their thoughts with others, particularly when visiting alone.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+This project aimed to design a solution allowing museum visitors to interact with other people of their choosing in a way that would be comfortable for them.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;1-user-research-and-establishing-requirements&quot;&gt;1 User Research and Establishing Requirements&lt;/h2&gt;
 
 &lt;h3 id=&quot;11-questionnaire&quot;&gt;1.1 Questionnaire&lt;/h3&gt;
-&lt;p&gt;60 responses from questionnaire&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;60 responses from questionnaire&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/whiteboard.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;My teammate and I organising questionnaire data.&lt;/figcaption&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.&lt;/p&gt;
-
-&lt;h3 id=&quot;interview-and-observation&quot;&gt;Interview and observation&lt;/h3&gt;
-&lt;p&gt;10 semi-structured interviews
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;b&gt;
+To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;12-interview-and-observation&quot;&gt;1.2 Interview and observation&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;10 semi-structured interviews
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumhall2.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;figcaption&gt;At Tate&lt;/figcaption&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-In addition, we conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.&lt;/p&gt;
-
-&lt;h3 id=&quot;analysing-research-data&quot;&gt;Analysing research data&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We conducted semi-structured interviews with 5 visitors and 5 members of staff at Tate Modern. The themes of the visitor interview focused more specifically on interaction preferences, whilst the staff interview was adapted to include their observations of visitor-visitor/visitor-staff interaction and their knowledge of how interaction was encouraged by the museum.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/gallery.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Field visit at art museums around London.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Visitors were conscious of moving on quickly so that other visitors could have the chance to read the label. The interactive displays we observed seemed to discourage collaboration as they used individual booths or screens where it was difficult for more than one person to use the system at any one time.&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;
+&lt;h3 id=&quot;13-analysing-research-data&quot;&gt;1.3 Analysing research data&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/quotes.png&quot; alt=&quot;Markdown Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/affinity.jpg&quot; alt=&quot;Markdown Image&quot; class=&quot;smaller-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Quotes and affinity diagram&lt;/figcaption&gt;
-
-&lt;p&gt;I used thematic analysis for our interview data, then developed affinity diagram with my teammates to organise data into categories.&lt;/p&gt;
-
-&lt;p&gt;Some of the key ideas that emerged were:&lt;/p&gt;
-
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+Some of the key ideas that emerged were:
+&lt;/b&gt;&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;ul&gt;
     &lt;li&gt;People feel relaxed, peaceful, reflective, and free when they visit museums alone but also feel lonely and/or curious about the artwork.&lt;/li&gt;
@@ -187,62 +225,158 @@ In addition, we conducted semi-structured interviews with 5 visitors and 5 membe
     &lt;li&gt;Discussions should revolve around the artwork and people’s opinions.&lt;/li&gt;
     &lt;li&gt;Experiences are currently shared through discussions, social media, and pictures.&lt;/li&gt;
     &lt;li&gt;One of the key findings emerging from interviewing members of staff was that often even when exhibitions required collaboration from visitors, this rarely encouraged direct conversation about the artwork itself to occur naturally.
-&lt;br /&gt;&lt;br /&gt;
-&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/li&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;design-process&quot;&gt;Design Process&lt;/h2&gt;
-&lt;p&gt;Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum. We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.&lt;/p&gt;
-
-&lt;h3 id=&quot;ideation&quot;&gt;Ideation&lt;/h3&gt;
+&lt;p&gt;&lt;a id=&quot;design&quot;&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Gathering insights from previous research and our data collection, we aimed to design an experience that promotes deeper understanding of the artwork or artist, acts as a prompt for visitors of all levels to share their opinions, and to extend the topics around the exhibition outside of the museum.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-design-process&quot;&gt;2 Design Process&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We started to sketch our own ideas with individual brainstormings. Then we discussed our ideas in terms of how close it addresses the user pain points.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;21-ideation-crazy-eight-brainstorming&quot;&gt;2.1 Ideation: Crazy-eight brainstorming&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumSketch.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;I sketched my ideas for intervention in the museum.&lt;/figcaption&gt;
+&lt;figcaption&gt;Sketches of my intervention ideas at museums.&lt;/figcaption&gt;
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-I came up with concepts that were of general and coarse granularity. For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints. I eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.&lt;/p&gt;
-
-&lt;p&gt;We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.&lt;/p&gt;
-&lt;h3 id=&quot;parallel-prototyping&quot;&gt;Parallel Prototyping&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;I came up with concepts that were of general and coarse granularity.&lt;/span&gt; For example, we wanted to provoke conversation at museum seating area using conductive paint, to interact with artwork through bodily collaboration, or to activate artwork display by two different handprints.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;22-refining-ideas&quot;&gt;2.2 Refining ideas&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+As a group, we eliminated ideas that were ineffective at easing user pain points, costly to the museum and those solutions that already exist yet not welcomed by visitors. I then evaluated our remaining ideas based on our selection criteria: novelty and feasibility.
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/design-funnel.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;br /&gt;
+We moved forward the idea of web app and digital wall display eventually. This is because it can deepen visitor knowledge in art by providing extra information and fun facts about the artwork background, it can also promote interaction within the visitor circle through the commenting and following other visitors.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;23-parallel-prototyping&quot;&gt;2.3 Parallel Prototyping&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;wireframes-and-prototyping&quot;&gt;Wireframes and prototyping&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/low-fi.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the lo-fi wireframes I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/mid-fi.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the medium fidelity mockups I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;h4 id=&quot;user-journey-storyboarding&quot;&gt;User journey storyboarding&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+To align our team’s design goal, I created a storyboard listing the key moments of interaction and ensure everyone agree the same experience we were going to design.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/storyboard.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+We then moved on to discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;internal-evaluation-of-prototype&quot;&gt;Internal evaluation of prototype&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+Each of our team members took turn to explain the mentla models behind our designs. We discussed and critiqued each other’s work. Eventually came up with minimum viable prototypes (MVP) for further testing.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Discussion and evaluation of wireframes with my teammates.&lt;/figcaption&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-We decided our initial workflow by listing the tasks that a visitor would do when he/she interact with our intervention. After that, we each came up with five sketches of the web application, totaling 20 sketches. We then discuss the pros and cons of each design and put forward a complete user flow with different versions of the interface for further testing. We created paper prototype of a mobile phone app from our initial sketches.We also created a paper wall display for later testing.
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/museumPrototype.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Some wireframes, storyboard and mockups I created.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;usability-testing&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;usability-testing&quot;&gt;Usability Testing&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-usability-testing&quot;&gt;3 Usability Testing&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+I co-led usability tests with our user group using paper prototype. This informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/paperTesting.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.&lt;/figcaption&gt;
 &lt;p&gt;&lt;br /&gt;
-The usability test informed us that people could easily understand that they are required to open the web app by the QR code in order to learn more facts about the art (plus other features). I found that during the proximity notification, the participants preferred a whole-screen message box over a non-intrusive banner. They generally welcomed the interruption on the web app because they would like to be immersed in the visiting experience by having extra exhibit information prompted conspicuously on their phones.
-&lt;br /&gt;&lt;br /&gt;
-The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.&lt;/p&gt;
-
-&lt;p&gt;Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;b&gt;
+The response for choosing between continuous scrolling and tab node was mixed. Some prefer scrolling as less attention required to navigate around the app, while other prefer tab mode could give an overview of the artwork and comment tabs at the beginning.
+&lt;/b&gt;
+&lt;b&gt;
+Regarding the participants’ feeling towards the intervention, they were positive to learn more fun fact about the art piece. A participant pointed out that reading other visitors comments on the wall display was a fun thing to do, as she usually read the comments in other media as well. The following images represent part of the design process.
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;final-design&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;final-design&quot;&gt;Final design&lt;/h2&gt;
+&lt;h2 id=&quot;4-final-design&quot;&gt;4 Final design&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;
+The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
+&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;The constructive and positive feedback from our participants were encouraging. For the mobile web app, we decided to adopt a main page that could be scrolled continuously instead of having the art piece information and comments put in separate tabs. This is to enhance user experience in the physical space by minimising cognitive workload to navigate between tabs during the exhibition.
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final1.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final2.png&quot; alt=&quot;Markdown Image&quot; /&gt;
 &lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/final3.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.&lt;/figcaption&gt;
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
-We incorporated the feedback on full-screen message notification into our final design. A final prototype was created that allow user to interact on any mobile browsers.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Thanks for reading!
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;back-to-top&quot;&gt;&lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;&lt;/h2&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -327,13 +461,95 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility Student Research Competition. 😊&lt;/p&gt;
+        &lt;p&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility SRC. 🎉&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;toright&quot;&gt;
+        &lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/poster.jpg&quot; alt=&quot;presentation poster&quot; size=&quot;100%&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;breaker&quot;&gt;
-&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">👋 Exploring hand gestural control for mobile devices</title><link href="http://localhost:4000/gesture/" rel="alternate" type="text/html" title="👋 Exploring hand gestural control for mobile devices" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/gesture</id><content type="html" xml:base="http://localhost:4000/gesture/">&lt;h2 id=&quot;eliciting-user-defined-touch-and-mid-air-gestures-for-co-located-mobile-gaming&quot;&gt;Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Project area: &lt;/b&gt; Gesture elicitation, Interview, Survey, Think-aloud&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; I managed the entire project starting from literature review of past gesture elicitation studies and gestural control. Following the study design, which includes survey design, artifact design, interview script, I went on recruiting participants and carrying out the lab sessions. After collecting video recordings of the elicitation and survey response, I coded the quant/qual data for analysis, subsequently writing up the report.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methods: &lt;/b&gt; questionnaires, interviews, thematic analysis, data visualisation, descriptive statistics, t-tests&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Time: &lt;/b&gt; 6 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+In recent years, mobile games have become increasingly popular and have largely improved on their interaction techniques. This improvement is enabled by the increasing capability in modern mobile devices as they feature sophisticated sensors such as accelerometers, gyroscope, and motion sensors, which allows for a vast range of input methods.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+To make use of the improving capability in mobile devices in the domain of mobile games, there has been research that explores alternative input methods (other than using capacitive touchscreens).&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+In this research, I aim &lt;span class=&quot;evidence&quot;&gt;to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community&lt;/span&gt;. I will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, and the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;
+I draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures. User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;participants&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/participants.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We seek answers to our research question:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;How can the results and observations made in a gesture elicitation for game tasks inform gesture design in co-located multiplayer mobile games?&lt;/b&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;data-collection-and-analysis&quot;&gt;Data Collection and Analysis&lt;/h4&gt;
+&lt;p&gt;Data collected include observational notes jotted by the experimenter and the video recordings of the entire sessions, including the elicitation and the post-study interviews. The pre- and post-study questionnaires contain demographic, technology usage habits, Likert-scale and free-form responses. Descriptive statistics were generated from the Likert-scale questions.&lt;/p&gt;
+
+&lt;p&gt;All gestures were coded (and fed into the AGAte 2.0 tool for agreement rate calculation.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/agate.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;results&quot;&gt;Results&lt;/h4&gt;
+&lt;h5 id=&quot;quantitative&quot;&gt;Quantitative&lt;/h5&gt;
+&lt;p&gt;A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.
+&lt;img alt=&quot;agreement rates&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; align=&quot;middle&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;qualitative&quot;&gt;Qualitative&lt;/h5&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+    
+    &lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
+    
+    &lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;abstract&quot;&gt;Abstract&lt;/h4&gt;
+&lt;p&gt;Interaction techniques for mobile games have developed massively as the capabilities of mobile devices have become sophisticated. However, work on interaction techniques for mobile gaming focuses mainly on single- player games and are expert-designed. This paper attempts to bridge this gap by investigating touch and mid-air gestures as input control for co-located mobile gaming from a user perspective, specifically using board and card games due to the materiality of their game artefacts and the rich interaction between players.
+&lt;br /&gt;
+&lt;br /&gt;
+Through a gesture elicitation study with 12 dyads, we obtained touch and mid-air gesture proposals for 11 game tasks, as well as insights into user preferences. This paper extends prior gesture elicitation work for cross-device interaction by applying the elicitation methodology in co-located mobile gaming. We contribute to the classification and analysis of 622 gestures, resulting in a consensus gesture set, a gesture taxonomy showing more collaborative gestures in the mid-air modality, and agreement rates showing higher consensus for touch gestures. We identified themes from participants’ feedback, which offer guidelines for future game and gesture design. With the rise of gesture-based control mobile devices, we believe this work can be a reference point for future mobile game gesture design.&lt;/p&gt;
+
+&lt;p&gt;The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper :)&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Cross-device" /><category term="Data Visualisation" /><category term="Statistical test" /><category term="Exit Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><summary type="html">Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming Project area: Gesture elicitation, Interview, Survey, Think-aloud</summary></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;style&gt;
+    .graph-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    }
+&lt;/style&gt;
+
+&lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Data visualization design&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual&lt;/p&gt;
@@ -345,25 +561,86 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;One saying about the ubiquity of data is As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. &lt;span class=&quot;evidence&quot;&gt;The design was informed by previous literature on information retrieval and human perception principles.&lt;/span&gt; The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate. Interactive graphs will be uploaded here soon.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;As personal computing power increases, there is an increasing need of understanding data. One way to achieve this is through data visualization - translating columns and rows into human-readable format. This project explores how to visualize data in a way that is compelling to the target audiences. &lt;span class=&quot;evidence&quot;&gt;The design was informed by previous literature on information retrieval and human perception principles.&lt;/span&gt; The visualization was built with Python (Plotly, Seaborn, matplotlib), R and graphviz. Visual effects by Procreate.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;/div&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html">Visualizing data Project type: Data visualization design</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive tangible prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive tangible prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive Tangible Prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive Tangible Prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;mudrayama---an-interactive-prototype-to-aid-pranayama-yogic-breathing&quot;&gt;Mudrayama - an interactive prototype to aid pranayama yogic breathing&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Project area: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; Product owner&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Arduino, sketching, 3D printing, laser cutting&lt;/p&gt;
 
-&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;D&lt;/p&gt;
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;Being one of the main causes of the overall disease, mental health issues (including anxiety, depression) are affecting lives of millions worldwide, especially in young adults. Even though mental illness pose a negative impact on people’s development, there has not been sufficient measures from the tangible to support this issue.
+&lt;/b&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Physical Prototyping</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Novel approach of using tangible cue&lt;/b&gt;
+&lt;br /&gt;
+Most of the technology-assisted meditation and pranayama breathing practice are limited to the use of mobile applications. Mudrayama is s proof-of-concept prototype that fits on your desk or bedroom side table to engage you with breathing practice.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Inhale-exhale:&lt;/b&gt;
+Move hand to control the light trail inside the twisted cylinder. As you inhale, your hand moves up gradually and steadily to control the light trail. You can then try to concentrate on your breath, synchonise your movement with your breath so that the movement of the flower and you breath will be steady and smooth. A flower print symbolising the  lotus in yoga rises as you move up and down with your hand. Hand down, the light trail and the flower return to original state, indicating the end of one breath cycle.&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-bed.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;
+    &lt;/video&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Breathe in...breathe out...   The distance signal detection was unstable (even after averaging  out), which explains the flickering LED. 
+    &lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Hand mudra:&lt;/b&gt;
+Ending the sequence with your favorite yoga mudra to show gratitude to yourself. See the base of the prototype for more mudras. Patterns of yoga mudras (stock) were engraved and painted on the acrylic board.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;design-process&quot;&gt;Design process&lt;/h3&gt;
+&lt;p&gt;Early Sketches from brainstorming. Sketches that directly informed design of form factor:&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img src=&quot;https://chloenhy.github.io/assets/images/pcp/sketch.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;3D Printing&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;The major components of this prototype were 3D printed. The use is two-fold. Firstly, critical parts of motor linear functions were printed for testing. Due to printer quality &amp;amp; material characteristics, not all the prints worked successfully. They either were not printed fine enough to support the movement, or that the material was too fragile for components to be usable.
+&lt;/b&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/3d-print2.mp4&quot; width=&quot;320&quot; height=&quot;400&quot;&gt;
+    &lt;/video&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Half failing print :D&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Laser cutting&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;Laser cutting with plain acrylic is used to construct a robust case to protect the electronic components, as well as integrating the distance sensor seamlessly into the product.
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-test.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;           &lt;/video&gt;
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; src=&quot;https://chloenhy.github.io/assets/images/pcp/pcp-backyard.mp4&quot; width=&quot;320&quot; height=&quot;200&quot;&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">Mudrayama - an interactive prototype to aid pranayama yogic breathing Project area: Physical Prototyping</summary></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Research Proposal&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
@@ -387,7 +664,42 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;p&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/p&gt;
 
-&lt;p&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Project type: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;p&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Project type: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Critical Interface Analysis and Redesign&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;
+This is a design activity in my Interaction Design class. We first choose a physical interface we use in our daily life that we could improve on, then we perform a heuristic evaluation with regard to human factor concepts. After analysing the interface and locating rooms for improvement, we propose new design or design refinement on the existing interface.
+&lt;/b&gt;
+&lt;b&gt;
+I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via the national rail, and within London via tube and overground services. Purchasing or collecting train tickets at a self-service machine can sometimes be a pain. Although most interaction remains on screen, the design of physical machine can help increase learnability and save commuters’ time, thus avoid long queues at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
+&lt;/b&gt;
+&lt;b&gt;
+In short, this redesign project focus on the two parts:
+(1) To critically analyse the existing user interface of a ticket vending machine and point out the potential problems
+(2) To address the identified problems with design improvements of the machine interface
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;
+Here is a two-page explanation focusing on the evaluation and design process:
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/train/ticket1.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Design proposal:&lt;/b&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/train/ticket2.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt; At the end of this design activity, we presented our conceptual design and critique one another’s at a design artefact showcase with other designers.  This is an A2-sized poster created for a design critique and showcase:
+&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Project type: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
@@ -717,25 +1029,4 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00+00:00</published><updated>2016-01-23T22:10:00+00:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;What has inside?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;Travis&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>

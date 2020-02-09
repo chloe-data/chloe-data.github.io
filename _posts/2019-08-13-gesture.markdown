@@ -1,9 +1,7 @@
 ---
-title: "👋 Exploring hand gestural control for mobile devices"
+title: "\U0001F44B Exploring hand gestural control for mobile devices"
 layout: post
 date: 2019-08-11 22:00
-image: false
-headerImage: false
 tag:
 - Cross-device
 - Data Visualisation
@@ -12,33 +10,44 @@ tag:
 - Questionnaires
 - Mixed-method
 projects: true
-star: false
 category: project
 author: chloeng
 description: Gesture Elicitation
 ---
 
 ## Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming
+<b>
 <b>Project area: </b> Gesture elicitation, Interview, Survey, Think-aloud
 
+<b>
 <b>Type: </b> Individual project
 
-<b>My role: </b> Researcher
+<b>
+<b>My role: </b> I managed the entire project starting from literature review of past gesture elicitation studies and gestural control. Following the study design, which includes survey design, artifact design, interview script, I went on recruiting participants and carrying out the lab sessions. After collecting video recordings of the elicitation and survey response, I coded the quant/qual data for analysis, subsequently writing up the report.
 
-<b>Methods: </b> questionnaires, exit interviews, thematic analysis, sketch, data visualisation, quantitative, t-tests
+<b>
+<b>Methods: </b> questionnaires, interviews, thematic analysis, data visualisation, descriptive statistics, t-tests
+
+<b>
+<b>Time: </b> 6 months
 
 #### Background
+<b>
 In recent years, mobile games have become increasingly popular and have largely improved on their interaction techniques. This improvement is enabled by the increasing capability in modern mobile devices as they feature sophisticated sensors such as accelerometers, gyroscope, and motion sensors, which allows for a vast range of input methods. 
 
+<b>
 To make use of the improving capability in mobile devices in the domain of mobile games, there has been research that explores alternative input methods (other than using capacitive touchscreens).
 
-In this research, I aim to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community. We will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.
+<b>
+In this research, I aim <span class="evidence">to explore the use of gesture controls in co-located mobile gaming, an area that has not been focused on in the industry and research community</span>. I will explore traditional multiplayer tabletop games such as board and card games due to their clearly defined game tasks, and the communicative nature of the game, and the materiality of the game materials cherished by players in a co-located setting.
 
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg" />
 
 #### Research Approach
-We draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures. User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.
+<b>
+I draw upon the widely adopted gesture elicitation methodology to understand user mental models and help develop user-defined gestures. User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.
 
+<b>
 I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
 
 <img alt="participants" src="https://chloenhy.github.io/assets/images/gesture/participants.jpg" align="middle"/>
@@ -54,6 +63,8 @@ We seek answers to our research question:
 Data collected include observational notes jotted by the experimenter and the video recordings of the entire sessions, including the elicitation and the post-study interviews. The pre- and post-study questionnaires contain demographic, technology usage habits, Likert-scale and free-form responses. Descriptive statistics were generated from the Likert-scale questions. 
 
 All gestures were coded (and fed into the AGAte 2.0 tool for agreement rate calculation.
+<br>
+<br>
 <img alt="example gestures" src="https://chloenhy.github.io/assets/images/gesture/agate.jpg" align="middle"/>
 
 
