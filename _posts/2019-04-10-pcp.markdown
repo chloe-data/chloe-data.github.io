@@ -1,9 +1,7 @@
 ---
-title: "🧘 ‍Interactive Tangible Prototype"
+title: "\U0001F9D8 ‍Interactive Tangible Prototype"
 layout: post
 date: 2019-05-01 22:00
-image: false
-headerImage: false
 tag:
 - proof-of-concept
 - physical prototype
@@ -11,20 +9,28 @@ tag:
 - laser cut
 - electronics
 - arduino
-
 projects: true
-star: false
 category: project
 author: chloeng
 description: Blending traditional pranayama practice with sensor and actuators.
 ---
 
 ### Mudrayama - an interactive prototype to aid pranayama yogic breathing
-<b>Project area: </b> Physical Prototyping
+<b>
+<b>Nature: </b> Physical Prototyping
 
+<b>
 <b>Type: </b> Individual project
 
-<b>Methods: </b> Arduino, sketching, 3D printing, laser cutting
+<b>
+<b>Methodologies: </b>  Arduino, sketching, 3D printing, laser cutting
+
+
+<b>
+<b>Duration: </b> 2 months
+
+
+
 
 ### Background
 <b>Being one of the main causes of the overall disease, mental health issues (including anxiety, depression) are affecting lives of millions worldwide, especially in young adults. Even though mental illness pose a negative impact on people’s development, there has not been sufficient measures from the tangible to support this issue.

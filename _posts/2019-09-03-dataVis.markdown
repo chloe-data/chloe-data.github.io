@@ -1,20 +1,18 @@
 ---
-title: "📊 Human-centered Data Visualization"
+title: "\U0001F4CA Human-centered Data Visualization"
 layout: post
 date: 2019-08-10 22:00
-image: /assets/images/
-headerImage: false
+image: "/assets/images/"
 tag:
 - Human perception
 - Usability
 - Data
-
 projects: true
-star: false
 category: project
 author: chloeng
 description: Designing data visualization with human perception principles in mind
 ---
+
 <style>
     .graph-container {
     display: flex;
@@ -24,13 +22,23 @@ description: Designing data visualization with human perception principles in mi
 </style>
 
 ## Visualizing data
-<b>Project type: </b> Data visualization design
+<b>
+<b>Nature: </b> Data visualization design
 
-<b>Team size: </b> Individual
+<b>
+<b>Type: </b> Individual project
 
-<b>My role: </b> Literature Reviewer, Designer, Coder
+<b>
+<b>My roles: </b>  Literature Reviewer, Designer, Coder
 
+<b>
 <b>Tools: </b> Python, Procreate, R, Graphviz
+
+<b>
+<b>Duration: </b> 2 weeks
+
+
+
 
 ![Markdowm Image][1]
 

@@ -1,9 +1,8 @@
 ---
-title: "🤳  Connecting Solo Museum Visitors"
+title: "\U0001F933  Connecting Solo Museum Visitors"
 layout: post
 date: 2019-08-12 22:44
-image: /assets/images/museum/museumhall2.jpg
-headerImage: false
+image: "/assets/images/museum/museumhall2.jpg"
 tag:
 - User research
 - Qualitative Data Analysis
@@ -14,30 +13,32 @@ tag:
 - Interview
 - Observation
 projects: true
-star: false
 category: project
 author: chloeng
 description: CaptionThis
 ---
+
 <div class="breaker"></div> <a id="home"></a>
 # End-to-end design project: Connecting museum visitors
-<b><b>Project type: </b>
 
-Full cycle of research: design, testing, iteration, and final prototype
+<b>
+<b>Nature: </b> Full cycle of research: design, testing, iteration, and final prototype
 
-<b>Team: </b>
+<b>
+<b>Type: </b> Team project with 4 members Juspreet, James, Carol, and myself
+(from psychology, industrial design, and computer science backgrounds)
 
-Juspreet, James, Carol, and myself
-(from psychology, design, and computer science backgrounds)
+<b>
+<b>Methodologies: </b> Survey, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
 
-<b>Role: </b>
+<b>
+<b>Duration: </b> 4 months
 
-Primary Researcher, ideation and prototyper
+<b>
+<b>My role: </b> User Researcher, ideation and prototyper
 
-<b>Methods: </b>
 
-User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
-</b>
+
 
 ## Table of Contents
 - [User Research](#user-research)
@@ -182,6 +183,7 @@ To align our team's design goal, I created a storyboard listing the key moments 
 <br>
 <br>
 ![Markdown Image][15]
+<figcaption>Some of the storyboards I created.</figcaption>
 <br>
 <br>
 <br>

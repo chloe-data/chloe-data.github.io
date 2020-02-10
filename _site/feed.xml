@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T12:54:33+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T13:24:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Mixed-method User Research&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Team project with 6 members from psychology, computer science and UI design backgrounds&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; User Researcher&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, observation&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Field visit, semi-structured interview, thematic analysis, observation&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; User Researcher&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh1.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;The physical dashboard that is currently used at the ICU.&lt;/figcaption&gt;
@@ -20,128 +27,126 @@
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;research-approach&quot;&gt;Research approach&lt;/h2&gt;
-&lt;p&gt;I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; I used semi-structured interview accompanied with observation during an ICU visit. I interviewed junior doctor, one of the user groups in this study. The data was transcribed and analysed thematically&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly.&lt;/span&gt; Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-up questions on the new ideas raised by the interviewee. &lt;span class=&quot;evidence&quot;&gt;Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Semi-structured interview is a common qualitative research approach in health services when we want to understand subjective perspectives. &lt;span class=&quot;evidence&quot;&gt;Interviewing users allows me to understand the user workflow and mental models flexibly.&lt;/span&gt; Following an interview protocol prepared earlier, I asked the doctor questions under different points of interests, but also follow-up questions on the new ideas raised by the interviewee. &lt;span class=&quot;evidence&quot;&gt;Being able to ask follow-up questions right away was also a benefit of semi-structured interview as it allows the flexibility to dig deep on insights.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The fact that we were conducting the interview at an open corridor at the ICU, though initially a constraint due to the doctor’s tight schedule, as well encouraged interaction with the staff who passed by.&lt;/span&gt; This not only made the interview process more relaxing, but also sparked discussion surrounding the use of dashboard and general opinions among other staff members.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; &lt;span class=&quot;evidence&quot;&gt;The fact that we were conducting the interview at an open corridor at the ICU, though initially a constraint due to the doctor’s tight schedule, as well encouraged interaction with the staff who passed by.&lt;/span&gt; This not only made the interview process more relaxing, but also sparked discussion surrounding the use of dashboard and general opinions among other staff members.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;As the interviewee explained the difficulty around patient information retrieval, &lt;span class=&quot;evidence&quot;&gt;I observed the cumbersome workflow of getting the heart rate data of one patient in the existing  Intensive Care Information Platform (ICIP).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; As the interviewee explained the difficulty around patient information retrieval, &lt;span class=&quot;evidence&quot;&gt;I observed the cumbersome workflow of getting the heart rate data of one patient in the existing  Intensive Care Information Platform (ICIP).&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
 
 &lt;h3 id=&quot;identifying-workflow&quot;&gt;Identifying workflow&lt;/h3&gt;
-&lt;p&gt;During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to construct the timeline.
-Each timestamp represent a point of interaction with the dashboard.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; During the analysis, I represented the user journey as &lt;i&gt;a day in the life of junior doctor&lt;/i&gt; in a concise way. I extracted significant timestamps from the work that the doctor does in a “typical” day, a “good” day, and a “bad” day to construct the timeline.
+Each timestamp represent a point of interaction with the dashboard.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/uclh3.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;A day in the life of a Junior Doctor at the ICU.&lt;/figcaption&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;A few themes emerged after the thematic analysis of interview transcription.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A few themes emerged after the thematic analysis of interview transcription.&lt;/b&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;target-metrics&quot;&gt;Target metrics&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients’ progress collectively&lt;/span&gt;, in contrast to what a nurse would prefer, i.e. to go through each patient individually.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; &lt;span class=&quot;evidence&quot;&gt;Amalgamated data on all metrics would be helpful for junior doctor, i.e. statistics on all patients’ progress collectively&lt;/span&gt;, in contrast to what a nurse would prefer, i.e. to go through each patient individually.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;There is a need to describe in details on some metrics that might not be familiar to ward staff. For example, &lt;span class=&quot;evidence&quot;&gt;explaining the ideal tidal volume target range next to the metric&lt;/span&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some other target metrics necessary to the doctor’s workflow that the existing prototype lacks:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Antibiotic taken&lt;/li&gt;
-      &lt;li&gt;Time last taken&lt;/li&gt;
-      &lt;li&gt;Urine output&lt;/li&gt;
-      &lt;li&gt;Length of Stay&lt;/li&gt;
-      &lt;li&gt;Average temperature&lt;/li&gt;
-      &lt;li&gt;Heart rate&lt;/li&gt;
-      &lt;li&gt;No. of patients being ventilated&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;&lt;b&gt; There is a need to describe in details on some metrics that might not be familiar to ward staff. For example, &lt;span class=&quot;evidence&quot;&gt;explaining the ideal tidal volume target range next to the metric&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Clinicians and Care Consultants will reference these target metrics as they further examine the clinical use of those metrics. Metrics will be included for junior doctor’s view of dashboard.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 3. Some other target metrics necessary to the doctor’s workflow that the existing prototype lacks:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt; Antibiotic taken&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Time last taken&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Urine output&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Length of Stay&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Average temperature&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Heart rate&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; No. of patients being ventilated&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Clinicians and Care Consultants will reference these target metrics as they further examine the clinical use of those metrics. Metrics will be included for junior doctor’s view of dashboard.&lt;/b&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;user-interface&quot;&gt;User Interface&lt;/h3&gt;
 
-&lt;p&gt;The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The map visualization of the ICU was particularly appreciated. It fits into the mental model of the staff when navigating around the ICU. It was easy for them to associate a patient with a location on a map.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;However, there was no clear navigation between pages. There needs to be a locator and back button on every pages. Color coding also lacks explaination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;However, there was no clear navigation between pages. There needs to be a locator and back button on every pages. Color coding also lacks explaination.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/maps.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Conceptual designs. On the left are legends added to explain the the ideal range of tidal volume, while on the right is an example of conspicuous color coding. Mockups courtesy of Federico.&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the UI designer and Care Consultants. Issues will be improved in the next iteration.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;The usability issues identified were highly appreciated by the UI designer and Care Consultants. Issues will be improved in the next iteration.&lt;/b&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;potential-risks&quot;&gt;Potential risks&lt;/h3&gt;
 &lt;h4 id=&quot;staff-morality&quot;&gt;&lt;b&gt;Staff morality&lt;/b&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.&lt;/span&gt; Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The dashboard could lead to a blame culture: wherever out of standard metrics are seen, the responsible nurse is held accountable and might be seen as incompetent.&lt;/span&gt; Yet, the patient might just be very sick at that moment, regardless of the nurse’s ability.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i&gt;“… just looking at this [the four red coded patient bed shown on the dashboard], &lt;b&gt;it kind of flags up those four patients and it does suggest that the people looking after these patients are doing something wrong&lt;/b&gt;.”&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“… just looking at this [the four red coded patient bed shown on the dashboard], &lt;b&gt;it kind of flags up those four patients and it does suggest that the people looking after these patients are doing something wrong&lt;/b&gt;.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i&gt;“&lt;b&gt;Or they might actually just be really sick and none of us are able to fix it.&lt;/b&gt; But, just looking at this [dashboard], you can’t see that.”&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“&lt;b&gt;Or they might actually just be really sick and none of us are able to fix it.&lt;/b&gt; But, just looking at this [dashboard], you can’t see that.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;span class=&quot;evidence&quot;&gt;Although patient care is the top priority, people relationships and a healthy work culture are also important and will inevitably affect patient care.&lt;/span&gt; If the technology promotes a blame culture, its usefulness is massively reduced and may even lead to abandonment.&lt;/p&gt;
+&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;Although patient care is the top priority, people relationships and a healthy work culture are also important and will inevitably affect patient care.&lt;/span&gt; If the technology promotes a blame culture, its usefulness is massively reduced and may even lead to abandonment.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;data-safety&quot;&gt;Data safety&lt;/h4&gt;
 
-&lt;p&gt;The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The current dashboard prototype is located at the corridor outside the staff rest room. Although it is enclosed within the ICU, there are risks that relatives would misinterpret information presented on the dashboard.
+&lt;br /&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i&gt;“If it [the dashboard] was nearer the front desk that makes me uncomfortable because of &lt;b&gt;confidentiality&lt;/b&gt;, but also because this is the sort of thing that &lt;b&gt;can cause alarm for their relatives&lt;/b&gt;.”&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i&gt;&lt;b&gt;“If it [the dashboard] was nearer the front desk that makes me uncomfortable because of &lt;b&gt;confidentiality&lt;/b&gt;, but also because this is the sort of thing that &lt;b&gt;can cause alarm for their relatives&lt;/b&gt;.”&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;b&gt;Impact 👉&lt;/b&gt;Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.&lt;/p&gt;
+&lt;b&gt;&lt;b&gt;Impact 👉&lt;/b&gt;Future iteration will consider implementing access control: Only managerial staff would see the performance of each staff so that they could act upon out of range performance by providing appropriate training. Access control also prevents unauthorised users from accessing sensitive information, therefore preventing metrics being interpreted out of context.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;h2 id=&quot;outcome-and-deliverables&quot;&gt;Outcome and Deliverables&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The effective use of a healthcare system requires building trust with the users. Healthcare systems are highly safety-critical, as our interviewee once said: &lt;i&gt;&lt;b&gt;“If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.”&lt;/b&gt;&lt;/i&gt;&lt;/span&gt; That is why the design of patient data dashboard require multiple stages of iteration, user research, and testing before rolling out for actual use.  This current user research project is part of the greater development of the patient data dashboard. I represented my user group to present findings and design implications to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders in the organization, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The effective use of a healthcare system requires building trust with the users. Healthcare systems are highly safety-critical, as our interviewee once said: &lt;i&gt;&lt;b&gt;“If you change your system to incorporate a new bit of technology, it needs to prove its worth, otherwise I would lose faith.”&lt;/b&gt;&lt;/i&gt;&lt;/span&gt; That is why the design of patient data dashboard require multiple stages of iteration, user research, and testing before rolling out for actual use.  This current user research project is part of the greater development of the patient data dashboard. I represented my user group to present findings and design implications to the UCLH Health Informatics Team. Through the presentation meeting, I interacted with different stakeholders in the organization, including their junior doctors, critical care consultants, data scientists, software engineers, and UX designer.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;The team highly appreciated our findings and design implication, and will include them for the next iteration.&lt;/span&gt; The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span class=&quot;evidence&quot;&gt;The team highly appreciated our findings and design implication, and will include them for the next iteration.&lt;/span&gt; The implication on interface usability will be implemented, while the advice on access control and dashboard location need further data collection to represent opinions of other user groups.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Presenting the findings with another colleague. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
+&lt;figcaption&gt;Presenting the findings with another colleague Juspreet, who is responsible for the user need of audit staff. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Nature: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;end-to-end-design-project-connecting-museum-visitors&quot;&gt;End-to-end design project: Connecting museum visitors&lt;/h1&gt;
-&lt;p&gt;&lt;b&gt;&lt;b&gt;Project type: &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Full cycle of research: design, testing, iteration, and final prototype&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Full cycle of research: design, testing, iteration, and final prototype&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Team project with 4 members Juspreet, James, Carol, and myself
+(from psychology, industrial design, and computer science backgrounds)&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Juspreet, James, Carol, and myself
-(from psychology, design, and computer science backgrounds)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Survey, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Primary Researcher, ideation and prototyper&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;User research, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
-&amp;lt;/b&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My role: &lt;/b&gt; User Researcher, ideation and prototyper&lt;/b&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 &lt;ul&gt;
@@ -292,8 +297,9 @@ To align our team’s design goal, I created a storyboard listing the key moment
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/storyboard.png&quot; alt=&quot;Markdown Image&quot; /&gt;
-&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/museum/storyboard.png&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Some of the storyboards I created.&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;b&gt;
@@ -376,26 +382,31 @@ Thanks for reading!
 &lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors Project type:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Mixed-method User Research&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Researcher&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Validated questionnaires, semi-structured interviews, thematic analysis&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 4 months&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt=&quot;exoskeleton&quot; src=&quot;https://chloenhy.github.io/assets/images/rehab/rehab.jpg&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;o-v-e-r-v-i-e-w&quot;&gt;O V E R V I E W&lt;/h2&gt;
-&lt;p&gt;This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.&lt;/p&gt;
-&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
-&lt;p&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.&lt;/b&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h4&gt;
-&lt;h5 id=&quot;method&quot;&gt;Method&lt;/h5&gt;
-&lt;p&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/p&gt;
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;In recent years, small-scale home-based robotics for rehabilitative exercises have been on a rise, potentially complementing physiotherapist capacity. These home-based devices allow patient to exercise conveniently and frequently at their own schedule. However, “home-based” also means that the effectiveness of exercise rely largely on patients’ motivation to use those devices. User experience is therefore worth-considering when designing rehabilitative robotics. &lt;span class=&quot;evidence&quot;&gt;Despite the importance of understanding user perception on rehabilitative devices, few studies have been done on patients’ subjective experience in robot-assisted rehabilitation&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/p&gt;
+&lt;h2 id=&quot;research-approach&quot;&gt;Research Approach&lt;/h2&gt;
+&lt;h3 id=&quot;method&quot;&gt;Method&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;I designed a preliminary study aiming to elicit user perception of a post-stroke rehabilitation device.  I specifically studied the perception of primary user (patient), secondary user (carer) as well as design expert in rehabilitative device so as to give an overall picture of how users perceive the device.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;I &lt;span class=&quot;evidence&quot;&gt;combined in-depth interviews with participants and quantitative measures&lt;/span&gt; from the Credibility and Expectancy Questionnaire (CEQ) and Intrinsic Motivation Inventory (IMI) to assess users’ subjective opinions in this study.  Results help &lt;span class=&quot;evidence&quot;&gt;understand which factors each stakeholders prioritize for a rehab robotics&lt;/span&gt;, and revealed split attitudes across stakeholders.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/combined.png&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
@@ -403,54 +414,53 @@ Thanks for reading!
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;findings&quot;&gt;Findings&lt;/h5&gt;
+&lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;The results highlight a &lt;b&gt;dichotomy&lt;/b&gt; between stroke patients/caregivers and domain experts.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; The results highlight a &lt;b&gt;dichotomy&lt;/b&gt; between stroke patients/caregivers and domain experts.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From the CEQ, we learnt that &lt;b&gt;both stroke patients and caregivers considered the device as credible&lt;/b&gt; and expected hand dexterity improvements from using the device.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; From the CEQ, we learnt that &lt;b&gt;both stroke patients and caregivers considered the device as credible&lt;/b&gt; and expected hand dexterity improvements from using the device.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;In contrast, &lt;b&gt;domain experts did not see the device as credible&lt;/b&gt; and useful to improve impaired hand motor function.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; In contrast, &lt;b&gt;domain experts did not see the device as credible&lt;/b&gt; and useful to improve impaired hand motor function.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The reason might be that &lt;span class=&quot;evidence&quot;&gt;participants’ feedback for the device is associated with their &lt;b&gt;previous experience&lt;/b&gt; with rehabilitative device&lt;/span&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; The reason might be that &lt;span class=&quot;evidence&quot;&gt;participants’ feedback for the device is associated with their &lt;b&gt;previous experience&lt;/b&gt; with rehabilitative device&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The four themes emerged from the interviews were:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Perceived Efficacy&lt;/b&gt; - Participants were able to propose use case scenarios to put the device in the context of patient daily life.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Combining device usage with current physiotherapies and ADL&lt;/b&gt; - Participants understood how the device can help in rehabilitation, but would also like to see how the device can aid daily activities instead of only the existing pre-defined movements.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Negative feedback for the exoskeleton mechanism&lt;/b&gt; -  Most participants expressed negative feedback towards the process of putting on the device, and the slow and restrained movement mechanism.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt; &lt;b&gt;Weight and Appearance&lt;/b&gt; - Participants appreciated the pleasing design, but some pointed out the room for improvement in terms of its size and weight.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; -
-To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/p&gt;
+&lt;h2 id=&quot;what-did-i-learn&quot;&gt;What did I learn&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;The importance of healthcare research&lt;/b&gt; - To me, one of the most inspiring moments in this project is when I  introduce the robotic device, which allow usage anytime, anywhere, to patients and carers. The amusement and hope in the eyes of some of the participants motivated me to continue with this project despite the pressure of four individual project running concurrently.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
-Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;b&gt;Recruiting right&lt;/b&gt; -
+Due to the specificity of the recruitment screener and time constraint (finishing the whole project within 3 months), it was challenging to find the right participants. At first, I tried to contact organizations for stroke patients, but most of them require extensive communication (i.e. email back and forth) and paperwork so as to ensure the right participants can be reached. This time-consuming and uncertain process is therefore not viable for this project. &lt;span class=&quot;evidence&quot;&gt;I turned from the top-down approach and started recruiting participants from the bottom&lt;/span&gt;, individually through community groups (for patients and carers) and university connection (for domain experts). &lt;span class=&quot;evidence&quot;&gt;By contacting potential participants directly,   I was able to receive quick response and confirm logistics&lt;/span&gt;.&lt;/b&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt; Overall, this study shows that &lt;b&gt;having stroke patients and caregivers in subjective evaluation is crucial&lt;/b&gt; as it might yield differing views from domain experts. The above findings could &lt;b&gt;inform future design iteration of the device&lt;/b&gt;. They are also important to the design of future robotic device for rehabilitation because we understand that &lt;span class=&quot;evidence&quot;&gt;not only the clinical effectiveness, but also the &lt;b&gt;perceived effectiveness&lt;/b&gt; of stroke patients and their caregivers is crucial&lt;/span&gt; in whether the patients would adhere to the rehabilitation practice.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Due to the limited research in user evaluation of rehabilitative device, especially in the hand motor function domain, this study provides &lt;b&gt;a reference point for future research in subjective evaluation of rehabilitative device&lt;/b&gt;. There are also several caveats of this study: due to the limited sample size of participants, &lt;b&gt;results lack generalizability&lt;/b&gt;. In particular, no statistical analysis was possible of the questionnaire data, and the themes within the thematic analysis did not reach a saturation point. &lt;b&gt;Stricter inclusion criteria are also needed &lt;/b&gt; to include only stroke patients with and caregivers of patients with medium to severe hand impairment that robot-assisted rehabilitation is more suitable for.&lt;/b&gt;&lt;/p&gt;
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
         &lt;b&gt;Update&lt;/b&gt;
-        &lt;p&gt;In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt; In July 2019, I shared my project with the design community in London. So glad to meet with like-minded people who's passionate about HCI in healthcare!&lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;toright&quot;&gt;
@@ -461,14 +471,14 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility SRC. 🎉&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt; As of 13 August 2019, this work has been conditionally accepted to &lt;a href=&quot;https://assets19.sigaccess.org/index.html&quot; target=&quot;_blank&quot;&gt;ACM SIGACCESS&lt;/a&gt; Conference on Computers and Accessibility SRC. 🎉&lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;toright&quot;&gt;
         &lt;img src=&quot;https://chloenhy.github.io/assets/images/rehab/poster.jpg&quot; alt=&quot;presentation poster&quot; size=&quot;100%&quot; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;breaker&quot;&gt;
-&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Project type: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">👋 Exploring hand gestural control for mobile devices</title><link href="http://localhost:4000/gesture/" rel="alternate" type="text/html" title="👋 Exploring hand gestural control for mobile devices" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/gesture</id><content type="html" xml:base="http://localhost:4000/gesture/">&lt;h2 id=&quot;eliciting-user-defined-touch-and-mid-air-gestures-for-co-located-mobile-gaming&quot;&gt;Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming&lt;/h2&gt;
+&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Accessibility" /><category term="Usability Study" /><category term="Semi-structured Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><category term="Rehabilitation" /><summary type="html">User perspectives on Robotics for Post-stroke Hand Rehabilitation Nature: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/rehab/hand.jpg" /></entry><entry><title type="html">👋 Exploring hand gestural control for mobile devices</title><link href="http://localhost:4000/gesture/" rel="alternate" type="text/html" title="👋 Exploring hand gestural control for mobile devices" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/gesture</id><content type="html" xml:base="http://localhost:4000/gesture/">&lt;h2 id=&quot;eliciting-user-defined-touch-and-mid-air-gestures-for-co-located-mobile-gaming&quot;&gt;Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;
 &lt;b&gt;Nature: &lt;/b&gt; Academic research&lt;/b&gt;&lt;/p&gt;
 
@@ -711,13 +721,20 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 &lt;/style&gt;
 
 &lt;h2 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Data visualization design&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Data visualization design&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;My role: &lt;/b&gt; Literature Reviewer, Designer, Coder&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;My roles: &lt;/b&gt;  Literature Reviewer, Designer, Coder&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Tools: &lt;/b&gt; Python, Procreate, R, Graphviz&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Tools: &lt;/b&gt; Python, Procreate, R, Graphviz&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 2 weeks&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/dataVis/wall-1.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 
@@ -730,11 +747,17 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive Tangible Prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive Tangible Prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;mudrayama---an-interactive-prototype-to-aid-pranayama-yogic-breathing&quot;&gt;Mudrayama - an interactive prototype to aid pranayama yogic breathing&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Project area: &lt;/b&gt; Physical Prototyping&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Physical Prototyping&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Arduino, sketching, 3D printing, laser cutting&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt;  Arduino, sketching, 3D printing, laser cutting&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 2 months&lt;/b&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;Being one of the main causes of the overall disease, mental health issues (including anxiety, depression) are affecting lives of millions worldwide, especially in young adults. Even though mental illness pose a negative impact on people’s development, there has not been sufficient measures from the tangible to support this issue.
@@ -801,47 +824,60 @@ Ending the sequence with your favorite yoga mudra to show gratitude to yourself.
     &lt;/video&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">Mudrayama - an interactive prototype to aid pranayama yogic breathing Project area: Physical Prototyping</summary></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Research Proposal&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">Mudrayama - an interactive prototype to aid pranayama yogic breathing Nature: Physical Prototyping</summary></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt;  Research Proposal&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Role: &lt;/b&gt; Researcher&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Methods: &lt;/b&gt; Quantitative, Physiological metrics&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Method: &lt;/b&gt; Study design, Literature review, Quantitative, Physiological metrics&lt;/b&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
-&lt;p&gt;In this study, I am interested in understanding how voice control training would impact driving by measuring the physiological state of driver. Skin conductance level was used as a proxy to cognitive workload and stress.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;In this study, I am interested in understanding how voice control training would impact driving by measuring the physiological state of driver. Skin conductance level was used as a proxy to cognitive workload and stress.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Feel free to contact me for more details!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Feel free to contact me for more details!&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/IxSci/drive.jpg&quot; alt=&quot;Markdown Image&quot; /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
-&lt;p&gt;In recent years, the use of voice-based technology in cars has gained popularity as more drivers adopt voice control (VC) to help navigation while driving. In-car VC does not only offer multi-modal navigation ability but also enriches the driving experience by providing wider range of entertainment options (Luger and Sellen, 2016, Strayer et al., 2014). With the increasingly capable VC in car(Strayer et al., 2014), drivers might be encouraged to perform more secondary tasks than driving. Therefore, it is important to recognize VC potential threats to drivers, thereby on-road safety.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;In recent years, the use of voice-based technology in cars has gained popularity as more drivers adopt voice control (VC) to help navigation while driving. In-car VC does not only offer multi-modal navigation ability but also enriches the driving experience by providing wider range of entertainment options (Luger and Sellen, 2016, Strayer et al., 2014). With the increasingly capable VC in car(Strayer et al., 2014), drivers might be encouraged to perform more secondary tasks than driving. Therefore, it is important to recognize VC potential threats to drivers, thereby on-road safety.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Impact of in-car systems on driving performance has been a focus in the research community. Previous research (Reimer et al, 2013, Jensen et al., 2010) consistently showed VC reduced visual interference compared to visual-based systems and induced less driving errors (Liang and Lee, 2010). The above might hint to us the benefits of VC due to reduced visual demand. Nevertheless, cognitive interference from VC system could still impair driving ability, and it remained underexplored in research.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Impact of in-car systems on driving performance has been a focus in the research community. Previous research (Reimer et al, 2013, Jensen et al., 2010) consistently showed VC reduced visual interference compared to visual-based systems and induced less driving errors (Liang and Lee, 2010). The above might hint to us the benefits of VC due to reduced visual demand. Nevertheless, cognitive interference from VC system could still impair driving ability, and it remained underexplored in research.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Meanwhile, studies on VC showed users lacked or had poor mental models of how VC systems work, partially reinforced by the unuseful feedback from VC system (Luger and Sellen, 2016). Even after trial-and-error practice, users still faced obstacles to achieve tasks, thereby spending significant time to alter commands that could achieve their goals (Luna-Garcia et al, 2018). Incorrect use of VC could also distract drivers visually (Reimer et al. 2013). Therefore, it is important that drivers use VC with a better mental model that reduce visual and cognitive interference. Nevertheless, there was a lack of research into how learning to use VC affects driver’s cognitive workload.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Meanwhile, studies on VC showed users lacked or had poor mental models of how VC systems work, partially reinforced by the unuseful feedback from VC system (Luger and Sellen, 2016). Even after trial-and-error practice, users still faced obstacles to achieve tasks, thereby spending significant time to alter commands that could achieve their goals (Luna-Garcia et al, 2018). Incorrect use of VC could also distract drivers visually (Reimer et al. 2013). Therefore, it is important that drivers use VC with a better mental model that reduce visual and cognitive interference. Nevertheless, there was a lack of research into how learning to use VC affects driver’s cognitive workload.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Project type: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Critical Interface Analysis and Redesign&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/b&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Nature: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Nature: &lt;/b&gt; Critical Interface Analysis and Redesign&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; Individual project&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Type: &lt;/b&gt; Individual project&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Methodologies: &lt;/b&gt;  Sketching, observation, heuristic evaluation&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+&lt;b&gt;Duration: &lt;/b&gt; 1 week&lt;/b&gt;&lt;/p&gt;
+
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;b&gt;
 This is a design activity in my Interaction Design class. We first choose a physical interface we use in our daily life that we could improve on, then we perform a heuristic evaluation with regard to human factor concepts. After analysing the interface and locating rooms for improvement, we propose new design or design refinement on the existing interface.
-&lt;/b&gt;
-&lt;b&gt;
-I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via the national rail, and within London via tube and overground services. Purchasing or collecting train tickets at a self-service machine can sometimes be a pain. Although most interaction remains on screen, the design of physical machine can help increase learnability and save commuters’ time, thus avoid long queues at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
-&lt;/b&gt;
-&lt;b&gt;
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
+I decided to evaluate this ticket vending area where I passed by every day. This area is full of passengers commuting to other parts of the UK via the national rail, and within London via tube and overground services. Purchasing or collecting train tickets at a self-service machine can sometimes be a pain. &lt;span class=&quot;evidence&quot;&gt; Although most interaction remains on screen, the design of physical machine can help increase learnability and save commuters’ time&lt;/span&gt;, thus avoid long queues at the ticket office. This is why a user-friendly ticket vending machine is useful in reducing people flow at the station, saving waiting time, and helping us catch the train!
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;
 In short, this redesign project focus on the two parts:
-(1) To critically analyse the existing user interface of a ticket vending machine and point out the potential problems
-(2) To address the identified problems with design improvements of the machine interface
-&lt;/b&gt;
-&lt;br /&gt;
+(1) To &lt;b&gt;critically analyse&lt;/b&gt; the existing user interface of a ticket vending machine and point out the potential problems
+(2) To address the identified problems with &lt;b&gt;design improvements&lt;/b&gt; of the machine interface
+&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
 &lt;b&gt;
 Here is a two-page explanation focusing on the evaluation and design process:
 &lt;/b&gt;&lt;/p&gt;
@@ -860,7 +896,7 @@ Here is a two-page explanation focusing on the evaluation and design process:
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Project type: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Nature: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 
