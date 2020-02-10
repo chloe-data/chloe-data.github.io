@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T13:24:46+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T13:27:34+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;
 &lt;b&gt;Nature: &lt;/b&gt; Mixed-method User Research&lt;/b&gt;&lt;/p&gt;
 
@@ -127,6 +127,10 @@ Each timestamp represent a point of interaction with the dashboard.&lt;/b&gt;&lt
 
 &lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Presenting the findings with another colleague Juspreet, who is responsible for the user need of audit staff. I promise there were at least ten other audiences 😉. &lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Usability" /><category term="Healthcare" /><summary type="html">Realtime Patient Data Dashboard at the ICU Nature: Mixed-method User Research</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/ICU/uclh.jpg" /></entry><entry><title type="html">🤳 Connecting Solo Museum Visitors</title><link href="http://localhost:4000/museum-visitors/" rel="alternate" type="text/html" title="🤳  Connecting Solo Museum Visitors" /><published>2019-08-12T22:44:00+01:00</published><updated>2019-08-12T22:44:00+01:00</updated><id>http://localhost:4000/museum-visitors</id><content type="html" xml:base="http://localhost:4000/museum-visitors/">&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a id=&quot;home&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -380,7 +384,10 @@ Thanks for reading!
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;a href=&quot;#home&quot;&gt;Back to Top&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="User research" /><category term="Qualitative Data Analysis" /><category term="Sketching" /><category term="Wireframing" /><category term="High-fidelity Prototyping" /><category term="Usability Study" /><category term="Interview" /><category term="Observation" /><summary type="html">End-to-end design project: Connecting museum visitors</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/museum/museumhall2.jpg" /></entry><entry><title type="html">💪 Mixed-method UX Study of Stroke Rehab Robotics</title><link href="http://localhost:4000/rehab/" rel="alternate" type="text/html" title="💪 Mixed-method UX Study of Stroke Rehab Robotics" /><published>2019-08-11T22:00:00+01:00</published><updated>2019-08-11T22:00:00+01:00</updated><id>http://localhost:4000/rehab</id><content type="html" xml:base="http://localhost:4000/rehab/">&lt;h2 id=&quot;user-perspectives-on-robotics-for-post-stroke-hand-rehabilitation&quot;&gt;User perspectives on Robotics for Post-stroke Hand Rehabilitation&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;
@@ -744,6 +751,8 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 &lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/yzqpppNM3HIgtV&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 &lt;div style=&quot;margin-bottom:5px&quot;&gt;&lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
 
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Human perception" /><category term="Usability" /><category term="Data" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/" /></entry><entry><title type="html">🧘 ‍Interactive Tangible Prototype</title><link href="http://localhost:4000/pcp/" rel="alternate" type="text/html" title="🧘 ‍Interactive Tangible Prototype" /><published>2019-05-01T22:00:00+01:00</published><updated>2019-05-01T22:00:00+01:00</updated><id>http://localhost:4000/pcp</id><content type="html" xml:base="http://localhost:4000/pcp/">&lt;h3 id=&quot;mudrayama---an-interactive-prototype-to-aid-pranayama-yogic-breathing&quot;&gt;Mudrayama - an interactive prototype to aid pranayama yogic breathing&lt;/h3&gt;
@@ -824,6 +833,10 @@ Ending the sequence with your favorite yoga mudra to show gratitude to yourself.
     &lt;/video&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+
 &lt;hr /&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="proof-of-concept" /><category term="physical prototype" /><category term="3d print" /><category term="laser cut" /><category term="electronics" /><category term="arduino" /><summary type="html">Mudrayama - an interactive prototype to aid pranayama yogic breathing Nature: Physical Prototyping</summary></entry><entry><title type="html">🚘 Voice-interface training in simulated driving</title><link href="http://localhost:4000/vui/" rel="alternate" type="text/html" title="🚘 Voice-interface training in simulated driving" /><published>2018-10-24T22:44:00+01:00</published><updated>2018-10-24T22:44:00+01:00</updated><id>http://localhost:4000/vui</id><content type="html" xml:base="http://localhost:4000/vui/">&lt;h3 id=&quot;effects-of-voice-interface-training-on-driver-cognitive-workload-in-simulated-driving&quot;&gt;Effects of voice-interface training on driver cognitive workload in simulated driving&lt;/h3&gt;
 &lt;p&gt;&lt;b&gt;
 &lt;b&gt;Nature: &lt;/b&gt;  Research Proposal&lt;/b&gt;&lt;/p&gt;
@@ -849,7 +862,11 @@ Ending the sequence with your favorite yoga mudra to show gratitude to yourself.
 
 &lt;p&gt;&lt;b&gt;Understanding the actual impact of VC on cognitive workload and how VC training might ease driver workload could better inform design of in-car voice systems, help build mental model and reduce cognitive workload in drivers, thus improving driving safety.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/b&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Nature: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="research plan" /><category term="physiological metrics" /><category term="voice" /><category term="driving" /><category term="cognitive workload" /><category term="GSR" /><category term="skin conductance" /><category term="quantitative" /><summary type="html">Effects of voice-interface training on driver cognitive workload in simulated driving Nature: Research Proposal</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/IxSci/drive.jpg" /></entry><entry><title type="html">🚉 Self-service Ticket Machine Redesign</title><link href="http://localhost:4000/train-ticket/" rel="alternate" type="text/html" title="🚉 Self-service Ticket Machine Redesign" /><published>2018-08-11T22:00:00+01:00</published><updated>2018-08-11T22:00:00+01:00</updated><id>http://localhost:4000/train-ticket</id><content type="html" xml:base="http://localhost:4000/train-ticket/">&lt;h2 id=&quot;redesigning-a-ticket-machine-at-euston-train-station&quot;&gt;Redesigning a ticket machine at Euston Train Station&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;
 &lt;b&gt;Nature: &lt;/b&gt; Critical Interface Analysis and Redesign&lt;/b&gt;&lt;/p&gt;
 
@@ -872,10 +889,17 @@ I decided to evaluate this ticket vending area where I passed by every day. This
 &lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
-In short, this redesign project focus on the two parts:
-(1) To &lt;b&gt;critically analyse&lt;/b&gt; the existing user interface of a ticket vending machine and point out the potential problems
-(2) To address the identified problems with &lt;b&gt;design improvements&lt;/b&gt; of the machine interface
+In short, this redesign project focus on the two parts:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;To &lt;b&gt;critically analyse&lt;/b&gt; the existing user interface of a ticket vending machine and point out the potential problems&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;To address the identified problems with &lt;b&gt;design improvements&lt;/b&gt; of the machine interface
 &lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;b&gt;
@@ -896,7 +920,11 @@ Here is a two-page explanation focusing on the evaluation and design process:
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
-&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Nature: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+&lt;img alt=&quot;ticket poster&quot; src=&quot;https://chloenhy.github.io/assets/images/train/ticket-machine.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Heuristic Evaluation" /><category term="Critical Interface Analysis" /><category term="Usability Study" /><category term="Sketching techniques" /><category term="Physical Interface" /><summary type="html">Redesigning a ticket machine at Euston Train Station Nature: Critical Interface Analysis and Redesign</summary></entry><entry><title type="html">Markdown Extra Components</title><link href="http://localhost:4000/markdown-extra-components/" rel="alternate" type="text/html" title="Markdown Extra Components" /><published>2016-02-24T22:48:00+00:00</published><updated>2016-02-24T22:48:00+00:00</updated><id>http://localhost:4000/markdown-extra-components</id><content type="html" xml:base="http://localhost:4000/markdown-extra-components/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
 
 &lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
 

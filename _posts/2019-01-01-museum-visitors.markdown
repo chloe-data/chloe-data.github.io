@@ -265,7 +265,9 @@ Thanks for reading!
 <br>
 [Back to Top](#home)
 <br>
-
+<br>
+<br>
+<div class="breaker"></div>
 
 ---
 [1]: https://chloenhy.github.io/assets/images/museum/whiteboard.jpg

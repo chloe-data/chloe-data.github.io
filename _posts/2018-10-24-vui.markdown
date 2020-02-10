@@ -48,4 +48,8 @@ description: Effects of voice-interface training on driver cognitive workload in
 
 <b>In order to explore the potential benefits of VC training, we propose to measure how VC training impact driver cognitive workload in terms of skin conductance level (SCL), a physiological measure with high correlation to stress and cognitive workload (Schnittker, 2012). We propose a controlled study in driving simulator, logging SCL data as participants perform VC tasks while driving. We expect a decline in SCL after training in both high and low workload conditions, indicating that training could assist driver in using VC while driving.
 
+<br>
+<br>
+<div class="breaker"></div>
+
 [1]: https://chloenhy.github.io/assets/images/IxSci/drive.jpg

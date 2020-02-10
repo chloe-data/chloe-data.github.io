@@ -40,8 +40,10 @@ I decided to evaluate this ticket vending area where I passed by every day. This
 
 <b>
 In short, this redesign project focus on the two parts:
-(1) To <b>critically analyse</b> the existing user interface of a ticket vending machine and point out the potential problems
-(2) To address the identified problems with <b>design improvements</b> of the machine interface
+
+1. <b>To <b>critically analyse</b> the existing user interface of a ticket vending machine and point out the potential problems
+
+2. <b>To address the identified problems with <b>design improvements</b> of the machine interface
 </b>
 
 <br>
@@ -65,6 +67,10 @@ Here is a two-page explanation focusing on the evaluation and design process:
 <br>
 <br>
 <img alt="ticket poster" src="https://chloenhy.github.io/assets/images/train/ticket-machine.jpg" />
+
+<br>
+<br>
+<div class="breaker"></div>
 
 [1]: https://chloenhy.github.io/assets/images/train/ticket1.jpg
 [2]: https://chloenhy.github.io/assets/images/train/ticket2.jpg

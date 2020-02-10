@@ -99,6 +99,9 @@ Early Sketches from brainstorming. Sketches that directly informed design of for
     </video>
 </div>
 
+<br>
+<br>
+<div class="breaker"></div>
 
 ---
 [1]: https://chloenhy.github.io/assets/images/pcp/pcp-bird-eye.jpg
