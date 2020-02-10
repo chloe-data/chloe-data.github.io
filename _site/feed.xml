@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T12:34:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T12:54:33+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -516,6 +516,12 @@ I draw upon the widely adopted gesture elicitation methodology to understand use
 
 &lt;p&gt;&lt;b&gt;User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. &lt;span class=&quot;evidence&quot;&gt;Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures&lt;/span&gt; instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;study setup&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/study-setup.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;b&gt;
 I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
 &lt;br /&gt;
@@ -632,8 +638,6 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
     &lt;img alt=&quot;collaborative gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
 &lt;/div&gt;
@@ -648,9 +652,15 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
   &lt;li&gt;
     &lt;p&gt;&lt;b&gt;Participants considered social etiquette when using gesture for a referent that involves a partner.&lt;/b&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;Similar to prior studies, legacy bias affect how participants propose gestures.&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img alt=&quot;transfer gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/transfer-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Similar to prior studies, legacy bias affect how participants propose gestures.&lt;/b&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;implication&quot;&gt;Implication&lt;/h3&gt;

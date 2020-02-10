@@ -64,6 +64,12 @@ I draw upon the widely adopted gesture elicitation methodology to understand use
 
 <b>User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. <span class="evidence">Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures</span> instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.
 
+<br>
+<div style="display: flex; justify-content: center;">
+    <img alt="study setup" src="https://chloenhy.github.io/assets/images/gesture/study-setup.jpg" width="50%" height="50%" />
+</div>
+<br>
+
 <b>
 I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
 <br>
@@ -168,8 +174,6 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 
 - <b>Besides the inclination for “something other than touch” in games, participants preferred gestures that give them a sense of achievement and foster interaction between players. 
 
-<br>
-<br>
 <div style="display: flex; justify-content: center;">
     <img alt="collaborative gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%" />
 </div>
@@ -180,6 +184,11 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 - <b>Participants were enthusiastic about proposing artefact- manipulative gestures and frequently described them as “fun”.
 
 - <b>Participants considered social etiquette when using gesture for a referent that involves a partner.
+
+<br>
+<div style="display: flex; justify-content: center;">
+    <img alt="transfer gestures" src="https://chloenhy.github.io/assets/images/gesture/transfer-gesture.jpg" width="50%" height="50%" />
+</div>
 
 - <b>Similar to prior studies, legacy bias affect how participants propose gestures.
 
