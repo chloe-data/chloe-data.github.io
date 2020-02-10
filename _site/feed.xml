@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-09T22:23:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-10T10:21:24+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chloe Ng</title><subtitle>User researcher</subtitle><entry><title type="html">💊 Patient Data Dashboard at the ICU</title><link href="http://localhost:4000/uclh/" rel="alternate" type="text/html" title="💊 Patient Data Dashboard at the ICU" /><published>2019-08-13T22:00:00+01:00</published><updated>2019-08-13T22:00:00+01:00</updated><id>http://localhost:4000/uclh</id><content type="html" xml:base="http://localhost:4000/uclh/">&lt;h2 id=&quot;realtime-patient-data-dashboard-at-the-icu&quot;&gt;Realtime Patient Data Dashboard at the ICU&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Project type: &lt;/b&gt; Mixed-method User Research&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Team size: &lt;/b&gt; A team of 6 from psychology, computer science and UI design backgrounds&lt;/p&gt;
@@ -486,6 +486,8 @@ Due to the specificity of the recruitment screener and time constraint (finishin
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg&quot; alt=&quot;example gestures&quot; /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;figcaption&gt;Examples of mid-air gestures from the study&lt;/figcaption&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -510,8 +512,9 @@ I draw upon the widely adopted gesture elicitation methodology to understand use
 &lt;p&gt;&lt;b&gt;User elicitation is one form of participatory design to include users’ mental models and proposals in designing new interaction techniques. &lt;span class=&quot;evidence&quot;&gt;Elicitation studies aim to invoke easy-to-learn and memorable user-defined gestures&lt;/span&gt; instead of gestures that are optimised for machine recognition. In an elicitation, participants are asked to propose gestures to achieve tasks (known as referents) in a specified modality.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;
-I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.&lt;/b&gt;&lt;/p&gt;
-
+I conducted a gesture elicitation study for tasks common in a multiplayer card and board game moderated by mobile devices. I recruited 24 participants in pairs. Twelve were working professionals different backgrounds such as analytics, marketing, engineering, clinical settings, and sports. The other twelve were university students in various disciplines.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
 &lt;img alt=&quot;participants&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/participants.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
 &lt;/div&gt;
@@ -539,10 +542,37 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+&lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
+&lt;/div&gt;
+
 &lt;h4 id=&quot;quantitative&quot;&gt;Quantitative&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;A total of 662 gesture proposals, with 286 distinct gestures (by referents) were collected. t-tests were performed to compare gesture proposals between Mid-air and Touch modality.&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; alt=&quot;bar chart of the agreement rates&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;As expected, the average agreement for Touch gestures (ARtouch=0.215) was higher than that for Mid-air gestures (ARmid-air=0.101) i.e.  a wider variety of gesture proposals in the Mid-air modality than in the Touch modality.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Two dichotomous pairs – Give cardtouch / Take cardtouch and Give chiptouch / Take chiptouch show a significant difference in agreement rates. However, we did not see a specific trend in these differences.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg&quot; alt=&quot;bar chart of the agreement rates&quot; /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;In general, participants found it fun to propose gesture by themselves (mean=6.25, SD=0.77) and with a partner (mean=6.55, SD=0.81).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;However, 7 participants found it difficult to suggest gestures (mean=3.41, SD=1.73).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Regarding the final gestures chosen favourite, participants agreed that the set was a good fit for its purpose (mean=6.46, SD=0.58), and to a lesser extent, learnable (mean=5.67, SD=1.40) and easy to perform (mean=5.92, SD=0.95).&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;b&gt; Response was mixed for whether the gestures were tiring to perform (mean=3.5, SD=1.80).&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
   &lt;img alt=&quot;survey&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg&quot; width=&quot;60%&quot; height=&quot;60%&quot; align=&quot;middle&quot; /&gt;
@@ -550,14 +580,29 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 
 &lt;h4 id=&quot;qualitative&quot;&gt;Qualitative&lt;/h4&gt;
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-    &lt;img alt=&quot;example gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
+    &lt;img alt=&quot;collaborative gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;
 &lt;/div&gt;
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img alt=&quot;mid air gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-&lt;img alt=&quot;touch gestures&quot; src=&quot;https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg&quot; /&gt;
-&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;All participants welcomed the idea of using gestures to control mobile devices in a board or card game, but to various extent.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;They welcomed gestural control due to the novelty of alternative gestures and the potential of gesture to streamline the game flow.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Besides the inclination for “something other than touch” in games, participants preferred gestures that give them a sense of achievement and foster interaction between players.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants recognised realistic gestures can assist the game by forming shared situation awareness in all players.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants were enthusiastic about proposing artefact- manipulative gestures and frequently described them as “fun”.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;b&gt;Participants considered social etiquette when using gesture for a referent that involves a partner.&lt;/b&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;The detailed explanation of the agreement rates, taxonomy and gestures are presented in the full paper. Feel free to drop me a message if you are interested in the full paper :)&lt;/p&gt;</content><author><name>chloeng</name></author><category term="project" /><category term="Cross-device" /><category term="Data Visualisation" /><category term="Statistical test" /><category term="Exit Interview" /><category term="Questionnaires" /><category term="Mixed-method" /><summary type="html">Eliciting User-defined Touch and Mid-air Gestures for Co-located Mobile Gaming Nature: Academic research</summary></entry><entry><title type="html">📊 Human-centered Data Visualization</title><link href="http://localhost:4000/dataVis/" rel="alternate" type="text/html" title="📊 Human-centered Data Visualization" /><published>2019-08-10T22:00:00+01:00</published><updated>2019-08-10T22:00:00+01:00</updated><id>http://localhost:4000/dataVis</id><content type="html" xml:base="http://localhost:4000/dataVis/">&lt;style&gt;
     .graph-container {
