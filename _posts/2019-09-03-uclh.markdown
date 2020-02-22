@@ -16,7 +16,7 @@ description: User research at ICU
 
 ## Realtime Patient Data Dashboard at the ICU
 <b>
-<b>Nature: </b> Mixed-method User Research
+<b>Nature: </b> Qualitative Research
 
 <b>
 <b>Type: </b> Team project with 6 members from psychology, computer science and UI design backgrounds

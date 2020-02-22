@@ -22,7 +22,7 @@ description: CaptionThis
 # End-to-end design project: Connecting museum visitors
 
 <b>
-<b>Nature: </b> Full cycle of research: design, testing, iteration, and final prototype
+<b>Nature: </b> Full cycle research: design, testing, iteration, and final prototype
 
 <b>
 <b>Type: </b> Team project with 4 members Juspreet, James, Carol, and myself
