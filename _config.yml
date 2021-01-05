@@ -29,7 +29,7 @@ analytics-google: 'UA-174261894-1'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
+disqus: true
   shortname: chloenhy-github-io # enter this from your disqus account
   categories: # only show disqus for posts that have these categories
 
