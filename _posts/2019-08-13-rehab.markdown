@@ -1,7 +1,7 @@
 ---
 title: "\U0001F4AA Mixed-method UX Study of Stroke Rehab Robotics"
 layout: post
-date: 2019-08-11 22:00
+date: 2019-08-12 20:00
 image: "/assets/images/rehab/hand.jpg"
 tag:
 - Accessibility
