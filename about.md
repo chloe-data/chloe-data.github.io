@@ -2,8 +2,8 @@
 title: About
 layout: page
 ---
-
-# A few things about me  💁
+ 
+# A few things about Chloe  💁
 
 
 <div class="side-by-side">
