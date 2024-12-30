@@ -14,7 +14,7 @@ layout: page
     </div>
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/museum/paperTesting2.jpg">
+        <img src="https://chloe-data.github.io/assets/images/museum/paperTesting2.jpg">
 
     </div>
 </div>
@@ -30,7 +30,7 @@ layout: page
 
     <div class="toright">
       <br><br><br><br>
-      <img class = "image" src="https://chloenhy.github.io/assets/images/about/cisco.jpg" alt="talking to customers in an industry conference">
+      <img class = "image" src="https://chloe-data.github.io/assets/images/about/cisco.jpg" alt="talking to customers in an industry conference">
 
     </div>
 </div>
@@ -45,7 +45,7 @@ layout: page
 
     <div class="toright">
       <br><br><br><br>
-      <img class = "image" src="https://chloenhy.github.io/assets/images/dataVis/wall-2.jpg" alt="chloropleth map on wall with pedestrians passing by">
+      <img class = "image" src="https://chloe-data.github.io/assets/images/dataVis/wall-2.jpg" alt="chloropleth map on wall with pedestrians passing by">
 
     </div>
 </div>
@@ -60,11 +60,11 @@ layout: page
 
     <div class="toright">
         <br><br><br><br>
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-2.jpg" alt="AI in Medicine Conference">
+        <img src="https://chloe-data.github.io/assets/images/about/medtech-2.jpg" alt="AI in Medicine Conference">
 
         <br><br><br><br><br>
 
-        <img src="https://chloenhy.github.io/assets/images/about/medtech-1.jpg" alt="The MedTech team">
+        <img src="https://chloe-data.github.io/assets/images/about/medtech-1.jpg" alt="The MedTech team">
 
     </div>
 </div>
@@ -90,9 +90,9 @@ layout: page
       <h2>Contact me</h2>
       I am always interested to solve design problem through research. Let's get in touch!
       <br><br>
-      <a href = 'mailto:chloengux@gmail.com' target="_blank" >Email</a>
+      <a href = 'mailto:chloe.ng.ux@gmail.com' target="_blank" >Email</a>
       <br><br>
-      <a href = 'https://linkedin.com/in/chloenhy/' target="_blank" >LinkedIn</a>
+      <a href = 'https://linkedin.com/in/chloexng/' target="_blank" >LinkedIn</a>
     </div>
 
     <div class="toright">
@@ -102,6 +102,6 @@ layout: page
 
 <br><br><br>
 
-[1]: https://chloenhy.github.io/assets/images/about/IxDA1.jpg
-[2]: https://chloenhy.github.io/assets/images/about/medtech-3.jpg
-[3]: https://chloenhy.github.io/assets/images/about/cisco.jpg
+[1]: https://chloe-data.github.io/assets/images/about/IxDA1.jpg
+[2]: https://chloe-data.github.io/assets/images/about/medtech-3.jpg
+[3]: https://chloe-data.github.io/assets/images/about/cisco.jpg
