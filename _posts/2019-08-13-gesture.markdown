@@ -21,10 +21,7 @@ description: Gesture Elicitation
 
 <b>
 <b>Method: </b> Questionnaires, interviews, think-aloud, survey, thematic analysis, data visualisation, descriptive statistics, t-tests
-
-<br>
-<br>
-<br>
+    
 <br>
 <br>
 ![example gestures](https://chloe-data.github.io/assets/images/gesture/example-gesture.jpg)
