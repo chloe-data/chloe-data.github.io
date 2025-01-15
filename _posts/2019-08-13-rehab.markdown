@@ -21,7 +21,7 @@ description: Rehab Robotics
 <b>Nature: </b> Mixed-method User Research
 
 <b>
-<b>Methodologies: </b> Validated questionnaires, semi-structured interviews, thematic analysis
+<b>Method: </b> Questionnaires, semi-structured interviews, thematic analysis
 
 
 <img alt="exoskeleton" src="https://chloe-data.github.io/assets/images/rehab/rehab.jpg" />
