@@ -20,13 +20,7 @@ description: Gesture Elicitation
 <b>Nature: </b> Academic research
 
 <b>
-<b>Type: </b> Individual project
-
-<b>
 <b>Methodologies: </b> Questionnaires, interviews, think-aloud, survey, thematic analysis, data visualisation, descriptive statistics, t-tests
-
-<b>
-<b>Duration: </b> 4 months
 
 <b>
 <b>My role: </b> I managed the entire project starting from literature review of past gesture elicitation studies and gestural control. Following the study design, which includes survey design, artifact design, interview script, I went on recruiting participants and carrying out the lab sessions. After collecting video recordings of the elicitation and survey response, I coded the quant/qual data for analysis, subsequently writing up the report.
@@ -37,7 +31,7 @@ description: Gesture Elicitation
 <br>
 <br>
 <br>
-![example gestures](https://chloenhy.github.io/assets/images/gesture/example-gesture.jpg)
+![example gestures](https://chloe-data.github.io/assets/images/gesture/example-gesture.jpg)
 <figcaption>Examples of mid-air gestures from the study</figcaption>
 <br>
 <br>
@@ -66,7 +60,7 @@ I draw upon the widely adopted gesture elicitation methodology to understand use
 
 <br>
 <div style="display: flex; justify-content: center;">
-    <img alt="study setup" src="https://chloenhy.github.io/assets/images/gesture/study-setup.jpg" width="50%" height="50%" />
+    <img alt="study setup" src="https://chloe-data.github.io/assets/images/gesture/study-setup.jpg" width="50%" height="50%" />
 </div>
 <br>
 
@@ -75,7 +69,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 <br>
 <br>
 <div style="display: flex; justify-content: center;">
-<img alt="participants" src="https://chloenhy.github.io/assets/images/gesture/participants.jpg" width="60%" height="60%" align="middle"/>
+<img alt="participants" src="https://chloe-data.github.io/assets/images/gesture/participants.jpg" width="60%" height="60%" align="middle"/>
 </div>
 <br>
 <figcaption>One of the participant pairs proposing gestures</figcaption>
@@ -94,7 +88,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 <b>All gestures were coded and fed into the <a href="http://depts.washington.edu/acelab/proj/dollar/agate.html" target="_blank">AGAte 2.0 tool</a> for <b>agreement rate</b> calculation.
 <br>
 <br>
-![AGAte 2.0 tool screenshot](https://chloenhy.github.io/assets/images/gesture/agate.jpg)
+![AGAte 2.0 tool screenshot](https://chloe-data.github.io/assets/images/gesture/agate.jpg)
 <figcaption>Screenshot of the AGAte software for analysing the agreement rates among gestures</figcaption>
 <br>
 <br>
@@ -103,10 +97,10 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 ### Results
 <b>The final consensus gesture set:
 <div style="display: flex; justify-content: center;">
-<img alt="mid air gestures" src="https://chloenhy.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
+<img alt="mid air gestures" src="https://chloe-data.github.io/assets/images/gesture/mid-air-gesture.jpg"/>
 </div>
 <div style="display: flex; justify-content: center;">
-<img alt="touch gestures" src="https://chloenhy.github.io/assets/images/gesture/touch-gesture.jpg"/>
+<img alt="touch gestures" src="https://chloe-data.github.io/assets/images/gesture/touch-gesture.jpg"/>
 </div>
 
 
@@ -124,7 +118,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 <br>
 <br>
 
-![bar chart of the agreement rates](https://chloenhy.github.io/assets/images/gesture/agreement-rates.jpg)
+![bar chart of the agreement rates](https://chloe-data.github.io/assets/images/gesture/agreement-rates.jpg)
 
 
 <br>
@@ -140,7 +134,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 - <b> Response was mixed for whether the gestures were tiring to perform (mean=3.5, SD=1.80).
 
 <div style="display: flex; justify-content: center;">
-  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/gesture-survey.jpg" width="60%" height="60%" align="middle"/>
+  <img alt="survey" src="https://chloe-data.github.io/assets/images/gesture/gesture-survey.jpg" width="60%" height="60%" align="middle"/>
 </div>
 <br>
 <br>
@@ -150,15 +144,15 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 
 <b>Findings from the taxonomy are omitted in this post.
 <div style="display: flex; justify-content: center;">
-  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/overall-taxonomy.jpg" width="60%" height="60%" align="middle"/>
+  <img alt="survey" src="https://chloe-data.github.io/assets/images/gesture/overall-taxonomy.jpg" width="60%" height="60%" align="middle"/>
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/nature-temporalflow.jpg" width="60%" height="60%" align="middle"/>
+  <img alt="survey" src="https://chloe-data.github.io/assets/images/gesture/nature-temporalflow.jpg" width="60%" height="60%" align="middle"/>
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img alt="survey" src="https://chloenhy.github.io/assets/images/gesture/actor.jpg" width="60%" height="60%" align="middle"/>
+  <img alt="survey" src="https://chloe-data.github.io/assets/images/gesture/actor.jpg" width="60%" height="60%" align="middle"/>
 </div>
 <br>
 <br>
@@ -175,7 +169,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 - <b>Besides the inclination for “something other than touch” in games, participants preferred gestures that give them a sense of achievement and foster interaction between players. 
 
 <div style="display: flex; justify-content: center;">
-    <img alt="collaborative gestures" src="https://chloenhy.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%" />
+    <img alt="collaborative gestures" src="https://chloe-data.github.io/assets/images/gesture/collab-gesture.jpg" width="50%" height="50%" />
 </div>
 
 
@@ -187,7 +181,7 @@ I conducted a gesture elicitation study for tasks common in a multiplayer card a
 
 <br>
 <div style="display: flex; justify-content: center;">
-    <img alt="transfer gestures" src="https://chloenhy.github.io/assets/images/gesture/transfer-gesture.jpg" width="50%" height="50%" />
+    <img alt="transfer gestures" src="https://chloe-data.github.io/assets/images/gesture/transfer-gesture.jpg" width="50%" height="50%" />
 </div>
 
 - <b>Similar to prior studies, legacy bias affect how participants propose gestures.
