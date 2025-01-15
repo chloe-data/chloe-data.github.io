@@ -21,18 +21,10 @@ description: Rehab Robotics
 <b>Nature: </b> Mixed-method User Research
 
 <b>
-<b>Type: </b> Individual project
-
-<b>
 <b>Methodologies: </b> Validated questionnaires, semi-structured interviews, thematic analysis
 
-<b>
-<b>Duration: </b> 4 months
 
-
-
-
-<img alt="exoskeleton" src="https://chloenhy.github.io/assets/images/rehab/rehab.jpg" />
+<img alt="exoskeleton" src="https://chloe-data.github.io/assets/images/rehab/rehab.jpg" />
 ## Overview
 <b>This is an individual user research project on assistive technology. The project started with my personal interests in how technology can help with people affected by various neurological issues, both as a patient and as a caregiver. I conducted literature review on rehabilitation, biomedical engineering, and wearable technology to understand the status quo and the research gap. The resulting paper was accepted by ACM SIGACCESS Conference on Computers and Accessibility Student Research Competition 2019.
 
@@ -100,10 +92,10 @@ Due to the specificity of the recruitment screener and time constraint (finishin
         <p><b> As of 13 August 2019, this work has been conditionally accepted to <a href="https://assets19.sigaccess.org/index.html"  target="_blank">ACM SIGACCESS</a> Conference on Computers and Accessibility SRC. 🎉</b></p>
     </div>
     <div class="toright">
-        <img src="https://chloenhy.github.io/assets/images/rehab/poster.jpg" alt="presentation poster" size="100%"/>
+        <img src="https://chloe-data.github.io/assets/images/rehab/poster.jpg" alt="presentation poster" size="100%"/>
     </div>
 </div>
 <div class="breaker">
 </div>
 
-[1]: https://chloenhy.github.io/assets/images/rehab/combined.png
+[1]: https://chloe-data.github.io/assets/images/rehab/combined.png
