@@ -72,5 +72,5 @@ Here is a two-page explanation focusing on the evaluation and design process:
 <br>
 <div class="breaker"></div>
 
-[1]: https://chloenhy.github.io/assets/images/train/ticket1.jpg
-[2]: https://chloenhy.github.io/assets/images/train/ticket2.jpg
+[1]: https://chloe-data.github.io/assets/images/train/ticket1.jpg
+[2]: https://chloe-data.github.io/assets/images/train/ticket2.jpg
