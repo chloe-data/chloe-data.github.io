@@ -1,7 +1,7 @@
 ---
 title: "\U0001F933  Connecting Solo Museum Visitors"
 layout: post
-date: 2019-08-12 22:44
+date: 2018-10-22 22:44
 image: "/assets/images/museum/museumhall2.jpg"
 tag:
 - Field research
