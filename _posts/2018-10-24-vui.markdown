@@ -24,10 +24,6 @@ description: Effects of voice-interface training on driver cognitive workload in
 <b>Nature: </b>  Research Proposal
 
 <b>
-<b>Type: </b> Individual project
-
-
-<b>
 <b>Method: </b> Study design, Literature review, Quantitative, Physiological metrics
 
 
@@ -52,4 +48,4 @@ description: Effects of voice-interface training on driver cognitive workload in
 <br>
 <div class="breaker"></div>
 
-[1]: https://chloenhy.github.io/assets/images/IxSci/drive.jpg
+[1]: https://chloe-data.github.io/assets/images/IxSci/drive.jpg
