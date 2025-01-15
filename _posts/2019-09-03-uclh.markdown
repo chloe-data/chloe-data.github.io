@@ -19,17 +19,7 @@ description: User research at ICU
 <b>Nature: </b> Qualitative Research
 
 <b>
-<b>Type: </b> Team project with 6 members from psychology, computer science and UI design backgrounds
-
-<b>
-<b>Methodologies: </b> Field visit, semi-structured interview, thematic analysis, observation
-
-<b>
-<b>Duration: </b> 4 months
-
-<b>
-<b>My role: </b> User Researcher
-
+<b>Method: </b> Field visit, semi-structured interview, thematic analysis, observation
 
 
 ![Markdowm Image][1]
