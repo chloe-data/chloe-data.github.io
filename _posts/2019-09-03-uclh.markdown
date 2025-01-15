@@ -20,6 +20,7 @@ description: User research at ICU
 
 <b>
 <b>Method: </b> Field visit, semi-structured interview, thematic analysis, observation
+</b>
 
 
 ![Markdowm Image][1]
