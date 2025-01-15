@@ -160,8 +160,8 @@ Each timestamp represent a point of interaction with the dashboard.
 <div class="breaker"></div>
 
 ---
-[1]: https://chloenhy.github.io/assets/images/ICU/uclh1.png
-[2]: https://chloenhy.github.io/assets/images/ICU/icu_dashboard.png
-[3]: https://chloenhy.github.io/assets/images/ICU/uclh3.png
-[4]: https://chloenhy.github.io/assets/images/ICU/maps.png
-[5]: https://chloenhy.github.io/assets/images/ICU/ICU-presentation.png
+[1]: https://chloe-data.github.io/assets/images/ICU/uclh1.png
+[2]: https://chloe-data.github.io/assets/images/ICU/icu_dashboard.png
+[3]: https://chloe-data.github.io/assets/images/ICU/uclh3.png
+[4]: https://chloe-data.github.io/assets/images/ICU/maps.png
+[5]: https://chloe-data.github.io/assets/images/ICU/ICU-presentation.png
