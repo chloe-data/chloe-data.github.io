@@ -25,14 +25,7 @@ description: CaptionThis
 <b>Nature: </b> Full cycle research: design, testing, iteration, and final prototype
 
 <b>
-<b>Type: </b> Team project with 4 members Juspreet, James, Carol, and myself
-(from psychology, industrial design, and computer science backgrounds)
-
-<b>
-<b>Methodologies: </b> Survey, field research, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
-
-<b>
-<b>Duration: </b> 4 months
+<b>Methods: </b> Survey, field research, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
 
 <b>
 <b>My role: </b> User Researcher, ideation and prototyper
