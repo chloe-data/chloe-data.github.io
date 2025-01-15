@@ -4,7 +4,7 @@ layout: post
 date: 2019-08-12 22:44
 image: "/assets/images/museum/museumhall2.jpg"
 tag:
-- User research
+- Field research
 - Qualitative Data Analysis
 - Sketching
 - Wireframing
@@ -29,7 +29,7 @@ description: CaptionThis
 (from psychology, industrial design, and computer science backgrounds)
 
 <b>
-<b>Methodologies: </b> Survey, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
+<b>Methodologies: </b> Survey, field research, interview, qualitative data analysis, sketching, wireframing, lo-fi prototyping, usability test
 
 <b>
 <b>Duration: </b> 4 months
@@ -67,7 +67,7 @@ This project aimed to design a solution allowing museum visitors to interact wit
 <b>60 responses from questionnaire
 
 ![Markdown Image][1]
-<figcaption>My teammate and I organising questionnaire data.</figcaption>
+<figcaption></figcaption>
 <br><br>
 <b>
 To begin to develop an understanding of our users’ needs, we constructed a questionnaire consisting of both open and closed questions. The questions explored general themes relating to visiting frequencies and durations, motivations for visiting, and issues surrounding comfortable interaction with others. We recruited people online and in-person outside of art museums in London, resulting in a total of 60 responses.
@@ -195,12 +195,12 @@ We then moved on to discuss the pros and cons of each design and put forward a c
 <br>
 #### Internal evaluation of prototype
 <b>
-Each of our team members took turn to explain the mentla models behind our designs. We discussed and critiqued each other's work. Eventually came up with minimum viable prototypes (MVP) for further testing.
+We explained the mental models behind our designs. We discussed and critiqued each other's work. Eventually came up with minimum viable prototypes (MVP) for further testing.
 </b>
 <br>
 <br>
 ![Markdown Image][5]
-<figcaption>Discussion and evaluation of wireframes with my teammates.</figcaption>
+<figcaption>Discussion and evaluation of wireframes</figcaption>
 
 <br>
 <br>
@@ -217,7 +217,7 @@ I co-led usability tests with our user group using paper prototype. This informe
 <br>
 <br>
 ![Markdown Image][7]
-<figcaption>During usability testing, I led one of the session by introducing the paper prototype, then I observed how participants interact with the prototype, following up with questions.</figcaption>
+<figcaption>Usability session in progress</figcaption>
 <br>
 <br>
 <b>
@@ -255,7 +255,7 @@ We incorporated the feedback on full-screen message notification into our final 
 
 ![Markdown Image][12]
 ![Markdown Image][13]
-<figcaption>Snapshots of how the prototype can be used in a museum. Credits to Yuqi for video editing, Juspreet and James for acting.</figcaption>
+<figcaption>Snapshots of how the prototype can be used in a museum. Credits to the team effort by Yuqi, Juspreet and James.</figcaption>
 <br>
 <br>
 <b>
@@ -270,25 +270,25 @@ Thanks for reading!
 <div class="breaker"></div>
 
 ---
-[1]: https://chloenhy.github.io/assets/images/museum/whiteboard.jpg
-[2]: https://chloenhy.github.io/assets/images/museum/museumhall2.jpg
-[3]: https://chloenhy.github.io/assets/images/museum/quotes.png
-[4]: https://chloenhy.github.io/assets/images/museum/museumSketch.png
+[1]: https://chloe-data.github.io/assets/images/museum/whiteboard.jpg
+[2]: https://chloe-data.github.io/assets/images/museum/museumhall2.jpg
+[3]: https://chloe-data.github.io/assets/images/museum/quotes.png
+[4]: https://chloe-data.github.io/assets/images/museum/museumSketch.png
 
-[5]: https://chloenhy.github.io/assets/images/museum/prototypeDiscussion.jpg
-[6]: https://chloenhy.github.io/assets/images/museum/museumPrototype.png
-[7]: https://chloenhy.github.io/assets/images/museum/paperTesting.jpg
+[5]: https://chloe-data.github.io/assets/images/museum/prototypeDiscussion.jpg
+[6]: https://chloe-data.github.io/assets/images/museum/museumPrototype.png
+[7]: https://chloe-data.github.io/assets/images/museum/paperTesting.jpg
 
 
 
-[9]: https://chloenhy.github.io/assets/images/museum/museumhall.jpg
-[10]: https://chloenhy.github.io/assets/images/museum/affinity.jpg
-[11]: https://chloenhy.github.io/assets/images/museum/final1.png
-[12]: https://chloenhy.github.io/assets/images/museum/final2.png
-[13]: https://chloenhy.github.io/assets/images/museum/final3.png
+[9]: https://chloe-data.github.io/assets/images/museum/museumhall.jpg
+[10]: https://chloe-data.github.io/assets/images/museum/affinity.jpg
+[11]: https://chloe-data.github.io/assets/images/museum/final1.png
+[12]: https://chloe-data.github.io/assets/images/museum/final2.png
+[13]: https://chloe-data.github.io/assets/images/museum/final3.png
 
-[14]: https://chloenhy.github.io/assets/images/museum/gallery.jpg
-[15]: https://chloenhy.github.io/assets/images/museum/storyboard.png
-[16]: https://chloenhy.github.io/assets/images/museum/low-fi.png
-[17]: https://chloenhy.github.io/assets/images/museum/mid-fi.png
-[18]: https://chloenhy.github.io/assets/images/museum/design-funnel.png
+[14]: https://chloe-data.github.io/assets/images/museum/gallery.jpg
+[15]: https://chloe-data.github.io/assets/images/museum/storyboard.png
+[16]: https://chloen-data.github.io/assets/images/museum/low-fi.png
+[17]: https://chloe-data.github.io/assets/images/museum/mid-fi.png
+[18]: https://chloe-data.github.io/assets/images/museum/design-funnel.png
